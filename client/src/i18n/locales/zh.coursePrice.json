@@ -1,0 +1,15 @@
+{
+  "coursePrice": {
+    "title": "价格",
+    "hint": "为每种销售货币设置价格。0 表示不在该货币下销售。",
+    "jpyLabel": "JPY 价格（银行卡和现金）",
+    "jpyHint": "整数日元，例如 5000",
+    "usdLabel": "USD 价格（银行卡）",
+    "usdHint": "整数美元，例如 50",
+    "invalid": "请输入 0 或更大的整数",
+    "tooHighJPY": "JPY 价格最高为 1,000,000",
+    "tooHighUSD": "USD 价格最高为 10,000",
+    "note": "学员报名前，付款需经管理员审核通过。",
+    "free": "免费"
+  }
+}

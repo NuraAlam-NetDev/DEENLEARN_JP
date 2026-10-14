@@ -1,0 +1,13 @@
+{ "shared": {
+  "modal": { "close": "बंद करें" },
+  "confirm": { "title": "क्या आप निश्चित हैं?", "confirm": "पुष्टि करें", "cancel": "रद्द करें" },
+  "pagination": { "label": "पृष्ठ नेविगेशन", "previous": "पिछला", "next": "अगला", "pageOf": "पृष्ठ {{page}} / {{pages}}" },
+  "progress": { "label": "प्रगति", "complete": "{{pct}}% पूरा" },
+  "spinner": { "loading": "लोड हो रहा है" },
+  "editor": {
+    "label": "पाठ की सामग्री", "toolbar": "फ़ॉर्मेटिंग", "bold": "बोल्ड", "italic": "इटैलिक", "underline": "अंडरलाइन",
+    "heading": "शीर्षक", "subheading": "उप-शीर्षक", "bulletList": "बुलेट सूची", "numberedList": "क्रमांकित सूची",
+    "quote": "उद्धरण", "link": "लिंक", "undo": "पूर्ववत करें", "redo": "फिर से करें", "bulletText": "• सूची",
+    "numberedText": "1. सूची", "linkPrompt": "लिंक का पता (https://…)। लिंक हटाने के लिए खाली छोड़ें।"
+  }
+} }

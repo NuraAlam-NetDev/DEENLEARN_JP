@@ -1,0 +1,86 @@
+{
+  "reader": {
+    "nav": {
+      "prev": "前へ",
+      "next": "次へ",
+      "prevAria": "前のレッスン: {{title}}",
+      "nextAria": "次のレッスン: {{title}}",
+      "back": "マイコースに戻る",
+      "myCourses": "マイコース",
+      "breadcrumb": "現在の場所"
+    },
+    "lesson": {
+      "position": "レッスン {{n}} / {{total}}",
+      "completed": "完了",
+      "notFoundTitle": "レッスンが見つかりません",
+      "notFoundText": "このレッスンは削除されたようです。",
+      "enrollTitle": "このレッスンを読むには登録が必要です",
+      "enrollText": "まずこのコースに登録してください。",
+      "viewCourse": "コースを見る",
+      "loadError": "このレッスンを読み込めませんでした。",
+      "bookmarkAdd": "このレッスンをブックマーク",
+      "bookmarkRemove": "ブックマークを削除",
+      "complete": "完了にする",
+      "undo": "完了済み",
+      "undoTitle": "クリックで完了を取り消します",
+      "passQuizFirst": "先にクイズに合格してください",
+      "courseDone": "このコースを修了しました。マシャアッラー！",
+      "lessonDone": "レッスンを完了にしました。",
+      "lessonUndone": "レッスンの完了を取り消しました。",
+      "bookmarked": "レッスンをブックマークしました。",
+      "bookmarkRemoved": "ブックマークを削除しました。",
+      "quizRequired": "このレッスンには必須のクイズがあります。完了にするには合格してください。",
+      "openQuiz": "クイズを開く"
+    },
+    "course": {
+      "enrollTitle": "このコースを読むには登録が必要です",
+      "enrollText": "レッスンは登録済みの受講者のみ利用できます。",
+      "notFoundTitle": "コースが見つかりません",
+      "notFoundText": "このコースは存在しません。",
+      "loadError": "このコースを読み込めませんでした。",
+      "finished": "このコースを修了しました。マシャアッラー！",
+      "getCertificate": "修了証を受け取る",
+      "lessonsHeading": "レッスン",
+      "progressLabel": "コースの進捗",
+      "done_one": "{{total}}件中{{done}}件のレッスンが完了",
+      "done_other": "{{total}}件中{{done}}件のレッスンが完了",
+      "noLessons": "まだレッスンがありません。",
+      "doneShort": "{{done}}/{{total}} 完了",
+      "article": "レッスン"
+    },
+    "list": {
+      "completedSr": "（完了）",
+      "bookmarkedSr": "（ブックマーク済み）"
+    },
+    "study": {
+      "quiz": "クイズ",
+      "notes": "マイノート",
+      "qa": "Q&A",
+      "required": "必須",
+      "hintWithQuiz": "クイズに答えたり、個人メモを書いたり、このレッスンについて質問したりできます。",
+      "hintNoQuiz": "個人メモを書いたり、このレッスンについて質問したりできます。",
+      "label": "学習ツール",
+      "quizUnavailable": "このクイズは利用できません。"
+    },
+    "notes": {
+      "label": "このレッスンの個人メモ",
+      "hint": "あなただけが見られます。保存するには Ctrl+Enter（または Cmd+Enter）を押してください。",
+      "placeholder": "覚えておきたいことを書いてください…",
+      "save": "メモを保存",
+      "delete": "メモを削除",
+      "unsaved": "未保存の変更",
+      "savedAt": "{{date}}に保存",
+      "saved": "メモを保存しました。",
+      "deleted": "メモを削除しました。",
+      "confirmTitle": "このメモを削除しますか？",
+      "confirmText": "このレッスンのメモが削除されます。元に戻せません。",
+      "loadError": "メモを読み込めませんでした。"
+    },
+    "content": {
+      "watchVideo": "レッスンの動画を見る",
+      "files": "ファイル",
+      "noContent": "このレッスンにはまだ内容がありません。",
+      "videoTitle": "レッスン動画"
+    }
+  }
+}

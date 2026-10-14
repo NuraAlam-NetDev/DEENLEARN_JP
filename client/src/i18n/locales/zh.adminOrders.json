@@ -1,0 +1,24 @@
+{
+  "adminOrders": {
+    "nav": "付款审批",
+    "title": "付款审批",
+    "subtitle": "核实交易后，批准报名或附理由拒绝。",
+    "search": "按交易编号搜索",
+    "txn": "交易编号",
+    "requested": "申请时间",
+    "approve": "批准",
+    "reject": "拒绝",
+    "confirmApprove": "批准 {{name}} 报名“{{course}}”？学员将被加入课程。",
+    "rejectPrompt": "拒绝此付款的原因（至少 3 个字）",
+    "approvedToast": "报名已批准。",
+    "rejectedToast": "付款已拒绝。",
+    "emptyTitle": "暂无待审批",
+    "emptyText": "等待审批的付款会显示在这里。",
+    "tabWaiting": "等待中",
+    "tabHistory": "我的决定",
+    "historyEmpty": "暂无决定",
+    "historyEmptyText": "您批准或拒绝的付款会显示在这里。",
+    "decidedOn": "决定时间",
+    "reasonLabel": "原因"
+  }
+}

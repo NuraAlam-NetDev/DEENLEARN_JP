@@ -1,0 +1,25 @@
+{
+  "progress": {
+    "nav": "学员进度",
+    "title": "学员进度",
+    "subtitle": "查看学员的课时、测验、分数和证书。",
+    "search": "按学员姓名或邮箱搜索",
+    "course": "课程",
+    "allCourses": "全部课程",
+    "back": "返回学员列表",
+    "viewReport": "查看报告",
+    "lessons": "已完成 {{done}} / {{total}} 课时",
+    "passed": "通过 {{n}} 个",
+    "cols": {
+      "student": "学员",
+      "course": "课程",
+      "progress": "进度",
+      "quizzes": "测验",
+      "lastActive": "最近活动"
+    },
+    "empty": {
+      "title": "暂无学员",
+      "text": "报名您课程的学员会显示在这里。"
+    }
+  }
+}

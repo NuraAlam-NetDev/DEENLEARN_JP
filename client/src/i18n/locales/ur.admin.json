@@ -1,0 +1,29 @@
+{ "admin": {
+  "layout": { "overview": "جائزہ", "users": "صارفین", "courses": "کورسز", "admins": "ایڈمنز" },
+  "home": {
+    "title": "ایڈمن جائزہ", "users": "صارفین", "newWeek": "اس ہفتے {{n}} نئے", "students": "طلبہ",
+    "teachers": "ٹیچرز", "pendingTeachers": "زیر التوا ٹیچرز", "banned": "پابندی شدہ صارفین", "courses": "کورسز",
+    "coursesHint": "{{n}} شائع شدہ", "lessons": "اسباق", "enrollments": "داخلے", "enrollHint": "{{n}} مکمل"
+  },
+  "roles": { "student": "طالب علم", "teacher": "ٹیچر", "admin": "ایڈمن", "super_admin": "سپر ایڈمن" },
+  "users": {
+    "title": "صارفین", "searchPlaceholder": "نام یا ای میل سے تلاش کریں", "allRoles": "تمام کردار",
+    "anyApproval": "کوئی بھی منظوری", "pendingTeachers": "زیر التوا ٹیچرز", "approved": "منظور شدہ", "rejected": "مسترد",
+    "anyStatus": "کوئی بھی حالت", "active": "فعال", "banned": "پابندی شدہ", "empty": "کوئی صارف نہیں ملا",
+    "emptyText": "کوئی اور تلاش یا فلٹر آزمائیں۔", "pendingBadge": "زیر التوا", "rejectedBadge": "مسترد",
+    "bannedBadge": "پابندی شدہ", "approve": "منظور کریں", "reject": "مسترد کریں", "ban": "پابندی لگائیں",
+    "unban": "پابندی ہٹائیں", "changeRole": "{{name}} کا کردار تبدیل کریں",
+    "confirmBan": "{{name}} پر پابندی لگائیں؟ انہیں لاگ آؤٹ کر دیا جائے گا اور وہ لاگ ان نہیں کر سکیں گے۔",
+    "confirmReject": "{{name}} کی ٹیچر درخواست مسترد کریں؟", "confirmRole": "{{name}} کو {{role}} بنائیں؟",
+    "bannedToast": "صارف پر پابندی لگا دی گئی", "unbannedToast": "صارف پر سے پابندی ہٹا دی گئی",
+    "approvedToast": "ٹیچر منظور ہو گیا", "rejectedToast": "درخواست مسترد ہو گئی", "roleUpdated": "کردار اپ ڈیٹ ہو گیا"
+  },
+  "admins": {
+    "title": "ایڈمنز", "createTitle": "ایڈمن بنائیں", "createSubtitle": "نیا ایڈمن اسی ای میل اور پاس ورڈ سے لاگ ان کرے گا۔",
+    "name": "نام", "email": "ای میل", "tempPassword": "عارضی پاس ورڈ", "createButton": "ایڈمن بنائیں",
+    "creating": "بن رہا ہے…", "currentTitle": "موجودہ ایڈمنز", "emptyTitle": "ابھی کوئی ایڈمن نہیں",
+    "emptyText": "فارم سے پہلا ایڈمن بنائیں۔", "remove": "ہٹائیں",
+    "confirmRemove": "{{name}} سے ایڈمن کے حقوق ہٹائیں؟ وہ طالب علم بن جائیں گے۔",
+    "removed": "ایڈمن کے حقوق ہٹا دیے گئے", "created": "ایڈمن بن گیا"
+  }
+} }

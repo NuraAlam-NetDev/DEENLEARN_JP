@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "main": "Main",
+    "home": "Home",
+    "courses": "Courses",
+    "status": "Status",
+    "design": "Design",
+    "dashboard": "Dashboard",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "language": {
+    "label": "Language"
+  },
+  "common": {
+    "loading": "Loading…"
+  },
+  "footer": {
+    "tagline": "Structured Islamic courses, taught by approved teachers, at your own pace.",
+    "explore": "Explore",
+    "home": "Home",
+    "courses": "Courses",
+    "systemStatus": "System status",
+    "account": "Account",
+    "myDashboard": "My dashboard",
+    "login": "Login",
+    "createAccount": "Create an account",
+    "rights": "© {{year}} Deenlearn. All rights reserved."
+  },
+  "auth": {
+    "loginTitle": "Welcome back",
+    "loginSubtitle": "Login to continue learning.",
+    "email": "Email",
+    "password": "Password",
+    "loginButton": "Login",
+    "loggingIn": "Logging in…",
+    "newHere": "New here?",
+    "createAccount": "Create an account",
+    "registerTitle": "Create your account",
+    "registerSubtitle": "Join to learn, or to teach.",
+    "name": "Name",
+    "passwordHint": "8 to 72 characters, with a letter and a number.",
+    "iWantTo": "I want to",
+    "learn": "Learn",
+    "teach": "Teach",
+    "teacherNote": "Teacher accounts need admin approval before you can publish courses.",
+    "registerButton": "Register",
+    "creating": "Creating…",
+    "alreadyRegistered": "Already registered?",
+    "welcomeToast": "Welcome to Deenlearn!",
+    "accountCreated": "Account created",
+    "teacherWaitingToast": "Your teacher account is waiting for admin approval."
+  }
+}

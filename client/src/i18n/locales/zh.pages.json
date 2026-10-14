@@ -1,0 +1,78 @@
+{
+  "validation": {
+    "name": {
+      "required": "请输入姓名",
+      "min": "姓名至少 {{n}} 个字符",
+      "max": "姓名最多 {{n}} 个字符"
+    },
+    "email": {
+      "required": "请输入邮箱",
+      "invalid": "请输入有效的邮箱地址"
+    },
+    "password": {
+      "required": "请输入密码",
+      "min": "密码至少 {{n}} 个字符",
+      "max": "密码最多 {{n}} 个字符",
+      "letter": "密码必须包含一个字母 (A-Z)",
+      "number": "密码必须包含一个数字"
+    },
+    "newPassword": {
+      "required": "请输入新密码",
+      "min": "新密码至少 {{n}} 个字符",
+      "max": "新密码最多 {{n}} 个字符",
+      "letter": "新密码必须包含一个字母 (A-Z)",
+      "number": "新密码必须包含一个数字",
+      "sameAsCurrent": "新密码必须与当前密码不同"
+    },
+    "currentPassword": {
+      "required": "请输入当前密码"
+    },
+    "confirmPassword": {
+      "required": "请再次输入新密码",
+      "mismatch": "两次输入的密码不一致"
+    }
+  },
+  "home": {
+    "heroTitle": "一步一步学习您的宗教",
+    "heroText": "由认证讲师授课的系统伊斯兰课程，按自己的节奏学习。",
+    "browse": "浏览课程",
+    "myDashboard": "我的控制台",
+    "createAccount": "创建账户",
+    "whyTitle": "为什么选择 Deenlearn",
+    "f1Title": "按自己的节奏学习",
+    "f1Text": "逐节课学习，看着自己的进度不断增长。",
+    "f2Title": "可信赖的讲师",
+    "f2Text": "每位讲师在发布前都经过管理员审核。",
+    "f3Title": "文字、PDF 和音频",
+    "f3Text": "课程可以包含阅读材料、文档、图片和诵读音频。",
+    "f4Title": "适用于所有屏幕",
+    "f4Text": "可在手机、平板或电脑上学习，支持从左到右或从右到左的文字。",
+    "popularTitle": "热门课程",
+    "popularText": "大多数学习者都参加过的课程。",
+    "viewAll": "查看全部",
+    "howTitle": "使用流程",
+    "s1Title": "创建账户",
+    "s1Text": "不到一分钟即可注册为学生。",
+    "s2Title": "选择课程",
+    "s2Text": "搜索或筛选课程目录，打开课程查看课时。",
+    "s3Title": "报名并学习",
+    "s3Text": "加入课程，按顺序完成各课时。",
+    "s4Title": "跟踪进度",
+    "s4Text": "标记课时完成，并在控制台查看完成百分比。",
+    "readyTitle": "准备好开始了吗？",
+    "readyText": "创建账户，今天就开始您的第一门课程。",
+    "getStarted": "开始使用",
+    "haveAccount": "我已有账户"
+  },
+  "status": {
+    "title": "系统状态",
+    "online": "在线",
+    "degraded": "降级运行",
+    "apiUnreachable": "无法连接 API：{{error}}"
+  },
+  "notFound": {
+    "title": "页面未找到",
+    "text": "您访问的页面不存在或已被移动。",
+    "back": "返回首页"
+  }
+}

@@ -1,0 +1,59 @@
+
+services:
+  - type: web
+    name: deenlearn-api
+    runtime: node
+    rootDir: server
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/health
+    plan: free
+
+    envVars:
+      - key: NODE_ENV
+        value: production
+
+      - key: NODE_VERSION
+        value: "20"
+
+      - key: MONGODB_URI
+        sync: false
+
+      - key: JWT_ACCESS_SECRET
+        generateValue: true
+
+      - key: JWT_REFRESH_SECRET
+        generateValue: true
+
+      - key: CLIENT_ORIGIN
+        sync: false
+
+      - key: CLIENT_URL
+        sync: false
+
+      - key: PUBLIC_API_URL
+        sync: false
+
+      - key: COOKIE_SAMESITE
+        value: lax
+
+      - key: CLOUDINARY_URL
+        sync: false
+
+      - key: MAX_FILE_MB
+        value: "25"
+
+      - key: SSLCOMMERZ_SANDBOX
+        value: "true"
+
+      - key: SSLCOMMERZ_STORE_ID
+        sync: false
+
+      - key: SSLCOMMERZ_STORE_PASSWD
+        sync: false
+
+      - key: STRIPE_SECRET_KEY
+        sync: false
+
+      - key: STRIPE_WEBHOOK_SECRET
+        sync: false

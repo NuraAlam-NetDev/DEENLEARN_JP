@@ -1,0 +1,86 @@
+{
+  "reader": {
+    "nav": {
+      "prev": "上一课",
+      "next": "下一课",
+      "prevAria": "上一课时：{{title}}",
+      "nextAria": "下一课时：{{title}}",
+      "back": "返回我的课程",
+      "myCourses": "我的课程",
+      "breadcrumb": "导航路径"
+    },
+    "lesson": {
+      "position": "第 {{n}} / {{total}} 课时",
+      "completed": "已完成",
+      "notFoundTitle": "未找到该课时",
+      "notFoundText": "该课时已不存在，可能已被讲师删除。",
+      "enrollTitle": "报名后即可阅读本课时",
+      "enrollText": "请先报名本课程。",
+      "viewCourse": "查看课程",
+      "loadError": "无法加载该课时。",
+      "bookmarkAdd": "收藏本课时",
+      "bookmarkRemove": "取消收藏",
+      "complete": "标记为已完成",
+      "undo": "已完成",
+      "undoTitle": "点击标记为未完成",
+      "passQuizFirst": "请先通过测验",
+      "courseDone": "您已完成本课程。MashaAllah！",
+      "lessonDone": "课时已标记为完成。",
+      "lessonUndone": "课时已标记为未完成。",
+      "bookmarked": "课时已收藏。",
+      "bookmarkRemoved": "书签已移除。",
+      "quizRequired": "本课时有必做测验，通过后才能标记为完成。",
+      "openQuiz": "打开测验"
+    },
+    "course": {
+      "enrollTitle": "报名后即可阅读本课程",
+      "enrollText": "课时仅对已报名的学员开放。",
+      "notFoundTitle": "未找到课程",
+      "notFoundText": "该课程已不存在。",
+      "loadError": "无法加载该课程。",
+      "finished": "您已完成本课程。MashaAllah！",
+      "getCertificate": "领取证书",
+      "lessonsHeading": "课时",
+      "progressLabel": "课程进度",
+      "done_one": "已完成 {{done}} / {{total}} 个课时",
+      "done_other": "已完成 {{done}} / {{total}} 个课时",
+      "noLessons": "尚未添加任何课时。",
+      "doneShort": "已完成 {{done}}/{{total}}",
+      "article": "课时"
+    },
+    "list": {
+      "completedSr": "（已完成）",
+      "bookmarkedSr": "（已收藏）"
+    },
+    "study": {
+      "quiz": "测验",
+      "notes": "我的笔记",
+      "qa": "问答",
+      "required": "必做",
+      "hintWithQuiz": "您可以做测验、写下私人笔记，或对本课时提问。",
+      "hintNoQuiz": "您可以写下私人笔记，或对本课时提问。",
+      "label": "学习工具",
+      "quizUnavailable": "该测验不可用。"
+    },
+    "notes": {
+      "label": "您对本课时的私人笔记",
+      "hint": "只有您能看到。按 Ctrl+Enter（或 Cmd+Enter）即可保存。",
+      "placeholder": "写下您想记住的内容…",
+      "save": "保存笔记",
+      "delete": "删除笔记",
+      "unsaved": "有未保存的更改",
+      "savedAt": "保存于 {{date}}",
+      "saved": "笔记已保存。",
+      "deleted": "笔记已删除。",
+      "confirmTitle": "删除此笔记？",
+      "confirmText": "本课时的笔记将被删除，且无法恢复。",
+      "loadError": "无法加载您的笔记。"
+    },
+    "content": {
+      "watchVideo": "观看课时视频",
+      "files": "文件",
+      "noContent": "本课时暂无内容。",
+      "videoTitle": "课时视频"
+    }
+  }
+}

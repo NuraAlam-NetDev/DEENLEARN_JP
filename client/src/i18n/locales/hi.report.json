@@ -1,0 +1,75 @@
+{
+  "report": {
+    "nav": "मेरी रिपोर्ट",
+    "title": "मेरी रिपोर्ट",
+    "subtitle": "आपके कोर्स, क्विज़, अंक और प्रमाणपत्र एक ही जगह।",
+    "retry": "फिर से कोशिश करें",
+    "tabs": {
+      "overview": "सारांश",
+      "courses": "कोर्स",
+      "quizzes": "क्विज़",
+      "marks": "अंक",
+      "certificates": "प्रमाणपत्र"
+    },
+    "overview": {
+      "courses": "नामांकित कोर्स",
+      "completed": "पूरे किए कोर्स",
+      "lessons": "पूरे किए पाठ",
+      "avgProgress": "औसत प्रगति",
+      "quizzesPassed": "पास किए क्विज़",
+      "avgScore": "औसत सर्वश्रेष्ठ अंक",
+      "certificates": "प्रमाणपत्र"
+    },
+    "empty": {
+      "title": "अभी कोई कोर्स नहीं है",
+      "text": "किसी कोर्स में नामांकन करें, तो आपकी प्रगति यहाँ दिखेगी।"
+    },
+    "emptyQuiz": {
+      "title": "अभी कोई क्विज़ नहीं है",
+      "text": "क्विज़ देने के बाद परिणाम यहाँ दिखेंगे।"
+    },
+    "emptyMarks": {
+      "title": "अभी कोई अंक नहीं है",
+      "text": "हर क्विज़ प्रयास और उसके अंक यहाँ सूचीबद्ध होंगे।"
+    },
+    "table": {
+      "course": "कोर्स",
+      "progress": "प्रगति",
+      "lessonsDone": "{{total}} में से {{done}} पाठ",
+      "quizzes": "क्विज़",
+      "quizzesPassed": "{{taken}} में से {{passed}} पास",
+      "avgScore": "औसत अंक",
+      "status": "स्थिति",
+      "quiz": "क्विज़",
+      "attempts": "प्रयास",
+      "best": "सर्वश्रेष्ठ अंक",
+      "pass": "पास अंक",
+      "passMark": "{{n}}%",
+      "required": "अनिवार्य",
+      "when": "तारीख",
+      "marks": "अंक",
+      "result": "परिणाम",
+      "correctOf": "{{total}} में से {{correct}} सही"
+    },
+    "status": {
+      "certified": "प्रमाणित",
+      "ready": "प्रमाणपत्र के लिए तैयार",
+      "quiz_pending": "क्विज़ पास करना बाकी",
+      "in_progress": "जारी है",
+      "not_started": "शुरू नहीं हुआ",
+      "passed": "पास",
+      "not_passed": "पास नहीं",
+      "not_attempted": "नहीं दिया"
+    },
+    "certs": {
+      "issued": "मिले प्रमाणपत्र",
+      "noneIssued": "अभी कोई प्रमाणपत्र नहीं है।",
+      "issuedOn": "जारी: {{date}}",
+      "pending": "प्रमाणपत्र के लिए बाकी",
+      "nonePending": "कुछ बाकी नहीं है।",
+      "lessonsLeft": "{{n}} पाठ बाकी",
+      "quizLeft": "क्विज़ पास करें: {{title}}",
+      "claimNow": "तैयार है। प्रमाणपत्र पेज से लें।"
+    }
+  }
+}

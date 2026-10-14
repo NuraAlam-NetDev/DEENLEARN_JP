@@ -1,0 +1,76 @@
+{
+  "extras": {
+    "bell": {
+      "label": "Notifications"
+    },
+    "nav": {
+      "notifications": "Notifications",
+      "wishlist": "Wishlist",
+      "coupons": "Discount codes"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "unread": "{{n}} unread",
+      "markAll": "Mark all as read",
+      "empty": "No notifications",
+      "emptyText": "Payment, quiz and lesson updates will appear here.",
+      "open": "Open"
+    },
+    "wishlist": {
+      "title": "Wishlist",
+      "subtitle": "Courses you saved to buy later.",
+      "empty": "Your wishlist is empty",
+      "emptyText": "Use Save for later on a course page.",
+      "view": "View course",
+      "remove": "Remove",
+      "save": "Save for later",
+      "saved": "Saved to wishlist",
+      "savedToast": "Saved to your wishlist",
+      "removedToast": "Removed from your wishlist"
+    },
+    "reviews": {
+      "title": "Reviews",
+      "none": "No reviews yet.",
+      "summary": "{{avg}} / 5 from {{count}} review(s)",
+      "yourRating": "Your rating",
+      "placeholder": "What did you think of this course? (optional)",
+      "post": "Post review",
+      "update": "Update review",
+      "thanks": "Thank you for your review",
+      "finishFirst": "You can leave a review after you finish all the lessons."
+    },
+    "coupons": {
+      "title": "Discount codes",
+      "subtitle": "Students enter a code at checkout. The discount is worked out on the server.",
+      "codePlaceholder": "Code (e.g. RAMADAN20)",
+      "percent": "% off",
+      "fixed": "Fixed amount off",
+      "percentPlaceholder": "Percent (1-100)",
+      "amountPlaceholder": "Amount",
+      "anyCurrency": "Any currency",
+      "jpyOnly": "JPY only",
+      "usdOnly": "USD only",
+      "anyCourse": "Any course",
+      "chooseCourse": "Choose your course",
+      "expiry": "Expiry date (optional)",
+      "maxUses": "Max uses (0 = no limit)",
+      "create": "Create code",
+      "created": "Code created",
+      "switchedOff": "Code switched off",
+      "switchOff": "Switch off",
+      "off": "Off",
+      "none": "No codes yet.",
+      "until": "until",
+      "any": "Any course",
+      "used": "used {{n}}",
+      "limit": "/ {{n}}"
+    },
+    "checkout": {
+      "discountPlaceholder": "Discount code (optional)",
+      "discountLabel": "Discount code"
+    },
+    "receipt": {
+      "download": "Download receipt (PDF)"
+    }
+  }
+}

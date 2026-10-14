@@ -1,0 +1,25 @@
+{
+  "progress": {
+    "nav": "Student progress",
+    "title": "Student progress",
+    "subtitle": "Lessons, quizzes, marks and certificates of your students.",
+    "search": "Search student name or email",
+    "course": "Course",
+    "allCourses": "All courses",
+    "back": "Back to students",
+    "viewReport": "View report",
+    "lessons": "{{done}} of {{total}} lessons",
+    "passed": "{{n}} passed",
+    "cols": {
+      "student": "Student",
+      "course": "Course",
+      "progress": "Progress",
+      "quizzes": "Quizzes",
+      "lastActive": "Last active"
+    },
+    "empty": {
+      "title": "No students yet",
+      "text": "Students who enroll in your courses will appear here."
+    }
+  }
+}

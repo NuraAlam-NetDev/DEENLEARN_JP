@@ -1,0 +1,25 @@
+{ "admin": {
+  "layout": { "overview": "概览", "users": "用户", "courses": "课程", "admins": "管理员" },
+  "home": {
+    "title": "管理概览", "users": "用户", "newWeek": "本周新增 {{n}} 位", "students": "学员", "teachers": "讲师",
+    "pendingTeachers": "待审核讲师", "banned": "已封禁用户", "courses": "课程", "coursesHint": "已发布 {{n}} 门",
+    "lessons": "课时", "enrollments": "报名", "enrollHint": "已完成 {{n}} 个"
+  },
+  "roles": { "student": "学员", "teacher": "讲师", "admin": "管理员", "super_admin": "超级管理员" },
+  "users": {
+    "title": "用户", "searchPlaceholder": "按姓名或邮箱搜索", "allRoles": "全部角色", "anyApproval": "全部审核状态",
+    "pendingTeachers": "待审核讲师", "approved": "已通过", "rejected": "已拒绝", "anyStatus": "全部状态", "active": "正常",
+    "banned": "已封禁", "empty": "未找到用户", "emptyText": "请尝试其他搜索或筛选条件。", "pendingBadge": "待审核",
+    "rejectedBadge": "已拒绝", "bannedBadge": "已封禁", "approve": "通过", "reject": "拒绝", "ban": "封禁", "unban": "解封",
+    "changeRole": "更改 {{name}} 的角色", "confirmBan": "封禁 {{name}}？其将被登出且无法登录。",
+    "confirmReject": "拒绝 {{name}} 的讲师申请？", "confirmRole": "将 {{name}} 更改为 {{role}}？",
+    "bannedToast": "用户已封禁", "unbannedToast": "用户已解封", "approvedToast": "讲师已通过审核",
+    "rejectedToast": "申请已拒绝", "roleUpdated": "角色已更新"
+  },
+  "admins": {
+    "title": "管理员", "createTitle": "创建管理员", "createSubtitle": "新管理员将使用此邮箱和密码登录。",
+    "name": "姓名", "email": "邮箱", "tempPassword": "临时密码", "createButton": "创建管理员", "creating": "创建中…",
+    "currentTitle": "当前管理员", "emptyTitle": "暂无管理员", "emptyText": "请使用表单创建第一位管理员。", "remove": "移除",
+    "confirmRemove": "移除 {{name}} 的管理员权限？其将变为学员。", "removed": "管理员权限已移除", "created": "管理员已创建"
+  }
+} }

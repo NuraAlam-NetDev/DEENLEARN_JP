@@ -1,0 +1,25 @@
+{
+  "progress": {
+    "nav": "受講者の進捗",
+    "title": "受講者の進捗",
+    "subtitle": "受講者のレッスン、クイズ、点数、修了証を確認できます。",
+    "search": "受講者の名前またはメールで検索",
+    "course": "コース",
+    "allCourses": "すべてのコース",
+    "back": "受講者一覧に戻る",
+    "viewReport": "レポートを見る",
+    "lessons": "{{total}}件中{{done}}件のレッスン",
+    "passed": "{{n}}件合格",
+    "cols": {
+      "student": "受講者",
+      "course": "コース",
+      "progress": "進捗",
+      "quizzes": "クイズ",
+      "lastActive": "最終活動"
+    },
+    "empty": {
+      "title": "まだ受講者がいません",
+      "text": "コースに登録した受講者がここに表示されます。"
+    }
+  }
+}

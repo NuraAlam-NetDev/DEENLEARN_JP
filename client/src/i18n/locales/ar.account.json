@@ -1,0 +1,89 @@
+{
+  "layout": {
+    "portal": {
+      "student": "بوابة الطالب",
+      "teacher": "بوابة المعلم",
+      "admin": "لوحة الإدارة"
+    },
+    "loggedOut": "تم تسجيل خروجك.",
+    "greeting": "السلام عليكم، {{name}}",
+    "website": "الموقع",
+    "openMenu": "فتح القائمة"
+  },
+  "student": {
+    "nav": {
+      "dashboard": "لوحة التحكم",
+      "courses": "دوراتي",
+      "bookmarks": "المحفوظات",
+      "notes": "ملاحظاتي",
+      "certificates": "الشهادات",
+      "profile": "الملف الشخصي"
+    },
+    "bookmarks": {
+      "title": "المحفوظات",
+      "subtitle": "الدروس التي حفظتها للعودة إليها لاحقًا.",
+      "removed": "تمت إزالة الحفظ.",
+      "emptyTitle": "لا توجد محفوظات بعد",
+      "emptyText": "أثناء قراءة درس، اضغط زر الحفظ لتظهر الدروس هنا.",
+      "goCourses": "الذهاب إلى دوراتي",
+      "count_one": "محفوظ واحد",
+      "count_other": "{{count}} محفوظات",
+      "savedOn": "حُفظ {{date}}",
+      "removeLabel": "إزالة الحفظ: {{title}}",
+      "removeTitle": "إزالة الحفظ"
+    },
+    "notes": {
+      "title": "ملاحظاتي",
+      "subtitle": "كل ما كتبته أثناء الدراسة. لا يراها غيرك.",
+      "searchPlaceholder": "ابحث في ملاحظاتي",
+      "noMatchTitle": "لا توجد ملاحظات مطابقة",
+      "noMatchText": "جرّب كلمة أخرى.",
+      "noneTitle": "لا توجد ملاحظات بعد",
+      "noneText": "افتح درسًا واستخدم تبويب “ملاحظاتي” لكتابة أول ملاحظة.",
+      "goCourses": "الذهاب إلى دوراتي",
+      "count_one": "ملاحظة واحدة",
+      "count_other": "{{count}} ملاحظات",
+      "editedOn": "عُدّلت {{date}}"
+    },
+    "certificates": {
+      "title": "الشهادات",
+      "subtitle": "أكمل جميع دروس الدورة لتحصل على شهادة بصيغة PDF.",
+      "readyHeading": "جاهزة للاستلام",
+      "issuedHeading": "شهاداتك",
+      "courseCompleted": "اكتملت الدورة",
+      "nameLabel": "الاسم الذي سيُطبع على الشهادة",
+      "nameHint": "استخدم الحروف الإنجليزية. لا يمكن تغيير الاسم بعد إصدار الشهادة.",
+      "getCertificate": "احصل على شهادتي",
+      "readyToast": "شهادتك جاهزة.",
+      "pendingQuiz_one": "اجتز الاختبار المطلوب لفتح هذه الشهادة:",
+      "pendingQuiz_other": "اجتز الاختبارات المطلوبة لفتح هذه الشهادة:",
+      "issued": "صدرت بتاريخ {{date}}",
+      "downloadPdf": "تنزيل PDF",
+      "emptyTitle": "لا توجد شهادات بعد",
+      "emptyText": "أكمل جميع دروس دورة (واجتز اختباراتها المطلوبة) وستظهر شهادتك هنا.",
+      "continueLearning": "متابعة التعلم"
+    },
+    "profile": {
+      "title": "الملف الشخصي",
+      "detailsTitle": "بياناتك",
+      "emailHint": "بريدك الإلكتروني هو اسم الدخول، ولا يمكن تغييره هنا.",
+      "saveChanges": "حفظ التغييرات",
+      "saving": "جارٍ الحفظ…",
+      "nameUpdated": "تم تحديث اسمك.",
+      "passwordTitle": "تغيير كلمة المرور",
+      "passwordSubtitle": "ستبقى مسجّلًا هنا. ستُسجَّل خروج الأجهزة الأخرى.",
+      "currentPassword": "كلمة المرور الحالية",
+      "newPassword": "كلمة المرور الجديدة",
+      "repeatPassword": "أعد كتابة كلمة المرور الجديدة",
+      "changePassword": "تغيير كلمة المرور",
+      "changing": "جارٍ التغيير…",
+      "passwordChanged": "تم تغيير كلمة المرور. تم تسجيل خروج الأجهزة الأخرى.",
+      "statsEnrolled": "الدورات المسجّل فيها",
+      "statsCompleted": "الدورات المكتملة",
+      "statsLessons": "الدروس المكتملة",
+      "statsBookmarks": "المحفوظات",
+      "badge": "طالب",
+      "memberSince": "عضو منذ {{date}}"
+    }
+  }
+}

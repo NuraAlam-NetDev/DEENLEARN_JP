@@ -1,0 +1,37 @@
+{
+  "orders": {
+    "nav": "My orders",
+    "title": "My orders",
+    "subtitle": "Every payment you have made, and where it stands now.",
+    "retry": "Try again",
+    "deletedCourse": "Deleted course",
+    "openCourse": "Open my courses",
+    "provider": {
+      "sslcommerz": "bKash / Nagad / card",
+      "stripe": "Card (USD)",
+      "cash": "Cash to teacher"
+    },
+    "status": {
+      "pending": "Payment pending",
+      "cash_pending": "Waiting for teacher",
+      "awaiting_approval": "Waiting for admin",
+      "approved": "Approved",
+      "rejected": "Not approved",
+      "failed": "Failed",
+      "cancelled": "Cancelled"
+    },
+    "hint": {
+      "pending": "Waiting for the payment to finish.",
+      "cash_pending": "Give the cash to your teacher. The teacher confirms it next.",
+      "awaiting_approval": "The payment is confirmed. The admin will approve your enrollment.",
+      "approved": "Approved. You are enrolled in this course.",
+      "rejected": "Not approved. Reason: {{reason}}",
+      "failed": "The payment did not go through.",
+      "cancelled": "Cancelled. Reason: {{reason}}"
+    },
+    "empty": {
+      "title": "No orders yet",
+      "text": "When you buy a course, your payment will show here."
+    }
+  }
+}

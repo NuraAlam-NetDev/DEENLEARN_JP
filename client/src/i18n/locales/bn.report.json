@@ -1,0 +1,75 @@
+{
+  "report": {
+    "nav": "আমার রিপোর্ট",
+    "title": "আমার রিপোর্ট",
+    "subtitle": "আপনার কোর্স, কুইজ, নম্বর ও সার্টিফিকেট এক জায়গায়।",
+    "retry": "আবার চেষ্টা করুন",
+    "tabs": {
+      "overview": "সারসংক্ষেপ",
+      "courses": "কোর্স",
+      "quizzes": "কুইজ",
+      "marks": "নম্বর",
+      "certificates": "সার্টিফিকেট"
+    },
+    "overview": {
+      "courses": "ভর্তি কোর্স",
+      "completed": "সম্পন্ন কোর্স",
+      "lessons": "সম্পন্ন পাঠ",
+      "avgProgress": "গড় অগ্রগতি",
+      "quizzesPassed": "পাস করা কুইজ",
+      "avgScore": "গড় সেরা স্কোর",
+      "certificates": "সার্টিফিকেট"
+    },
+    "empty": {
+      "title": "এখনো কোনো কোর্স নেই",
+      "text": "একটি কোর্সে ভর্তি হলে আপনার অগ্রগতি এখানে দেখাবে।"
+    },
+    "emptyQuiz": {
+      "title": "এখনো কোনো কুইজ নেই",
+      "text": "কুইজ দিলে ফলাফল এখানে দেখাবে।"
+    },
+    "emptyMarks": {
+      "title": "এখনো কোনো নম্বর নেই",
+      "text": "প্রতিটি কুইজ চেষ্টা ও নম্বর এখানে তালিকাভুক্ত হবে।"
+    },
+    "table": {
+      "course": "কোর্স",
+      "progress": "অগ্রগতি",
+      "lessonsDone": "{{total}} টির মধ্যে {{done}} টি পাঠ",
+      "quizzes": "কুইজ",
+      "quizzesPassed": "{{taken}} টির মধ্যে {{passed}} টি পাস",
+      "avgScore": "গড় স্কোর",
+      "status": "অবস্থা",
+      "quiz": "কুইজ",
+      "attempts": "চেষ্টা",
+      "best": "সেরা স্কোর",
+      "pass": "পাস নম্বর",
+      "passMark": "{{n}}%",
+      "required": "বাধ্যতামূলক",
+      "when": "তারিখ",
+      "marks": "নম্বর",
+      "result": "ফলাফল",
+      "correctOf": "{{total}} টির মধ্যে {{correct}} টি সঠিক"
+    },
+    "status": {
+      "certified": "সার্টিফায়েড",
+      "ready": "সার্টিফিকেটের জন্য প্রস্তুত",
+      "quiz_pending": "কুইজ বাকি",
+      "in_progress": "চলছে",
+      "not_started": "শুরু হয়নি",
+      "passed": "পাস",
+      "not_passed": "পাস হয়নি",
+      "not_attempted": "দেওয়া হয়নি"
+    },
+    "certs": {
+      "issued": "অর্জিত সার্টিফিকেট",
+      "noneIssued": "এখনো কোনো সার্টিফিকেট নেই।",
+      "issuedOn": "দেওয়া হয়েছে {{date}}",
+      "pending": "সার্টিফিকেটের জন্য যা বাকি",
+      "nonePending": "কিছু বাকি নেই।",
+      "lessonsLeft": "{{n}} টি পাঠ বাকি",
+      "quizLeft": "কুইজ পাস করুন: {{title}}",
+      "claimNow": "প্রস্তুত। সার্টিফিকেট পেজ থেকে নিন।"
+    }
+  }
+}

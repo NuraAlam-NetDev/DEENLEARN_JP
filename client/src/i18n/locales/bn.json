@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "main": "প্রধান",
+    "home": "হোম",
+    "courses": "কোর্সসমূহ",
+    "status": "অবস্থা",
+    "design": "ডিজাইন",
+    "dashboard": "ড্যাশবোর্ড",
+    "logout": "লগআউট",
+    "login": "লগইন",
+    "register": "নিবন্ধন",
+    "openMenu": "মেনু খুলুন",
+    "closeMenu": "মেনু বন্ধ করুন"
+  },
+  "language": {
+    "label": "ভাষা"
+  },
+  "common": {
+    "loading": "লোড হচ্ছে…"
+  },
+  "footer": {
+    "tagline": "অনুমোদিত শিক্ষকদের দ্বারা পরিচালিত, সুসংগঠিত ইসলামিক কোর্স, নিজের গতিতে শিখুন।",
+    "explore": "ঘুরে দেখুন",
+    "home": "হোম",
+    "courses": "কোর্সসমূহ",
+    "systemStatus": "সিস্টেম স্ট্যাটাস",
+    "account": "অ্যাকাউন্ট",
+    "myDashboard": "আমার ড্যাশবোর্ড",
+    "login": "লগইন",
+    "createAccount": "অ্যাকাউন্ট তৈরি করুন",
+    "rights": "© {{year}} Deenlearn. সর্বস্বত্ব সংরক্ষিত।"
+  },
+  "auth": {
+    "loginTitle": "আবার স্বাগতম",
+    "loginSubtitle": "শেখা চালিয়ে যেতে লগইন করুন।",
+    "email": "ইমেইল",
+    "password": "পাসওয়ার্ড",
+    "loginButton": "লগইন",
+    "loggingIn": "লগইন হচ্ছে…",
+    "newHere": "নতুন এখানে?",
+    "createAccount": "অ্যাকাউন্ট তৈরি করুন",
+    "registerTitle": "আপনার অ্যাকাউন্ট তৈরি করুন",
+    "registerSubtitle": "শিখতে বা শেখাতে যোগ দিন।",
+    "name": "নাম",
+    "passwordHint": "৮ থেকে ৭২ অক্ষর, একটি অক্ষর ও একটি সংখ্যা সহ।",
+    "iWantTo": "আমি চাই",
+    "learn": "শিখতে",
+    "teach": "শেখাতে",
+    "teacherNote": "কোর্স প্রকাশ করার আগে শিক্ষক অ্যাকাউন্টের জন্য অ্যাডমিনের অনুমোদন লাগবে।",
+    "registerButton": "নিবন্ধন করুন",
+    "creating": "তৈরি হচ্ছে…",
+    "alreadyRegistered": "আগে থেকেই নিবন্ধিত?",
+    "welcomeToast": "Deenlearn-এ স্বাগতম!",
+    "accountCreated": "অ্যাকাউন্ট তৈরি হয়েছে",
+    "teacherWaitingToast": "আপনার শিক্ষক অ্যাকাউন্ট অ্যাডমিনের অনুমোদনের অপেক্ষায় আছে।"
+  }
+}

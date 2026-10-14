@@ -1,0 +1,13 @@
+{ "shared": {
+  "modal": { "close": "بند کریں" },
+  "confirm": { "title": "کیا آپ کو یقین ہے؟", "confirm": "تصدیق کریں", "cancel": "منسوخ کریں" },
+  "pagination": { "label": "صفحہ بندی", "previous": "پچھلا", "next": "اگلا", "pageOf": "صفحہ {{page}} از {{pages}}" },
+  "progress": { "label": "پیش رفت", "complete": "{{pct}}% مکمل" },
+  "spinner": { "loading": "لوڈ ہو رہا ہے" },
+  "editor": {
+    "label": "سبق کا مواد", "toolbar": "فارمیٹنگ", "bold": "گاڑھا", "italic": "ترچھا", "underline": "زیر خط",
+    "heading": "سرخی", "subheading": "ذیلی سرخی", "bulletList": "بلٹ فہرست", "numberedList": "نمبر شدہ فہرست",
+    "quote": "اقتباس", "link": "لنک", "undo": "واپس", "redo": "دوبارہ", "bulletText": "• فہرست", "numberedText": "1. فہرست",
+    "linkPrompt": "لنک کا پتہ (https://…)۔ لنک ہٹانے کے لیے خالی چھوڑ دیں۔"
+  }
+} }

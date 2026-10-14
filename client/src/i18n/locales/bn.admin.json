@@ -1,0 +1,30 @@
+{ "admin": {
+  "layout": { "overview": "ওভারভিউ", "users": "ব্যবহারকারী", "courses": "কোর্স", "admins": "অ্যাডমিন" },
+  "home": {
+    "title": "অ্যাডমিন ওভারভিউ", "users": "ব্যবহারকারী", "newWeek": "এই সপ্তাহে {{n}} জন নতুন", "students": "শিক্ষার্থী",
+    "teachers": "শিক্ষক", "pendingTeachers": "অপেক্ষমাণ শিক্ষক", "banned": "নিষিদ্ধ ব্যবহারকারী", "courses": "কোর্স",
+    "coursesHint": "{{n}} টি প্রকাশিত", "lessons": "পাঠ", "enrollments": "ভর্তি", "enrollHint": "{{n}} টি সম্পন্ন"
+  },
+  "roles": { "student": "শিক্ষার্থী", "teacher": "শিক্ষক", "admin": "অ্যাডমিন", "super_admin": "সুপার অ্যাডমিন" },
+  "users": {
+    "title": "ব্যবহারকারী", "searchPlaceholder": "নাম বা ইমেইল দিয়ে খুঁজুন", "allRoles": "সব ভূমিকা",
+    "anyApproval": "সব অনুমোদন", "pendingTeachers": "অপেক্ষমাণ শিক্ষক", "approved": "অনুমোদিত", "rejected": "প্রত্যাখ্যাত",
+    "anyStatus": "সব অবস্থা", "active": "সক্রিয়", "banned": "নিষিদ্ধ", "empty": "কোনো ব্যবহারকারী পাওয়া যায়নি",
+    "emptyText": "অন্য অনুসন্ধান বা ফিল্টার দিয়ে চেষ্টা করুন।", "pendingBadge": "অপেক্ষমাণ",
+    "rejectedBadge": "প্রত্যাখ্যাত", "bannedBadge": "নিষিদ্ধ", "approve": "অনুমোদন", "reject": "প্রত্যাখ্যান",
+    "ban": "নিষিদ্ধ করুন", "unban": "নিষেধাজ্ঞা তুলুন", "changeRole": "{{name}} এর ভূমিকা বদলান",
+    "confirmBan": "{{name}} কে নিষিদ্ধ করবেন? তাকে লগআউট করা হবে এবং সে আর লগইন করতে পারবে না।",
+    "confirmReject": "{{name}} এর শিক্ষক আবেদন প্রত্যাখ্যান করবেন?", "confirmRole": "{{name}} কে {{role}} বানাবেন?",
+    "bannedToast": "ব্যবহারকারী নিষিদ্ধ হয়েছে", "unbannedToast": "ব্যবহারকারীর নিষেধাজ্ঞা তোলা হয়েছে",
+    "approvedToast": "শিক্ষক অনুমোদিত হয়েছে", "rejectedToast": "আবেদন প্রত্যাখ্যান করা হয়েছে",
+    "roleUpdated": "ভূমিকা আপডেট হয়েছে"
+  },
+  "admins": {
+    "title": "অ্যাডমিন", "createTitle": "নতুন অ্যাডমিন", "createSubtitle": "নতুন অ্যাডমিন এই ইমেইল ও পাসওয়ার্ড দিয়ে লগইন করবেন।",
+    "name": "নাম", "email": "ইমেইল", "tempPassword": "অস্থায়ী পাসওয়ার্ড", "createButton": "অ্যাডমিন তৈরি করুন",
+    "creating": "তৈরি হচ্ছে…", "currentTitle": "বর্তমান অ্যাডমিনরা", "emptyTitle": "এখনো কোনো অ্যাডমিন নেই",
+    "emptyText": "ফর্ম দিয়ে প্রথম অ্যাডমিন তৈরি করুন।", "remove": "সরান",
+    "confirmRemove": "{{name}} এর অ্যাডমিন অধিকার সরাবেন? সে শিক্ষার্থী হয়ে যাবে।",
+    "removed": "অ্যাডমিন অধিকার সরানো হয়েছে", "created": "অ্যাডমিন তৈরি হয়েছে"
+  }
+} }

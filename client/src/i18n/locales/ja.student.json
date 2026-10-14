@@ -1,0 +1,44 @@
+{
+  "card": {
+    "enrolled": "登録済み",
+    "lessonsCount_one": "レッスン{{count}}件",
+    "lessonsCount_other": "レッスン{{count}}件",
+    "lessonsDone_one": "{{count}}件中{{done}}件完了",
+    "lessonsDone_other": "{{count}}件中{{done}}件完了",
+    "learners_one": "受講者{{count}}名",
+    "learners_other": "受講者{{count}}名"
+  },
+  "student": {
+    "home": {
+      "title": "マイラーニング",
+      "noCoursesTitle": "まだコースがありません",
+      "noCoursesText": "まだどのコースにも登録していません。"
+    },
+    "courses": {
+      "title": "マイコース",
+      "subtitle": "参加したコースと、それぞれの進み具合です。",
+      "searchLabel": "マイコースを検索",
+      "searchPlaceholder": "マイコースを検索",
+      "clearSearch": "検索をクリア",
+      "filterLabel": "進捗で絞り込み",
+      "tabAll": "すべて",
+      "tabInProgress": "受講中",
+      "tabCompleted": "完了",
+      "found_one": "コース{{count}}件",
+      "found_other": "コース{{count}}件",
+      "clearFilters": "絞り込みを解除",
+      "noMatchTitle": "一致するコースがありません",
+      "noMatchText": "別のキーワードを試すか、絞り込みを解除してください。",
+      "noneTitle": "まだコースがありません",
+      "noneText": "まだどのコースにも登録していません。今日、コースを探して始めましょう。",
+      "browse": "コースを探す"
+    },
+    "continue": {
+      "label": "学習を続ける",
+      "nextLesson": "次のレッスン: {{lesson}}",
+      "progressLabel": "コースの進捗",
+      "pctComplete": "{{pct}}% 完了",
+      "button": "学習を続ける"
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "main": "मुख्य",
+    "home": "होम",
+    "courses": "कोर्स",
+    "status": "स्थिति",
+    "design": "डिज़ाइन",
+    "dashboard": "डैशबोर्ड",
+    "logout": "लॉग आउट",
+    "login": "लॉग इन",
+    "register": "रजिस्टर करें",
+    "openMenu": "मेनू खोलें",
+    "closeMenu": "मेनू बंद करें"
+  },
+  "language": {
+    "label": "भाषा"
+  },
+  "common": {
+    "loading": "लोड हो रहा है…"
+  },
+  "footer": {
+    "tagline": "अनुमोदित शिक्षकों द्वारा पढ़ाए जाने वाले व्यवस्थित इस्लामी कोर्स, अपनी गति से सीखें।",
+    "explore": "एक्सप्लोर करें",
+    "home": "होम",
+    "courses": "कोर्स",
+    "systemStatus": "सिस्टम स्थिति",
+    "account": "खाता",
+    "myDashboard": "मेरा डैशबोर्ड",
+    "login": "लॉग इन",
+    "createAccount": "खाता बनाएँ",
+    "rights": "© {{year}} Deenlearn. सर्वाधिकार सुरक्षित।"
+  },
+  "auth": {
+    "loginTitle": "वापसी पर स्वागत है",
+    "loginSubtitle": "सीखना जारी रखने के लिए लॉग इन करें।",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "loginButton": "लॉग इन",
+    "loggingIn": "लॉग इन हो रहा है…",
+    "newHere": "यहाँ नए हैं?",
+    "createAccount": "खाता बनाएँ",
+    "registerTitle": "अपना खाता बनाएँ",
+    "registerSubtitle": "सीखने या पढ़ाने के लिए जुड़ें।",
+    "name": "नाम",
+    "passwordHint": "8 से 72 अक्षर, एक अक्षर और एक संख्या के साथ।",
+    "iWantTo": "मैं चाहता/चाहती हूँ",
+    "learn": "सीखना",
+    "teach": "पढ़ाना",
+    "teacherNote": "कोर्स प्रकाशित करने से पहले शिक्षक खातों को एडमिन की मंज़ूरी चाहिए।",
+    "registerButton": "रजिस्टर करें",
+    "creating": "बनाया जा रहा है…",
+    "alreadyRegistered": "पहले से रजिस्टर्ड हैं?",
+    "welcomeToast": "Deenlearn में आपका स्वागत है!",
+    "accountCreated": "खाता बन गया",
+    "teacherWaitingToast": "आपका शिक्षक खाता एडमिन की मंज़ूरी का इंतज़ार कर रहा है।"
+  }
+}

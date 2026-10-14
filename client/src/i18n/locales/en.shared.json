@@ -1,0 +1,13 @@
+{ "shared": {
+  "modal": { "close": "Close" },
+  "confirm": { "title": "Are you sure?", "confirm": "Confirm", "cancel": "Cancel" },
+  "pagination": { "label": "Pagination", "previous": "Previous", "next": "Next", "pageOf": "Page {{page}} of {{pages}}" },
+  "progress": { "label": "Progress", "complete": "{{pct}}% complete" },
+  "spinner": { "loading": "Loading" },
+  "editor": {
+    "label": "Lesson content", "toolbar": "Formatting", "bold": "Bold", "italic": "Italic", "underline": "Underline",
+    "heading": "Heading", "subheading": "Subheading", "bulletList": "Bulleted list", "numberedList": "Numbered list",
+    "quote": "Quote", "link": "Link", "undo": "Undo", "redo": "Redo", "bulletText": "• List", "numberedText": "1. List",
+    "linkPrompt": "Link address (https://…). Leave empty to remove the link."
+  }
+} }

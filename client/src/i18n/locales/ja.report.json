@@ -1,0 +1,75 @@
+{
+  "report": {
+    "nav": "マイレポート",
+    "title": "マイレポート",
+    "subtitle": "コース、クイズ、点数、修了証をまとめて確認できます。",
+    "retry": "再試行",
+    "tabs": {
+      "overview": "概要",
+      "courses": "コース",
+      "quizzes": "クイズ",
+      "marks": "点数",
+      "certificates": "修了証"
+    },
+    "overview": {
+      "courses": "登録コース",
+      "completed": "修了コース",
+      "lessons": "完了レッスン",
+      "avgProgress": "平均進捗",
+      "quizzesPassed": "合格クイズ",
+      "avgScore": "平均ベストスコア",
+      "certificates": "修了証"
+    },
+    "empty": {
+      "title": "まだコースがありません",
+      "text": "コースに登録すると、ここに進捗が表示されます。"
+    },
+    "emptyQuiz": {
+      "title": "まだクイズがありません",
+      "text": "クイズを受けると、結果がここに表示されます。"
+    },
+    "emptyMarks": {
+      "title": "まだ点数がありません",
+      "text": "クイズの受験ごとの点数がここに一覧表示されます。"
+    },
+    "table": {
+      "course": "コース",
+      "progress": "進捗",
+      "lessonsDone": "{{total}}件中{{done}}件完了",
+      "quizzes": "クイズ",
+      "quizzesPassed": "{{taken}}件中{{passed}}件合格",
+      "avgScore": "平均スコア",
+      "status": "状況",
+      "quiz": "クイズ",
+      "attempts": "受験回数",
+      "best": "ベストスコア",
+      "pass": "合格点",
+      "passMark": "{{n}}%",
+      "required": "必須",
+      "when": "日時",
+      "marks": "点数",
+      "result": "結果",
+      "correctOf": "{{total}}問中{{correct}}問正解"
+    },
+    "status": {
+      "certified": "修了証取得",
+      "ready": "修了証を受け取れます",
+      "quiz_pending": "クイズ合格が必要",
+      "in_progress": "受講中",
+      "not_started": "未開始",
+      "passed": "合格",
+      "not_passed": "不合格",
+      "not_attempted": "未受験"
+    },
+    "certs": {
+      "issued": "取得した修了証",
+      "noneIssued": "まだ修了証はありません。",
+      "issuedOn": "発行日 {{date}}",
+      "pending": "修了証までに必要なこと",
+      "nonePending": "未完了の項目はありません。",
+      "lessonsLeft": "残りレッスン {{n}}件",
+      "quizLeft": "クイズに合格: {{title}}",
+      "claimNow": "準備完了。修了証ページから受け取れます。"
+    }
+  }
+}

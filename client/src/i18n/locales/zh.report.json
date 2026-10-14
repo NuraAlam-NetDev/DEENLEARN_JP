@@ -1,0 +1,75 @@
+{
+  "report": {
+    "nav": "我的报告",
+    "title": "我的报告",
+    "subtitle": "课程、测验、分数和证书一目了然。",
+    "retry": "重试",
+    "tabs": {
+      "overview": "概览",
+      "courses": "课程",
+      "quizzes": "测验",
+      "marks": "分数",
+      "certificates": "证书"
+    },
+    "overview": {
+      "courses": "已报名课程",
+      "completed": "已完成课程",
+      "lessons": "已完成课时",
+      "avgProgress": "平均进度",
+      "quizzesPassed": "通过的测验",
+      "avgScore": "平均最高分",
+      "certificates": "证书"
+    },
+    "empty": {
+      "title": "暂无课程",
+      "text": "报名课程后，您的进度会显示在这里。"
+    },
+    "emptyQuiz": {
+      "title": "暂无测验",
+      "text": "参加测验后，成绩会显示在这里。"
+    },
+    "emptyMarks": {
+      "title": "暂无分数",
+      "text": "每次测验的作答和分数都会列在这里。"
+    },
+    "table": {
+      "course": "课程",
+      "progress": "进度",
+      "lessonsDone": "已完成 {{done}} / {{total}} 课时",
+      "quizzes": "测验",
+      "quizzesPassed": "已通过 {{passed}} / {{taken}}",
+      "avgScore": "平均分",
+      "status": "状态",
+      "quiz": "测验",
+      "attempts": "作答次数",
+      "best": "最高分",
+      "pass": "及格线",
+      "passMark": "{{n}}%",
+      "required": "必做",
+      "when": "时间",
+      "marks": "分数",
+      "result": "结果",
+      "correctOf": "答对 {{correct}} / {{total}} 题"
+    },
+    "status": {
+      "certified": "已获证书",
+      "ready": "可领取证书",
+      "quiz_pending": "待通过测验",
+      "in_progress": "学习中",
+      "not_started": "未开始",
+      "passed": "已通过",
+      "not_passed": "未通过",
+      "not_attempted": "未作答"
+    },
+    "certs": {
+      "issued": "已获得的证书",
+      "noneIssued": "暂无证书。",
+      "issuedOn": "颁发于 {{date}}",
+      "pending": "获得证书还需完成",
+      "nonePending": "没有待完成事项。",
+      "lessonsLeft": "还剩 {{n}} 个课时",
+      "quizLeft": "通过测验：{{title}}",
+      "claimNow": "已就绪，可在证书页面领取。"
+    }
+  }
+}

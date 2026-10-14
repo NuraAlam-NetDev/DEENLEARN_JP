@@ -1,0 +1,21 @@
+{
+  "cash": {
+    "navTeacher": "現金払い",
+    "chooseHint": "カードまたは現金で支払えます。現金は講師が確認し、その後管理者が承認します。",
+    "optionCash": "講師に現金で {{amount}} を支払う",
+    "redirecting": "支払いページを開いています…",
+    "sent": "現金払いの申請を送信しました。講師に直接お支払いください。講師の確認と管理者の承認後にコースが開きます。",
+    "teacherTitle": "現金払い",
+    "teacherSubtitle": "現金で支払った受講者です。お金を受け取ったら確認してください。その後、管理者が登録を承認します。",
+    "emptyTitle": "確認待ちの現金払いはありません",
+    "emptyText": "受講者がコースの支払いに現金を選ぶと、ここに表示されます。",
+    "receiptLabel": "領収書番号",
+    "receiptPlaceholder": "領収書番号（任意）",
+    "confirm": "現金を受け取りました",
+    "reject": "却下",
+    "rejectPrompt": "この現金払いを却下する理由（3文字以上）",
+    "confirmedToast": "確認しました。管理者が登録を承認します。",
+    "rejectedToast": "現金払いを却下しました。",
+    "optionCard": "カードで {{amount}} を支払う"
+  }
+}

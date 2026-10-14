@@ -1,0 +1,21 @@
+{
+  "adminCourses": {
+    "title": "Courses",
+    "subtitle": "Teachers create and publish courses. Admins can hide, show or delete them here.",
+    "empty": "No courses yet",
+    "emptyText": "Courses appear here after teachers create them.",
+    "teacherLabel": "Teacher: {{name}}",
+    "unknownTeacher": "Unknown",
+    "published": "Published",
+    "hidden": "Hidden / Draft",
+    "show": "Show",
+    "hide": "Hide",
+    "delete": "Delete",
+    "confirmHide": "Hide “{{title}}” from the catalogue? Students will not see it until it is shown again.",
+    "confirmShow": "Show “{{title}}” in the catalogue?",
+    "confirmDelete": "Permanently delete “{{title}}”? Lessons, enrollments and files will be removed.",
+    "shown": "Course shown",
+    "hiddenToast": "Course hidden",
+    "deleted": "Course deleted"
+  }
+}

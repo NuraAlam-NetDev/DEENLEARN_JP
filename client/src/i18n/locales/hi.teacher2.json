@@ -1,0 +1,82 @@
+{
+  "uploader": {
+    "chooseFiles": "फ़ाइलें चुनें", "files": "फ़ाइलें", "aFile": "एक फ़ाइल",
+    "dropHint": "या यहाँ {{what}} खींचकर छोड़ें", "maxEach": "हर फ़ाइल अधिकतम {{max}} MB",
+    "overLimit": "{{size}} सीमा {{max}} MB से ज़्यादा है।", "notAllowed": "इस प्रकार की फ़ाइल यहाँ अनुमति प्राप्त नहीं है।",
+    "dismiss": "हटाएँ", "cancel": "रद्द करें", "saving": "सहेजा जा रहा है…", "uploadingAria": "{{name}} अपलोड हो रही है"
+  },
+  "lessonEditor": {
+    "backToCourse": "कोर्स पर वापस", "newTitle": "नया पाठ", "editTitle": "पाठ संपादित करें", "cancel": "रद्द करें",
+    "filesTitle": "फ़ाइलें",
+    "filesHint": "PDF, चित्र, ऑडियो और वीडियो (MP3, WAV, OGG, M4A, MP4, WEBM, MOV)। अपलोड होते ही फ़ाइलें सहेजी जाती हैं।",
+    "maxReached": "इस पाठ में फ़ाइलों की अधिकतम संख्या पूरी हो चुकी है। नई जोड़ने के लिए एक हटाएँ।",
+    "uploaded": "{{name}} अपलोड हो गई", "removed": "फ़ाइल हटा दी गई", "removeAria": "{{name}} हटाएँ",
+    "lessonTitle": "पाठ का शीर्षक", "videoLink": "वीडियो लिंक (वैकल्पिक)",
+    "videoLinkHint": "YouTube या Vimeo लिंक, या खाली छोड़ें।",
+    "videoInvalid": "http:// या https:// से शुरू होने वाला लिंक दर्ज करें", "content": "सामग्री",
+    "unsaved": "बिना सहेजे बदलाव", "saveLesson": "पाठ सहेजें", "createLesson": "पाठ बनाएँ",
+    "saved": "पाठ सहेजा गया", "created": "पाठ बन गया। अब आप फ़ाइलें जोड़ सकते हैं।",
+    "saveFirst": "पहले पाठ सहेजें, फिर इसमें PDF, चित्र, ऑडियो और वीडियो जोड़ सकेंगे।",
+    "titleRequired": "शीर्षक आवश्यक है", "titleLong": "शीर्षक अधिकतम 150 अक्षरों का हो सकता है"
+  },
+  "courseManage": {
+    "backToList": "मेरे कोर्स", "toastUnpublished": "कोर्स का प्रकाशन हटा दिया गया",
+    "toastPublished": "कोर्स प्रकाशित हो गया", "toastDeleted": "कोर्स हटा दिया गया", "published": "प्रकाशित",
+    "draft": "ड्राफ़्ट", "editDetails": "विवरण संपादित करें", "unpublish": "प्रकाशन हटाएँ", "publish": "प्रकाशित करें",
+    "deleteAria": "कोर्स हटाएँ", "overview": "सारांश", "lessons": "पाठ", "lessonsHint": "क्रम बदलने के लिए हैंडल खींचें।",
+    "addLesson": "पाठ जोड़ें", "deleteTitle": "यह कोर्स हटाएँ?",
+    "deleteText": "कोर्स, इसके सभी पाठ, फ़ाइलें, नामांकन और छात्रों की प्रगति हट जाएगी। इसे वापस नहीं लाया जा सकता।",
+    "deleteConfirm": "कोर्स हटाएँ",
+    "stats": {
+      "students": "छात्र", "newThisWeek": "इस हफ़्ते {{n}} नए", "lessons": "पाठ", "completedCourse": "कोर्स पूरा किया",
+      "ofStudents": "{{n}} छात्रों में से", "avgProgress": "औसत प्रगति", "completionsTitle": "पाठ के अनुसार पूरे करने वाले"
+    }
+  },
+  "lessonManager": {
+    "reorderAria": "पाठ {{n}} का क्रम बदलें: {{title}}। स्पेस दबाएँ, फिर तीर कुंजियाँ इस्तेमाल करें।",
+    "filesCount_one": "{{count}} फ़ाइल", "filesCount_other": "{{count}} फ़ाइलें",
+    "quiz": "क्विज़", "quizAria": "{{title}} का क्विज़", "qa": "प्रश्नोत्तर", "qaAria": "{{title}} पर प्रश्न",
+    "edit": "संपादित करें", "editAria": "{{title}} संपादित करें", "deleteAria": "{{title}} हटाएँ",
+    "orderSaved": "पाठों का क्रम सहेजा गया", "lessonDeleted": "पाठ हटा दिया गया",
+    "noLessonsTitle": "अभी कोई पाठ नहीं है",
+    "noLessonsText": "पहला पाठ जोड़ें। प्रकाशित करने से पहले कोर्स में कम से कम एक पाठ होना चाहिए।",
+    "addLesson": "पाठ जोड़ें", "listLabel": "पाठ",
+    "deleteTitle": "यह पाठ हटाएँ?",
+    "deleteText": "“{{title}}” और इसकी अपलोड की गई फ़ाइलें हट जाएँगी। इसका क्विज़, छात्रों की प्रगति, नोट्स और प्रश्न भी हट जाएँगे।",
+    "deleteConfirm": "पाठ हटाएँ"
+  },
+  "quizEditor": {
+    "back": "कोर्स पर वापस", "title": "पाठ का क्विज़",
+    "problems": {
+      "titleMissing": "क्विज़ को एक शीर्षक दें।",
+      "passInvalid": "पास अंक 0 से 100 के बीच पूर्ण संख्या होना चाहिए।",
+      "needQuestion": "प्रकाशित करने से पहले कम से कम एक प्रश्न जोड़ें।",
+      "questionWrite": "प्रश्न {{n}}: प्रश्न लिखें।",
+      "questionOptions": "प्रश्न {{n}}: कम से कम 2 विकल्प जोड़ें।",
+      "questionEmpty": "प्रश्न {{n}}: खाली विकल्प भरें या हटाएँ।",
+      "questionCorrect": "प्रश्न {{n}}: कम से कम एक विकल्प को सही चिह्नित करें।"
+    },
+    "lessonLabel": "पाठ: {{title}}", "quizTitle": "क्विज़ का शीर्षक", "passMark": "पास अंक (%)",
+    "required": "छात्रों को यह क्विज़ पास करना होगा",
+    "requiredHint": "पास होने तक वे पाठ को पूरा नहीं कर सकेंगे और कोर्स का प्रमाणपत्र नहीं मिलेगा।",
+    "questionN": "प्रश्न {{n}}", "moveUp": "प्रश्न {{n}} ऊपर ले जाएँ", "moveDown": "प्रश्न {{n}} नीचे ले जाएँ",
+    "deleteQuestionAria": "प्रश्न {{n}} हटाएँ", "questionLabel": "प्रश्न", "optionsLegend": "विकल्प",
+    "tickCorrect": "(सभी सही विकल्पों पर टिक करें)",
+    "tickMultiple": "(सभी सही विकल्पों पर टिक करें · छात्रों को “जितने लागू हों सभी चुनें” दिखेगा)",
+    "optionCorrectAria": "विकल्प {{n}} सही है", "optionTextAria": "विकल्प {{n}} का पाठ",
+    "optionPlaceholder": "विकल्प {{n}}", "removeOptionAria": "विकल्प {{n}} हटाएँ", "addOption": "विकल्प जोड़ें",
+    "explanation": "व्याख्या (वैकल्पिक)", "explanationHint": "छात्र उत्तर भेजने के बाद यह दिखाई देगी।",
+    "addQuestion": "प्रश्न जोड़ें", "visible": "छात्रों को दिखता है", "draft": "ड्राफ़्ट", "delete": "हटाएँ",
+    "unpublish": "प्रकाशन हटाएँ", "saveDraft": "ड्राफ़्ट सहेजें", "saveChanges": "बदलाव सहेजें",
+    "savePublish": "सहेजें और प्रकाशित करें", "savedPublished": "क्विज़ सहेजा गया और छात्रों को दिखने लगा।",
+    "savedDraft": "क्विज़ ड्राफ़्ट के रूप में सहेजा गया।", "deleted": "क्विज़ हटा दिया गया",
+    "resultsTitle": "छात्रों के परिणाम", "noAttempts": "अभी तक किसी छात्र ने यह क्विज़ नहीं दिया है।",
+    "summary_one": "{{count}} छात्र · {{pass}}% पास · औसत सर्वश्रेष्ठ अंक {{avg}}%",
+    "summary_other": "{{count}} छात्र · {{pass}}% पास · औसत सर्वश्रेष्ठ अंक {{avg}}%",
+    "colStudent": "छात्र", "colBest": "सर्वश्रेष्ठ", "colAttempts": "प्रयास", "colStatus": "स्थिति",
+    "colLast": "आखिरी प्रयास", "passed": "पास", "notPassed": "पास नहीं",
+    "deleteTitle": "यह क्विज़ हटाएँ?", "deleteText": "क्विज़ और सभी छात्रों के प्रयास हट जाएँगे। इसे वापस नहीं लाया जा सकता।",
+    "deleteConfirm": "क्विज़ हटाएँ"
+  },
+  "lessonQa": { "back": "कोर्स पर वापस", "title": "प्रश्न और उत्तर", "lesson": "पाठ: {{title}}" }
+}

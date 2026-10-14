@@ -1,0 +1,89 @@
+{
+  "layout": {
+    "portal": {
+      "student": "受講者ポータル",
+      "teacher": "講師ポータル",
+      "admin": "管理パネル"
+    },
+    "loggedOut": "ログアウトしました。",
+    "greeting": "アッサラーム・アレイクム、{{name}}さん",
+    "website": "Webサイト",
+    "openMenu": "メニューを開く"
+  },
+  "student": {
+    "nav": {
+      "dashboard": "ダッシュボード",
+      "courses": "マイコース",
+      "bookmarks": "ブックマーク",
+      "notes": "マイノート",
+      "certificates": "修了証",
+      "profile": "プロフィール"
+    },
+    "bookmarks": {
+      "title": "ブックマーク",
+      "subtitle": "あとで戻るために保存したレッスンです。",
+      "removed": "ブックマークを削除しました。",
+      "emptyTitle": "まだブックマークがありません",
+      "emptyText": "レッスンを読みながらブックマークボタンを押すと、ここに保存されます。",
+      "goCourses": "マイコースへ",
+      "count_one": "ブックマーク{{count}}件",
+      "count_other": "ブックマーク{{count}}件",
+      "savedOn": "{{date}}に保存",
+      "removeLabel": "ブックマークを削除: {{title}}",
+      "removeTitle": "ブックマークを削除"
+    },
+    "notes": {
+      "title": "マイノート",
+      "subtitle": "学習中に書いたメモです。あなただけが見られます。",
+      "searchPlaceholder": "マイノートを検索",
+      "noMatchTitle": "一致するノートがありません",
+      "noMatchText": "別のキーワードを試してください。",
+      "noneTitle": "まだノートがありません",
+      "noneText": "レッスンを開き、「マイノート」タブで最初のノートを書きましょう。",
+      "goCourses": "マイコースへ",
+      "count_one": "ノート{{count}}件",
+      "count_other": "ノート{{count}}件",
+      "editedOn": "{{date}}に編集"
+    },
+    "certificates": {
+      "title": "修了証",
+      "subtitle": "コースのすべてのレッスンを終えると、PDFの修了証が取得できます。",
+      "readyHeading": "受け取り可能",
+      "issuedHeading": "取得済みの修了証",
+      "courseCompleted": "コース修了",
+      "nameLabel": "修了証に印字する名前",
+      "nameHint": "英字で入力してください。修了証の発行後は変更できません。",
+      "getCertificate": "修了証を受け取る",
+      "readyToast": "修了証の準備ができました。",
+      "pendingQuiz_one": "この修了証を受け取るには、次のクイズに合格してください:",
+      "pendingQuiz_other": "この修了証を受け取るには、次のクイズに合格してください:",
+      "issued": "発行日 {{date}}",
+      "downloadPdf": "PDFをダウンロード",
+      "emptyTitle": "まだ修了証はありません",
+      "emptyText": "コースのすべてのレッスン（必要なクイズを含む）を終えると、ここに修了証が表示されます。",
+      "continueLearning": "学習を続ける"
+    },
+    "profile": {
+      "title": "プロフィール",
+      "detailsTitle": "アカウント情報",
+      "emailHint": "メールアドレスはログインに使われます。ここでは変更できません。",
+      "saveChanges": "変更を保存",
+      "saving": "保存中…",
+      "nameUpdated": "名前を更新しました。",
+      "passwordTitle": "パスワードの変更",
+      "passwordSubtitle": "このまま利用を続けられます。他の端末はログアウトされます。",
+      "currentPassword": "現在のパスワード",
+      "newPassword": "新しいパスワード",
+      "repeatPassword": "新しいパスワード（確認）",
+      "changePassword": "パスワードを変更",
+      "changing": "変更中…",
+      "passwordChanged": "パスワードを変更しました。他の端末はログアウトされました。",
+      "statsEnrolled": "登録コース",
+      "statsCompleted": "修了コース",
+      "statsLessons": "完了レッスン",
+      "statsBookmarks": "ブックマーク",
+      "badge": "受講者",
+      "memberSince": "{{date}}から利用中"
+    }
+  }
+}

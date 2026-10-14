@@ -1,0 +1,76 @@
+{
+  "extras": {
+    "bell": {
+      "label": "通知"
+    },
+    "nav": {
+      "notifications": "通知",
+      "wishlist": "心愿单",
+      "coupons": "优惠码"
+    },
+    "notifications": {
+      "title": "通知",
+      "unread": "{{n}} 条未读",
+      "markAll": "全部标为已读",
+      "empty": "暂无通知",
+      "emptyText": "付款、测验和课时的更新会显示在这里。",
+      "open": "打开"
+    },
+    "wishlist": {
+      "title": "心愿单",
+      "subtitle": "您保存下来以后购买的课程。",
+      "empty": "您的心愿单是空的",
+      "emptyText": "在课程页面点击“稍后购买”即可保存。",
+      "view": "查看课程",
+      "remove": "移除",
+      "save": "稍后购买",
+      "saved": "已在心愿单中",
+      "savedToast": "已保存到心愿单",
+      "removedToast": "已从心愿单移除"
+    },
+    "reviews": {
+      "title": "评价",
+      "none": "暂无评价。",
+      "summary": "共 {{count}} 条评价，平均 {{avg}} / 5",
+      "yourRating": "您的评分",
+      "placeholder": "您觉得这门课怎么样？（可选）",
+      "post": "发表评价",
+      "update": "更新评价",
+      "thanks": "感谢您的评价",
+      "finishFirst": "完成所有课时后即可发表评价。"
+    },
+    "coupons": {
+      "title": "优惠码",
+      "subtitle": "学员在付款时输入优惠码，折扣由服务器计算。",
+      "codePlaceholder": "优惠码（例如 RAMADAN20）",
+      "percent": "折扣百分比",
+      "fixed": "固定金额减免",
+      "percentPlaceholder": "百分比（1-100）",
+      "amountPlaceholder": "金额",
+      "anyCurrency": "任意货币",
+      "jpyOnly": "仅 JPY",
+      "usdOnly": "仅 USD",
+      "anyCourse": "任意课程",
+      "chooseCourse": "选择您的课程",
+      "expiry": "到期日（可选）",
+      "maxUses": "最多使用次数（0 = 不限）",
+      "create": "创建优惠码",
+      "created": "优惠码已创建",
+      "switchedOff": "优惠码已停用",
+      "switchOff": "停用",
+      "off": "已停用",
+      "none": "暂无优惠码。",
+      "until": "截止",
+      "any": "任意课程",
+      "used": "已使用 {{n}} 次",
+      "limit": "/ {{n}}"
+    },
+    "checkout": {
+      "discountPlaceholder": "优惠码（可选）",
+      "discountLabel": "优惠码"
+    },
+    "receipt": {
+      "download": "下载收据（PDF）"
+    }
+  }
+}

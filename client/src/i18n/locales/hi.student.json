@@ -1,0 +1,44 @@
+{
+  "card": {
+    "enrolled": "नामांकित",
+    "lessonsCount_one": "{{count}} पाठ",
+    "lessonsCount_other": "{{count}} पाठ",
+    "lessonsDone_one": "{{count}} में से {{done}} पाठ पूरा",
+    "lessonsDone_other": "{{count}} में से {{done}} पाठ पूरे",
+    "learners_one": "{{count}} छात्र",
+    "learners_other": "{{count}} छात्र"
+  },
+  "student": {
+    "home": {
+      "title": "मेरी पढ़ाई",
+      "noCoursesTitle": "अभी कोई कोर्स नहीं है",
+      "noCoursesText": "आपने अभी तक किसी कोर्स में नामांकन नहीं किया है।"
+    },
+    "courses": {
+      "title": "मेरे कोर्स",
+      "subtitle": "आपके जुड़े हुए सभी कोर्स और हर एक में आपकी प्रगति।",
+      "searchLabel": "मेरे कोर्स खोजें",
+      "searchPlaceholder": "मेरे कोर्स खोजें",
+      "clearSearch": "खोज साफ़ करें",
+      "filterLabel": "प्रगति के अनुसार फ़िल्टर",
+      "tabAll": "सभी",
+      "tabInProgress": "जारी है",
+      "tabCompleted": "पूरे हुए",
+      "found_one": "{{count}} कोर्स",
+      "found_other": "{{count}} कोर्स",
+      "clearFilters": "फ़िल्टर हटाएँ",
+      "noMatchTitle": "कोई कोर्स मेल नहीं खाता",
+      "noMatchText": "कोई दूसरा शब्द आज़माएँ, या कोई फ़िल्टर हटाएँ।",
+      "noneTitle": "अभी कोई कोर्स नहीं है",
+      "noneText": "आपने अभी तक किसी कोर्स में नामांकन नहीं किया है। आज ही कोई कोर्स खोजकर शुरू करें।",
+      "browse": "कोर्स देखें"
+    },
+    "continue": {
+      "label": "पढ़ाई जारी रखें",
+      "nextLesson": "अगला पाठ: {{lesson}}",
+      "progressLabel": "कोर्स की प्रगति",
+      "pctComplete": "{{pct}}% पूरा",
+      "button": "पढ़ाई जारी रखें"
+    }
+  }
+}

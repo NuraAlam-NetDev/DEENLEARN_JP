@@ -1,0 +1,75 @@
+{
+  "report": {
+    "nav": "تقريري",
+    "title": "تقريري",
+    "subtitle": "دوراتك واختباراتك ودرجاتك وشهاداتك في مكان واحد.",
+    "retry": "حاول مرة أخرى",
+    "tabs": {
+      "overview": "نظرة عامة",
+      "courses": "الدورات",
+      "quizzes": "الاختبارات",
+      "marks": "الدرجات",
+      "certificates": "الشهادات"
+    },
+    "overview": {
+      "courses": "الدورات المسجّل فيها",
+      "completed": "الدورات المكتملة",
+      "lessons": "الدروس المكتملة",
+      "avgProgress": "متوسط التقدم",
+      "quizzesPassed": "الاختبارات الناجح فيها",
+      "avgScore": "متوسط أفضل درجة",
+      "certificates": "الشهادات"
+    },
+    "empty": {
+      "title": "لا توجد دورات بعد",
+      "text": "سجّل في دورة وسيظهر تقدمك هنا."
+    },
+    "emptyQuiz": {
+      "title": "لا توجد اختبارات بعد",
+      "text": "ستظهر نتائج الاختبارات هنا بعد أن تجريها."
+    },
+    "emptyMarks": {
+      "title": "لا توجد درجات بعد",
+      "text": "ستُدرج هنا كل محاولة اختبار ودرجتها."
+    },
+    "table": {
+      "course": "الدورة",
+      "progress": "التقدم",
+      "lessonsDone": "{{done}} من {{total}} دروس",
+      "quizzes": "الاختبارات",
+      "quizzesPassed": "نجح في {{passed}} من {{taken}}",
+      "avgScore": "متوسط الدرجة",
+      "status": "الحالة",
+      "quiz": "الاختبار",
+      "attempts": "المحاولات",
+      "best": "أفضل درجة",
+      "pass": "درجة النجاح",
+      "passMark": "{{n}}%",
+      "required": "إلزامي",
+      "when": "التاريخ",
+      "marks": "الدرجات",
+      "result": "النتيجة",
+      "correctOf": "{{correct}} من {{total}} إجابة صحيحة"
+    },
+    "status": {
+      "certified": "حاصل على الشهادة",
+      "ready": "جاهز للشهادة",
+      "quiz_pending": "اختبار متبقٍ",
+      "in_progress": "قيد التقدم",
+      "not_started": "لم يبدأ",
+      "passed": "ناجح",
+      "not_passed": "لم ينجح",
+      "not_attempted": "لم يُجرَ"
+    },
+    "certs": {
+      "issued": "الشهادات المكتسبة",
+      "noneIssued": "لا توجد شهادات بعد.",
+      "issuedOn": "صدرت بتاريخ {{date}}",
+      "pending": "المتبقي للحصول على الشهادة",
+      "nonePending": "لا يوجد متبقٍ.",
+      "lessonsLeft": "{{n}} دروس متبقية",
+      "quizLeft": "اجتز الاختبار: {{title}}",
+      "claimNow": "جاهز. احصل على شهادتك من صفحة الشهادات."
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "adminFinance": {
+    "nav": "भुगतान और रिपोर्ट",
+    "title": "भुगतान और रिपोर्ट",
+    "subtitle": "हर भुगतान, उसकी स्थिति और आय।",
+    "tabs": {
+      "transactions": "लेनदेन",
+      "reports": "रिपोर्ट"
+    },
+    "searchPlaceholder": "लेनदेन आईडी या कोर्स से खोजें",
+    "allStatuses": "सभी स्थितियाँ",
+    "allMethods": "सभी तरीके",
+    "filterStatus": "स्थिति से फ़िल्टर",
+    "filterMethod": "तरीके से फ़िल्टर",
+    "cols": {
+      "date": "तारीख",
+      "student": "छात्र",
+      "course": "कोर्स",
+      "method": "तरीका",
+      "amount": "राशि",
+      "status": "स्थिति",
+      "txn": "लेनदेन आईडी",
+      "month": "महीना",
+      "currency": "मुद्रा",
+      "total": "कुल",
+      "sold": "बिक्री",
+      "reviewer": "समीक्षक",
+      "reason": "कारण"
+    },
+    "counts": {
+      "approved": "मंज़ूर",
+      "waiting": "प्रतीक्षा में",
+      "rejected": "अस्वीकृत",
+      "lost": "रद्द / विफल"
+    },
+    "revenue": "आय ({{currency}})",
+    "sold": "{{n}} बिक्री",
+    "noRevenue": "अभी कोई मंज़ूर भुगतान नहीं है।",
+    "monthly": "मासिक आय",
+    "noMonthly": "अभी आय वाले महीने नहीं हैं।",
+    "topCourses": "आय के आधार पर शीर्ष कोर्स",
+    "noTop": "अभी कोई कोर्स बिक्री नहीं है।",
+    "emptyTitle": "कोई भुगतान नहीं मिला",
+    "emptyText": "कोई और फ़िल्टर आज़माएँ।"
+  }
+}

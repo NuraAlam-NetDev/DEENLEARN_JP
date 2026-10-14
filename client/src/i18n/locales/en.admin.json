@@ -1,0 +1,28 @@
+{ "admin": {
+  "layout": { "overview": "Overview", "users": "Users", "courses": "Courses", "admins": "Admins" },
+  "home": {
+    "title": "Admin overview", "users": "Users", "newWeek": "{{n}} new this week", "students": "Students",
+    "teachers": "Teachers", "pendingTeachers": "Pending teachers", "banned": "Banned users", "courses": "Courses",
+    "coursesHint": "{{n}} published", "lessons": "Lessons", "enrollments": "Enrollments", "enrollHint": "{{n}} completed"
+  },
+  "roles": { "student": "Student", "teacher": "Teacher", "admin": "Admin", "super_admin": "Super admin" },
+  "users": {
+    "title": "Users", "searchPlaceholder": "Search name or email", "allRoles": "All roles", "anyApproval": "Any approval",
+    "pendingTeachers": "Pending teachers", "approved": "Approved", "rejected": "Rejected", "anyStatus": "Any status",
+    "active": "Active", "banned": "Banned", "empty": "No users found", "emptyText": "Try a different search or filter.",
+    "pendingBadge": "Pending", "rejectedBadge": "Rejected", "bannedBadge": "Banned", "approve": "Approve",
+    "reject": "Reject", "ban": "Ban", "unban": "Unban", "changeRole": "Change role of {{name}}",
+    "confirmBan": "Ban {{name}}? They will be logged out and cannot sign in.",
+    "confirmReject": "Reject {{name}}'s teacher application?", "confirmRole": "Change {{name}} to {{role}}?",
+    "bannedToast": "User banned", "unbannedToast": "User unbanned", "approvedToast": "Teacher approved",
+    "rejectedToast": "Application rejected", "roleUpdated": "Role updated"
+  },
+  "admins": {
+    "title": "Admins", "createTitle": "Create admin", "createSubtitle": "The new admin signs in with this email and password.",
+    "name": "Name", "email": "Email", "tempPassword": "Temporary password", "createButton": "Create admin",
+    "creating": "Creating…", "currentTitle": "Current admins", "emptyTitle": "No admins yet",
+    "emptyText": "Create the first admin using the form.", "remove": "Remove",
+    "confirmRemove": "Remove admin rights from {{name}}? They will become a student.",
+    "removed": "Admin rights removed", "created": "Admin created"
+  }
+} }

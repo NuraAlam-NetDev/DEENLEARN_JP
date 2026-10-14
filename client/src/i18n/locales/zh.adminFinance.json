@@ -1,0 +1,46 @@
+{
+  "adminFinance": {
+    "nav": "付款与报告",
+    "title": "付款与报告",
+    "subtitle": "所有付款、状态及收入。",
+    "tabs": {
+      "transactions": "交易",
+      "reports": "报告"
+    },
+    "searchPlaceholder": "按交易编号或课程搜索",
+    "allStatuses": "全部状态",
+    "allMethods": "全部方式",
+    "filterStatus": "按状态筛选",
+    "filterMethod": "按方式筛选",
+    "cols": {
+      "date": "日期",
+      "student": "学员",
+      "course": "课程",
+      "method": "方式",
+      "amount": "金额",
+      "status": "状态",
+      "txn": "交易编号",
+      "month": "月份",
+      "currency": "货币",
+      "total": "合计",
+      "sold": "售出",
+      "reviewer": "审核人",
+      "reason": "原因"
+    },
+    "counts": {
+      "approved": "已批准",
+      "waiting": "等待中",
+      "rejected": "已拒绝",
+      "lost": "已取消 / 失败"
+    },
+    "revenue": "收入 ({{currency}})",
+    "sold": "售出 {{n}} 个",
+    "noRevenue": "暂无已批准的付款。",
+    "monthly": "按月收入",
+    "noMonthly": "暂无收入月份。",
+    "topCourses": "收入最高的课程",
+    "noTop": "暂无课程销售。",
+    "emptyTitle": "未找到付款",
+    "emptyText": "请尝试其他筛选条件。"
+  }
+}

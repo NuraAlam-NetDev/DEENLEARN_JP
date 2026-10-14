@@ -1,0 +1,21 @@
+{
+  "auditLog": {
+    "nav": "監査ログ",
+    "title": "監査ログ",
+    "subtitle": "管理者とスーパー管理者によるすべての変更：誰が、何を、いつ。",
+    "searchPlaceholder": "操作で検索（例: ban, approve）",
+    "from": "開始",
+    "to": "終了",
+    "fields": "項目: {{list}}",
+    "emptyTitle": "履歴がありません",
+    "emptyText": "別の検索語または日付範囲をお試しください。",
+    "cols": {
+      "when": "日時",
+      "who": "実行者",
+      "action": "操作",
+      "target": "対象ID",
+      "result": "結果",
+      "ip": "IP"
+    }
+  }
+}

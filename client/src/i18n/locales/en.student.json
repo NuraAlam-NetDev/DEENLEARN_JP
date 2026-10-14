@@ -1,0 +1,44 @@
+{
+  "card": {
+    "enrolled": "Enrolled",
+    "lessonsCount_one": "{{count}} lesson",
+    "lessonsCount_other": "{{count}} lessons",
+    "lessonsDone_one": "{{done}} of {{count}} lesson done",
+    "lessonsDone_other": "{{done}} of {{count}} lessons done",
+    "learners_one": "{{count}} learner",
+    "learners_other": "{{count}} learners"
+  },
+  "student": {
+    "home": {
+      "title": "My learning",
+      "noCoursesTitle": "No courses yet",
+      "noCoursesText": "You have not enrolled in any course yet."
+    },
+    "courses": {
+      "title": "My courses",
+      "subtitle": "Every course you have joined, and how far you are in each.",
+      "searchLabel": "Search my courses",
+      "searchPlaceholder": "Search my courses",
+      "clearSearch": "Clear search",
+      "filterLabel": "Filter by progress",
+      "tabAll": "All",
+      "tabInProgress": "In progress",
+      "tabCompleted": "Completed",
+      "found_one": "{{count}} course",
+      "found_other": "{{count}} courses",
+      "clearFilters": "Clear filters",
+      "noMatchTitle": "No courses match",
+      "noMatchText": "Try a different word, or remove a filter.",
+      "noneTitle": "No courses yet",
+      "noneText": "You have not enrolled in any course yet. Find one and start today.",
+      "browse": "Browse courses"
+    },
+    "continue": {
+      "label": "Continue learning",
+      "nextLesson": "Next lesson: {{lesson}}",
+      "progressLabel": "Course progress",
+      "pctComplete": "{{pct}}% complete",
+      "button": "Continue learning"
+    }
+  }
+} 

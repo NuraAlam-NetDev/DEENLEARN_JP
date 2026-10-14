@@ -1,0 +1,86 @@
+{
+  "reader": {
+    "nav": {
+      "prev": "Previous",
+      "next": "Next",
+      "prevAria": "Previous lesson: {{title}}",
+      "nextAria": "Next lesson: {{title}}",
+      "back": "Back to my courses",
+      "myCourses": "My courses",
+      "breadcrumb": "Breadcrumb"
+    },
+    "lesson": {
+      "position": "Lesson {{n}} of {{total}}",
+      "completed": "Completed",
+      "notFoundTitle": "Lesson not found",
+      "notFoundText": "This lesson does not exist any more. The teacher may have removed it.",
+      "enrollTitle": "Enroll to read this lesson",
+      "enrollText": "You need to be enrolled in this course first.",
+      "viewCourse": "View course",
+      "loadError": "Could not load this lesson.",
+      "bookmarkAdd": "Bookmark this lesson",
+      "bookmarkRemove": "Remove bookmark",
+      "complete": "Mark as complete",
+      "undo": "Completed",
+      "undoTitle": "Click to mark as not complete",
+      "passQuizFirst": "Pass the quiz first",
+      "courseDone": "You have completed this course. Masha'Allah!",
+      "lessonDone": "Lesson marked as complete.",
+      "lessonUndone": "Lesson marked as not complete.",
+      "bookmarked": "Lesson bookmarked.",
+      "bookmarkRemoved": "Bookmark removed.",
+      "quizRequired": "This lesson has a required quiz. Pass it to mark the lesson as complete.",
+      "openQuiz": "Open the quiz"
+    },
+    "course": {
+      "enrollTitle": "Enroll to read this course",
+      "enrollText": "The lessons are open to enrolled students.",
+      "notFoundTitle": "Course not found",
+      "notFoundText": "This course does not exist any more.",
+      "loadError": "Could not load this course.",
+      "finished": "You have completed this course. Masha'Allah!",
+      "getCertificate": "Get your certificate",
+      "lessonsHeading": "Lessons",
+      "progressLabel": "Course progress",
+      "done_one": "{{done}} of {{total}} lesson completed",
+      "done_other": "{{done}} of {{total}} lessons completed",
+      "noLessons": "No lessons have been added yet.",
+      "doneShort": "{{done}}/{{total}} done",
+      "article": "Lesson"
+    },
+    "list": {
+      "completedSr": "(completed)",
+      "bookmarkedSr": "(bookmarked)"
+    },
+    "study": {
+      "quiz": "Quiz",
+      "notes": "My notes",
+      "qa": "Q&A",
+      "required": "Required",
+      "hintWithQuiz": "Take the quiz, write a private note, or ask a question about this lesson.",
+      "hintNoQuiz": "Write a private note, or ask a question about this lesson.",
+      "label": "Study tools",
+      "quizUnavailable": "This quiz is not available."
+    },
+    "notes": {
+      "label": "Your private note for this lesson",
+      "hint": "Only you can see this. Press Ctrl+Enter (or Cmd+Enter) to save.",
+      "placeholder": "Write what you want to remember…",
+      "save": "Save note",
+      "delete": "Delete note",
+      "unsaved": "Unsaved changes",
+      "savedAt": "Saved {{date}}",
+      "saved": "Note saved.",
+      "deleted": "Note deleted.",
+      "confirmTitle": "Delete this note?",
+      "confirmText": "Your note for this lesson will be removed. This cannot be undone.",
+      "loadError": "Could not load your note."
+    },
+    "content": {
+      "watchVideo": "Watch the lesson video",
+      "files": "Files",
+      "noContent": "This lesson has no content yet.",
+      "videoTitle": "Lesson video"
+    }
+  }
+}

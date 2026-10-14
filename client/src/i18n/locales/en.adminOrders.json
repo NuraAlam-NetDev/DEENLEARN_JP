@@ -1,0 +1,24 @@
+{
+  "adminOrders": {
+    "nav": "Payment approvals",
+    "title": "Payment approvals",
+    "subtitle": "Check the transaction, then approve the enrollment or reject it with a reason.",
+    "search": "Search by transaction ID",
+    "txn": "Transaction ID",
+    "requested": "Requested",
+    "approve": "Approve",
+    "reject": "Reject",
+    "confirmApprove": "Approve {{name}} for “{{course}}”? The student will be enrolled.",
+    "rejectPrompt": "Why are you rejecting this payment? (at least 3 characters)",
+    "approvedToast": "Enrollment approved.",
+    "rejectedToast": "Payment rejected.",
+    "emptyTitle": "Nothing to approve",
+    "emptyText": "Payments waiting for approval will appear here.",
+    "tabWaiting": "Waiting",
+    "tabHistory": "My decisions",
+    "historyEmpty": "No decisions yet",
+    "historyEmptyText": "Payments you approve or reject will be listed here.",
+    "decidedOn": "Decided",
+    "reasonLabel": "Reason"
+  }
+}

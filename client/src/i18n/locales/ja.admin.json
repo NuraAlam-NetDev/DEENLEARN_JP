@@ -1,0 +1,28 @@
+{ "admin": {
+  "layout": { "overview": "概要", "users": "ユーザー", "courses": "コース", "admins": "管理者" },
+  "home": {
+    "title": "管理者の概要", "users": "ユーザー", "newWeek": "今週の新規 {{n}} 件", "students": "受講者",
+    "teachers": "講師", "pendingTeachers": "承認待ちの講師", "banned": "利用停止中のユーザー", "courses": "コース",
+    "coursesHint": "公開中 {{n}} 件", "lessons": "レッスン", "enrollments": "登録", "enrollHint": "修了 {{n}} 件"
+  },
+  "roles": { "student": "受講者", "teacher": "講師", "admin": "管理者", "super_admin": "スーパー管理者" },
+  "users": {
+    "title": "ユーザー", "searchPlaceholder": "名前またはメールで検索", "allRoles": "すべての役割",
+    "anyApproval": "すべての承認状況", "pendingTeachers": "承認待ちの講師", "approved": "承認済み", "rejected": "却下",
+    "anyStatus": "すべての状態", "active": "有効", "banned": "利用停止", "empty": "ユーザーが見つかりません",
+    "emptyText": "別の検索語や絞り込みをお試しください。", "pendingBadge": "承認待ち", "rejectedBadge": "却下",
+    "bannedBadge": "利用停止", "approve": "承認", "reject": "却下", "ban": "利用停止にする", "unban": "利用停止を解除",
+    "changeRole": "{{name}} の役割を変更", "confirmBan": "{{name}} を利用停止にしますか？ ログアウトされ、ログインできなくなります。",
+    "confirmReject": "{{name}} の講師申請を却下しますか？", "confirmRole": "{{name}} を {{role}} に変更しますか？",
+    "bannedToast": "利用停止にしました", "unbannedToast": "利用停止を解除しました", "approvedToast": "講師を承認しました",
+    "rejectedToast": "申請を却下しました", "roleUpdated": "役割を更新しました"
+  },
+  "admins": {
+    "title": "管理者", "createTitle": "管理者を作成", "createSubtitle": "新しい管理者はこのメールアドレスとパスワードでログインします。",
+    "name": "名前", "email": "メールアドレス", "tempPassword": "仮のパスワード", "createButton": "管理者を作成",
+    "creating": "作成中…", "currentTitle": "現在の管理者", "emptyTitle": "まだ管理者がいません",
+    "emptyText": "フォームから最初の管理者を作成してください。", "remove": "削除",
+    "confirmRemove": "{{name}} の管理者権限を削除しますか？ 受講者になります。",
+    "removed": "管理者権限を削除しました", "created": "管理者を作成しました"
+  }
+} }

@@ -1,0 +1,76 @@
+{
+  "extras": {
+    "bell": {
+      "label": "お知らせ"
+    },
+    "nav": {
+      "notifications": "お知らせ",
+      "wishlist": "ウィッシュリスト",
+      "coupons": "割引コード"
+    },
+    "notifications": {
+      "title": "お知らせ",
+      "unread": "未読 {{n}} 件",
+      "markAll": "すべて既読にする",
+      "empty": "お知らせはありません",
+      "emptyText": "支払い、クイズ、レッスンの更新がここに表示されます。",
+      "open": "開く"
+    },
+    "wishlist": {
+      "title": "ウィッシュリスト",
+      "subtitle": "後で購入するために保存したコースです。",
+      "empty": "ウィッシュリストは空です",
+      "emptyText": "コースページの「後で購入」を使ってください。",
+      "view": "コースを見る",
+      "remove": "削除",
+      "save": "後で購入",
+      "saved": "ウィッシュリストに保存済み",
+      "savedToast": "ウィッシュリストに保存しました",
+      "removedToast": "ウィッシュリストから削除しました"
+    },
+    "reviews": {
+      "title": "レビュー",
+      "none": "まだレビューはありません。",
+      "summary": "{{count}} 件のレビュー、平均 {{avg}} / 5",
+      "yourRating": "あなたの評価",
+      "placeholder": "このコースはいかがでしたか？（任意）",
+      "post": "レビューを投稿",
+      "update": "レビューを更新",
+      "thanks": "レビューありがとうございます",
+      "finishFirst": "すべてのレッスンを終えるとレビューを書けます。"
+    },
+    "coupons": {
+      "title": "割引コード",
+      "subtitle": "受講者は支払い時にコードを入力します。割引はサーバーで計算されます。",
+      "codePlaceholder": "コード（例: RAMADAN20）",
+      "percent": "% オフ",
+      "fixed": "定額オフ",
+      "percentPlaceholder": "割合（1-100）",
+      "amountPlaceholder": "金額",
+      "anyCurrency": "すべての通貨",
+      "jpyOnly": "JPY のみ",
+      "usdOnly": "USD のみ",
+      "anyCourse": "すべてのコース",
+      "chooseCourse": "コースを選択",
+      "expiry": "有効期限（任意）",
+      "maxUses": "最大利用回数（0 = 無制限）",
+      "create": "コードを作成",
+      "created": "コードを作成しました",
+      "switchedOff": "コードを無効にしました",
+      "switchOff": "無効にする",
+      "off": "無効",
+      "none": "コードはまだありません。",
+      "until": "期限",
+      "any": "すべてのコース",
+      "used": "{{n}} 回利用",
+      "limit": "/ {{n}}"
+    },
+    "checkout": {
+      "discountPlaceholder": "割引コード（任意）",
+      "discountLabel": "割引コード"
+    },
+    "receipt": {
+      "download": "領収書をダウンロード（PDF）"
+    }
+  }
+}

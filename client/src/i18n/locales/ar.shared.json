@@ -1,0 +1,13 @@
+{ "shared": {
+  "modal": { "close": "إغلاق" },
+  "confirm": { "title": "هل أنت متأكد؟", "confirm": "تأكيد", "cancel": "إلغاء" },
+  "pagination": { "label": "التنقل بين الصفحات", "previous": "السابق", "next": "التالي", "pageOf": "الصفحة {{page}} من {{pages}}" },
+  "progress": { "label": "التقدم", "complete": "مكتمل بنسبة {{pct}}%" },
+  "spinner": { "loading": "جارٍ التحميل" },
+  "editor": {
+    "label": "محتوى الدرس", "toolbar": "التنسيق", "bold": "غامق", "italic": "مائل", "underline": "تسطير",
+    "heading": "عنوان", "subheading": "عنوان فرعي", "bulletList": "قائمة نقطية", "numberedList": "قائمة مرقمة",
+    "quote": "اقتباس", "link": "رابط", "undo": "تراجع", "redo": "إعادة", "bulletText": "• قائمة", "numberedText": "1. قائمة",
+    "linkPrompt": "عنوان الرابط (https://…). اتركه فارغًا لإزالة الرابط."
+  }
+} }

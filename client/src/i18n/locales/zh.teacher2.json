@@ -1,0 +1,78 @@
+{
+  "uploader": {
+    "chooseFiles": "选择文件", "files": "文件", "aFile": "文件",
+    "dropHint": "或将{{what}}拖放到此处", "maxEach": "每个最多 {{max}} MB",
+    "overLimit": "{{size}} 超过了 {{max}} MB 的限制。", "notAllowed": "此处不允许该文件类型。",
+    "dismiss": "关闭", "cancel": "取消", "saving": "正在保存…", "uploadingAria": "正在上传 {{name}}"
+  },
+  "lessonEditor": {
+    "backToCourse": "返回课程", "newTitle": "新建课时", "editTitle": "编辑课时", "cancel": "取消", "filesTitle": "文件",
+    "filesHint": "PDF、图片、音频和视频（MP3、WAV、OGG、M4A、MP4、WEBM、MOV）。上传后文件会立即保存。",
+    "maxReached": "此课时的文件已达上限。请先删除一个文件再添加。",
+    "uploaded": "已上传 {{name}}", "removed": "文件已删除", "removeAria": "删除 {{name}}",
+    "lessonTitle": "课时标题", "videoLink": "视频链接（可选）", "videoLinkHint": "YouTube 或 Vimeo 链接，也可留空。",
+    "videoInvalid": "请输入以 http:// 或 https:// 开头的链接", "content": "内容", "unsaved": "有未保存的更改",
+    "saveLesson": "保存课时", "createLesson": "创建课时", "saved": "课时已保存",
+    "created": "课时已创建。现在可以添加文件了。",
+    "saveFirst": "请先保存课时，然后即可为其添加 PDF、图片、音频和视频。",
+    "titleRequired": "请输入标题", "titleLong": "标题最多 150 个字符"
+  },
+  "courseManage": {
+    "backToList": "我的课程", "toastUnpublished": "课程已取消发布", "toastPublished": "课程已发布",
+    "toastDeleted": "课程已删除", "published": "已发布", "draft": "草稿", "editDetails": "编辑详情",
+    "unpublish": "取消发布", "publish": "发布", "deleteAria": "删除课程", "overview": "概览", "lessons": "课时",
+    "lessonsHint": "拖动左侧手柄可调整顺序。", "addLesson": "添加课时",
+    "deleteTitle": "删除此课程？",
+    "deleteText": "课程及其所有课时、文件、报名记录和学员进度都将被删除，且无法恢复。",
+    "deleteConfirm": "删除课程",
+    "stats": {
+      "students": "学员", "newThisWeek": "本周新增 {{n}} 位", "lessons": "课时", "completedCourse": "已完成课程",
+      "ofStudents": "共 {{n}} 位学员", "avgProgress": "平均进度", "completionsTitle": "各课时完成情况"
+    }
+  },
+  "lessonManager": {
+    "reorderAria": "调整第 {{n}} 课时的顺序：{{title}}。按空格键，然后使用方向键。",
+    "filesCount_one": "{{count}} 个文件", "filesCount_other": "{{count}} 个文件",
+    "quiz": "测验", "quizAria": "{{title}} 的测验", "qa": "问答", "qaAria": "{{title}} 的提问",
+    "edit": "编辑", "editAria": "编辑 {{title}}", "deleteAria": "删除 {{title}}",
+    "orderSaved": "课时顺序已保存", "lessonDeleted": "课时已删除",
+    "noLessonsTitle": "暂无课时", "noLessonsText": "添加第一个课时。课程在发布前至少需要一个课时。",
+    "addLesson": "添加课时", "listLabel": "课时",
+    "deleteTitle": "删除此课时？",
+    "deleteText": "“{{title}}”及其上传的文件将被删除。其测验、学员进度、笔记和提问也会被删除。",
+    "deleteConfirm": "删除课时"
+  },
+  "quizEditor": {
+    "back": "返回课程", "title": "课时测验",
+    "problems": {
+      "titleMissing": "请为测验填写标题。",
+      "passInvalid": "及格线必须是 0 到 100 之间的整数。",
+      "needQuestion": "发布前请至少添加一道题。",
+      "questionWrite": "第 {{n}} 题：请填写题目。",
+      "questionOptions": "第 {{n}} 题：请至少添加 2 个选项。",
+      "questionEmpty": "第 {{n}} 题：请填写或删除空白选项。",
+      "questionCorrect": "第 {{n}} 题：请至少将一个选项标为正确。"
+    },
+    "lessonLabel": "课时：{{title}}", "quizTitle": "测验标题", "passMark": "及格线 (%)",
+    "required": "学员必须通过此测验",
+    "requiredHint": "在通过之前，学员无法将课时标记为完成，也无法获得课程证书。",
+    "questionN": "第 {{n}} 题", "moveUp": "将第 {{n}} 题上移", "moveDown": "将第 {{n}} 题下移",
+    "deleteQuestionAria": "删除第 {{n}} 题", "questionLabel": "题目", "optionsLegend": "选项",
+    "tickCorrect": "（请勾选所有正确选项）",
+    "tickMultiple": "（请勾选所有正确选项 · 学员将看到“选择所有适用项”）",
+    "optionCorrectAria": "选项 {{n}} 为正确答案", "optionTextAria": "选项 {{n}} 内容",
+    "optionPlaceholder": "选项 {{n}}", "removeOptionAria": "删除选项 {{n}}", "addOption": "添加选项",
+    "explanation": "解析（可选）", "explanationHint": "学员提交后会显示给学员。", "addQuestion": "添加题目",
+    "visible": "学员可见", "draft": "草稿", "delete": "删除", "unpublish": "取消发布", "saveDraft": "保存草稿",
+    "saveChanges": "保存更改", "savePublish": "保存并发布", "savedPublished": "测验已保存，学员可见。",
+    "savedDraft": "测验已保存为草稿。", "deleted": "测验已删除", "resultsTitle": "学员成绩",
+    "noAttempts": "还没有学员参加此测验。",
+    "summary_one": "{{count}} 位学员 · 通过率 {{pass}}% · 平均最高分 {{avg}}%",
+    "summary_other": "{{count}} 位学员 · 通过率 {{pass}}% · 平均最高分 {{avg}}%",
+    "colStudent": "学员", "colBest": "最高分", "colAttempts": "作答次数", "colStatus": "状态", "colLast": "最近作答",
+    "passed": "已通过", "notPassed": "未通过",
+    "deleteTitle": "删除此测验？", "deleteText": "测验以及所有学员的作答记录都将被删除，且无法恢复。",
+    "deleteConfirm": "删除测验"
+  },
+  "lessonQa": { "back": "返回课程", "title": "问答", "lesson": "课时：{{title}}" }
+}

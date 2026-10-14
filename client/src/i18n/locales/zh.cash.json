@@ -1,0 +1,21 @@
+{
+  "cash": {
+    "navTeacher": "现金支付",
+    "chooseHint": "可选择银行卡或现金支付。现金由讲师确认，再由管理员审批。",
+    "optionCash": "向讲师现金支付 {{amount}}",
+    "redirecting": "正在打开支付页面…",
+    "sent": "现金支付申请已发送。请直接向讲师付款。讲师确认并经管理员审批后，课程即可开通。",
+    "teacherTitle": "现金支付",
+    "teacherSubtitle": "向您现金付款的学员。收到款项后请确认，管理员随后批准报名。",
+    "emptyTitle": "暂无待确认的现金支付",
+    "emptyText": "学员为您的课程选择现金支付后，会显示在这里。",
+    "receiptLabel": "收据编号",
+    "receiptPlaceholder": "收据编号（可选）",
+    "confirm": "已收到现金",
+    "reject": "拒绝",
+    "rejectPrompt": "拒绝此现金支付的原因（至少 3 个字）",
+    "confirmedToast": "已确认。管理员将批准报名。",
+    "rejectedToast": "已拒绝该现金支付。",
+    "optionCard": "用银行卡支付 {{amount}}"
+  }
+}

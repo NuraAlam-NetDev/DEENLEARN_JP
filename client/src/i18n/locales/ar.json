@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "main": "القائمة الرئيسية",
+    "home": "الرئيسية",
+    "courses": "الدورات",
+    "status": "الحالة",
+    "design": "التصميم",
+    "dashboard": "لوحة التحكم",
+    "logout": "تسجيل الخروج",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "openMenu": "فتح القائمة",
+    "closeMenu": "إغلاق القائمة"
+  },
+  "language": {
+    "label": "اللغة"
+  },
+  "common": {
+    "loading": "جارٍ التحميل…"
+  },
+  "footer": {
+    "tagline": "دورات إسلامية منظمة يقدمها معلمون معتمدون، تعلَّم بوتيرتك الخاصة.",
+    "explore": "استكشف",
+    "home": "الرئيسية",
+    "courses": "الدورات",
+    "systemStatus": "حالة النظام",
+    "account": "الحساب",
+    "myDashboard": "لوحتي",
+    "login": "تسجيل الدخول",
+    "createAccount": "إنشاء حساب",
+    "rights": "© {{year}} Deenlearn. جميع الحقوق محفوظة."
+  },
+  "auth": {
+    "loginTitle": "مرحبًا بعودتك",
+    "loginSubtitle": "سجّل الدخول لمتابعة التعلم.",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "loginButton": "تسجيل الدخول",
+    "loggingIn": "جارٍ تسجيل الدخول…",
+    "newHere": "جديد هنا؟",
+    "createAccount": "إنشاء حساب",
+    "registerTitle": "أنشئ حسابك",
+    "registerSubtitle": "انضم للتعلم أو للتعليم.",
+    "name": "الاسم",
+    "passwordHint": "من 8 إلى 72 حرفًا، مع حرف ورقم.",
+    "iWantTo": "أريد أن",
+    "learn": "أتعلم",
+    "teach": "أعلّم",
+    "teacherNote": "تحتاج حسابات المعلمين إلى موافقة المشرف قبل نشر الدورات.",
+    "registerButton": "تسجيل",
+    "creating": "جارٍ الإنشاء…",
+    "alreadyRegistered": "مسجّل بالفعل؟",
+    "welcomeToast": "أهلًا بك في Deenlearn!",
+    "accountCreated": "تم إنشاء الحساب",
+    "teacherWaitingToast": "حساب المعلم في انتظار موافقة المشرف."
+  }
+}

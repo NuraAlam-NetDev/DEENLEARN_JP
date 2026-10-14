@@ -1,0 +1,75 @@
+{
+  "report": {
+    "nav": "My report",
+    "title": "My report",
+    "subtitle": "Your courses, quizzes, marks and certificates in one place.",
+    "retry": "Try again",
+    "tabs": {
+      "overview": "Overview",
+      "courses": "Courses",
+      "quizzes": "Quizzes",
+      "marks": "Marks",
+      "certificates": "Certificates"
+    },
+    "overview": {
+      "courses": "Courses enrolled",
+      "completed": "Courses completed",
+      "lessons": "Lessons completed",
+      "avgProgress": "Average progress",
+      "quizzesPassed": "Quizzes passed",
+      "avgScore": "Average best score",
+      "certificates": "Certificates"
+    },
+    "empty": {
+      "title": "No courses yet",
+      "text": "Enroll in a course and your progress will appear here."
+    },
+    "emptyQuiz": {
+      "title": "No quizzes yet",
+      "text": "Quiz results will appear here after you take a quiz."
+    },
+    "emptyMarks": {
+      "title": "No marks yet",
+      "text": "Every quiz attempt and its marks will be listed here."
+    },
+    "table": {
+      "course": "Course",
+      "progress": "Progress",
+      "lessonsDone": "{{done}} of {{total}} lessons",
+      "quizzes": "Quizzes",
+      "quizzesPassed": "{{passed}} of {{taken}} passed",
+      "avgScore": "Avg score",
+      "status": "Status",
+      "quiz": "Quiz",
+      "attempts": "Attempts",
+      "best": "Best score",
+      "pass": "Pass mark",
+      "passMark": "{{n}}%",
+      "required": "Required",
+      "when": "Date",
+      "marks": "Marks",
+      "result": "Result",
+      "correctOf": "{{correct}} of {{total}} correct"
+    },
+    "status": {
+      "certified": "Certified",
+      "ready": "Ready for certificate",
+      "quiz_pending": "Quiz to pass",
+      "in_progress": "In progress",
+      "not_started": "Not started",
+      "passed": "Passed",
+      "not_passed": "Not passed",
+      "not_attempted": "Not attempted"
+    },
+    "certs": {
+      "issued": "Certificates earned",
+      "noneIssued": "No certificates yet.",
+      "issuedOn": "Issued {{date}}",
+      "pending": "Still to do for a certificate",
+      "nonePending": "Nothing pending.",
+      "lessonsLeft": "{{n}} lessons left",
+      "quizLeft": "Pass the quiz: {{title}}",
+      "claimNow": "Ready. Claim your certificate from the Certificates page."
+    }
+  }
+}

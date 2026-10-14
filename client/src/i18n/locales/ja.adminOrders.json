@@ -1,0 +1,24 @@
+{
+  "adminOrders": {
+    "nav": "支払い承認",
+    "title": "支払い承認",
+    "subtitle": "取引を確認し、登録を承認するか理由を添えて却下してください。",
+    "search": "取引IDで検索",
+    "txn": "取引ID",
+    "requested": "申請日時",
+    "approve": "承認",
+    "reject": "却下",
+    "confirmApprove": "「{{course}}」に {{name}} さんの登録を承認しますか？ 受講者が登録されます。",
+    "rejectPrompt": "この支払いを却下する理由（3文字以上）",
+    "approvedToast": "登録を承認しました。",
+    "rejectedToast": "支払いを却下しました。",
+    "emptyTitle": "承認待ちはありません",
+    "emptyText": "承認待ちの支払いがここに表示されます。",
+    "tabWaiting": "承認待ち",
+    "tabHistory": "自分の判断",
+    "historyEmpty": "まだ判断はありません",
+    "historyEmptyText": "承認または却下した支払いがここに表示されます。",
+    "decidedOn": "判断日時",
+    "reasonLabel": "理由"
+  }
+}

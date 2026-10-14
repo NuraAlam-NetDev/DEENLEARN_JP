@@ -1,0 +1,28 @@
+{ "admin": {
+  "layout": { "overview": "نظرة عامة", "users": "المستخدمون", "courses": "الدورات", "admins": "المشرفون" },
+  "home": {
+    "title": "نظرة عامة للإدارة", "users": "المستخدمون", "newWeek": "{{n}} جديد هذا الأسبوع", "students": "الطلاب",
+    "teachers": "المعلمون", "pendingTeachers": "معلمون بانتظار الموافقة", "banned": "مستخدمون محظورون", "courses": "الدورات",
+    "coursesHint": "{{n}} منشورة", "lessons": "الدروس", "enrollments": "التسجيلات", "enrollHint": "{{n}} مكتملة"
+  },
+  "roles": { "student": "طالب", "teacher": "معلم", "admin": "مشرف", "super_admin": "مشرف عام" },
+  "users": {
+    "title": "المستخدمون", "searchPlaceholder": "ابحث بالاسم أو البريد", "allRoles": "كل الأدوار",
+    "anyApproval": "كل حالات الموافقة", "pendingTeachers": "معلمون بانتظار الموافقة", "approved": "موافق عليه",
+    "rejected": "مرفوض", "anyStatus": "كل الحالات", "active": "نشط", "banned": "محظور", "empty": "لم يتم العثور على مستخدمين",
+    "emptyText": "جرّب بحثًا أو فلترًا آخر.", "pendingBadge": "بانتظار الموافقة", "rejectedBadge": "مرفوض",
+    "bannedBadge": "محظور", "approve": "موافقة", "reject": "رفض", "ban": "حظر", "unban": "رفع الحظر",
+    "changeRole": "تغيير دور {{name}}", "confirmBan": "حظر {{name}}؟ سيتم تسجيل خروجه ولن يتمكن من الدخول.",
+    "confirmReject": "رفض طلب {{name}} للتدريس؟", "confirmRole": "تغيير دور {{name}} إلى {{role}}؟",
+    "bannedToast": "تم حظر المستخدم", "unbannedToast": "تم رفع الحظر عن المستخدم", "approvedToast": "تمت الموافقة على المعلم",
+    "rejectedToast": "تم رفض الطلب", "roleUpdated": "تم تحديث الدور"
+  },
+  "admins": {
+    "title": "المشرفون", "createTitle": "إنشاء مشرف", "createSubtitle": "سيسجّل المشرف الجديد الدخول بهذا البريد وكلمة المرور.",
+    "name": "الاسم", "email": "البريد الإلكتروني", "tempPassword": "كلمة مرور مؤقتة", "createButton": "إنشاء مشرف",
+    "creating": "جارٍ الإنشاء…", "currentTitle": "المشرفون الحاليون", "emptyTitle": "لا يوجد مشرفون بعد",
+    "emptyText": "أنشئ أول مشرف باستخدام النموذج.", "remove": "إزالة",
+    "confirmRemove": "إزالة صلاحيات المشرف من {{name}}؟ سيصبح طالبًا.", "removed": "تمت إزالة صلاحيات المشرف",
+    "created": "تم إنشاء المشرف"
+  }
+} }

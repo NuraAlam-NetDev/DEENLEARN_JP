@@ -1,0 +1,13 @@
+{ "shared": {
+  "modal": { "close": "বন্ধ করুন" },
+  "confirm": { "title": "আপনি কি নিশ্চিত?", "confirm": "নিশ্চিত করুন", "cancel": "বাতিল" },
+  "pagination": { "label": "পাতা নির্বাচন", "previous": "আগের", "next": "পরের", "pageOf": "পৃষ্ঠা {{page}} / {{pages}}" },
+  "progress": { "label": "অগ্রগতি", "complete": "{{pct}}% সম্পন্ন" },
+  "spinner": { "loading": "লোড হচ্ছে" },
+  "editor": {
+    "label": "পাঠের বিষয়বস্তু", "toolbar": "ফরম্যাটিং", "bold": "গাঢ়", "italic": "বাঁকা", "underline": "আন্ডারলাইন",
+    "heading": "শিরোনাম", "subheading": "উপশিরোনাম", "bulletList": "বুলেট তালিকা", "numberedList": "ক্রমিক তালিকা",
+    "quote": "উদ্ধৃতি", "link": "লিংক", "undo": "আগের অবস্থায় ফিরুন", "redo": "পুনরায় করুন",
+    "bulletText": "• তালিকা", "numberedText": "১. তালিকা", "linkPrompt": "লিংকের ঠিকানা (https://…)। লিংক সরাতে খালি রাখুন।"
+  }
+} }

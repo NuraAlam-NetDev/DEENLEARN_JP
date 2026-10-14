@@ -1,0 +1,86 @@
+{
+  "uploader": {
+    "chooseFiles": "ফাইল বেছে নিন", "files": "ফাইলগুলো", "aFile": "একটি ফাইল",
+    "dropHint": "অথবা এখানে {{what}} টেনে আনুন", "maxEach": "প্রতিটি সর্বোচ্চ {{max}} MB",
+    "overLimit": "{{size}} সীমা {{max}} MB-এর বেশি।", "notAllowed": "এখানে এই ধরনের ফাইল দেওয়া যাবে না।",
+    "dismiss": "বাদ দিন", "cancel": "বাতিল", "saving": "সংরক্ষণ হচ্ছে…", "uploadingAria": "{{name}} আপলোড হচ্ছে"
+  },
+  "lessonEditor": {
+    "backToCourse": "কোর্সে ফিরুন", "newTitle": "নতুন পাঠ", "editTitle": "পাঠ সম্পাদনা", "cancel": "বাতিল",
+    "filesTitle": "ফাইলসমূহ",
+    "filesHint": "PDF, ছবি, অডিও ও ভিডিও (MP3, WAV, OGG, M4A, MP4, WEBM, MOV)। আপলোড হওয়ার সাথে সাথে ফাইল সংরক্ষিত হয়।",
+    "maxReached": "এই পাঠে সর্বোচ্চ সংখ্যক ফাইল আছে। নতুন যোগ করতে একটি সরান।",
+    "uploaded": "{{name}} আপলোড হয়েছে", "removed": "ফাইল সরানো হয়েছে", "removeAria": "{{name}} সরান",
+    "lessonTitle": "পাঠের শিরোনাম", "videoLink": "ভিডিও লিংক (ঐচ্ছিক)",
+    "videoLinkHint": "YouTube বা Vimeo লিংক, অথবা খালি রাখুন।",
+    "videoInvalid": "http:// বা https:// দিয়ে শুরু হওয়া লিংক দিন",
+    "content": "বিষয়বস্তু", "unsaved": "অসংরক্ষিত পরিবর্তন", "saveLesson": "পাঠ সংরক্ষণ করুন",
+    "createLesson": "পাঠ তৈরি করুন", "saved": "পাঠ সংরক্ষিত হয়েছে",
+    "created": "পাঠ তৈরি হয়েছে। এখন ফাইল যোগ করতে পারবেন।",
+    "saveFirst": "আগে পাঠটি সংরক্ষণ করুন, তারপর এতে PDF, ছবি, অডিও ও ভিডিও যোগ করতে পারবেন।",
+    "titleRequired": "শিরোনাম লিখুন", "titleLong": "শিরোনাম সর্বোচ্চ ১৫০ অক্ষর হতে পারে"
+  },
+  "courseManage": {
+    "backToList": "আমার কোর্স", "toastUnpublished": "কোর্সের প্রকাশ বাতিল হয়েছে",
+    "toastPublished": "কোর্স প্রকাশিত হয়েছে", "toastDeleted": "কোর্স মুছে ফেলা হয়েছে", "published": "প্রকাশিত",
+    "draft": "খসড়া", "editDetails": "তথ্য সম্পাদনা", "unpublish": "প্রকাশ বাতিল", "publish": "প্রকাশ করুন",
+    "deleteAria": "কোর্স মুছুন", "overview": "সারসংক্ষেপ", "lessons": "পাঠসমূহ",
+    "lessonsHint": "ক্রম বদলাতে হাতল টেনে সরান।", "addLesson": "পাঠ যোগ করুন",
+    "deleteTitle": "এই কোর্সটি মুছবেন?",
+    "deleteText": "কোর্স, এর সব পাঠ, ফাইল, ভর্তি ও শিক্ষার্থীদের অগ্রগতি মুছে যাবে। এটি ফেরানো যাবে না।",
+    "deleteConfirm": "কোর্স মুছুন",
+    "stats": {
+      "students": "শিক্ষার্থী", "newThisWeek": "এই সপ্তাহে {{n}} জন নতুন", "lessons": "পাঠ",
+      "completedCourse": "কোর্স সম্পন্ন", "ofStudents": "{{n}} জন শিক্ষার্থীর মধ্যে", "avgProgress": "গড় অগ্রগতি",
+      "completionsTitle": "প্রতি পাঠে সম্পন্নকারী"
+    }
+  },
+  "lessonManager": {
+    "reorderAria": "পাঠ {{n}} সাজান: {{title}}। স্পেস চেপে তারপর তীর চিহ্ন ব্যবহার করুন।",
+    "filesCount_one": "{{count}} টি ফাইল", "filesCount_other": "{{count}} টি ফাইল",
+    "quiz": "কুইজ", "quizAria": "{{title}} এর কুইজ", "qa": "প্রশ্নোত্তর", "qaAria": "{{title}} নিয়ে প্রশ্ন",
+    "edit": "সম্পাদনা", "editAria": "{{title}} সম্পাদনা", "deleteAria": "{{title}} মুছুন",
+    "orderSaved": "পাঠের ক্রম সংরক্ষিত হয়েছে", "lessonDeleted": "পাঠ মুছে ফেলা হয়েছে",
+    "noLessonsTitle": "এখনো কোনো পাঠ নেই",
+    "noLessonsText": "প্রথম পাঠটি যোগ করুন। প্রকাশের আগে কোর্সে অন্তত একটি পাঠ থাকতে হবে।",
+    "addLesson": "পাঠ যোগ করুন", "listLabel": "পাঠসমূহ",
+    "deleteTitle": "এই পাঠটি মুছবেন?",
+    "deleteText": "“{{title}}” এবং এর আপলোড করা ফাইল মুছে যাবে। এর কুইজ, শিক্ষার্থীদের অগ্রগতি, নোট ও প্রশ্নও মুছে যাবে।",
+    "deleteConfirm": "পাঠ মুছুন"
+  },
+  "quizEditor": {
+    "back": "কোর্সে ফিরুন", "title": "পাঠের কুইজ",
+    "problems": {
+      "titleMissing": "কুইজের একটি শিরোনাম দিন।",
+      "passInvalid": "পাস নম্বর ০ থেকে ১০০-এর মধ্যে একটি পূর্ণসংখ্যা হতে হবে।",
+      "needQuestion": "প্রকাশের আগে অন্তত একটি প্রশ্ন যোগ করুন।",
+      "questionWrite": "প্রশ্ন {{n}}: প্রশ্নটি লিখুন।",
+      "questionOptions": "প্রশ্ন {{n}}: অন্তত ২টি অপশন যোগ করুন।",
+      "questionEmpty": "প্রশ্ন {{n}}: খালি অপশনগুলো পূরণ করুন বা সরান।",
+      "questionCorrect": "প্রশ্ন {{n}}: অন্তত একটি অপশনকে সঠিক হিসেবে চিহ্নিত করুন।"
+    },
+    "lessonLabel": "পাঠ: {{title}}", "quizTitle": "কুইজের শিরোনাম", "passMark": "পাস নম্বর (%)",
+    "required": "শিক্ষার্থীদের এই কুইজ পাস করতে হবে",
+    "requiredHint": "পাস না করা পর্যন্ত তারা পাঠ সম্পন্ন বা কোর্সের সার্টিফিকেট পাবে না।",
+    "questionN": "প্রশ্ন {{n}}", "moveUp": "প্রশ্ন {{n}} উপরে সরান", "moveDown": "প্রশ্ন {{n}} নিচে সরান",
+    "deleteQuestionAria": "প্রশ্ন {{n}} মুছুন", "questionLabel": "প্রশ্ন", "optionsLegend": "অপশনসমূহ",
+    "tickCorrect": "(সব সঠিক উত্তরে টিক দিন)",
+    "tickMultiple": "(সব সঠিক উত্তরে টিক দিন · শিক্ষার্থীরা “যতগুলো প্রযোজ্য সব বেছে নিন” দেখবে)",
+    "optionCorrectAria": "অপশন {{n}} সঠিক", "optionTextAria": "অপশন {{n}} এর লেখা",
+    "optionPlaceholder": "অপশন {{n}}", "removeOptionAria": "অপশন {{n}} সরান", "addOption": "অপশন যোগ করুন",
+    "explanation": "ব্যাখ্যা (ঐচ্ছিক)", "explanationHint": "শিক্ষার্থী জমা দেওয়ার পর এটি দেখানো হবে।",
+    "addQuestion": "প্রশ্ন যোগ করুন", "visible": "শিক্ষার্থীরা দেখতে পারবে", "draft": "খসড়া",
+    "delete": "মুছুন", "unpublish": "প্রকাশ বাতিল", "saveDraft": "খসড়া সংরক্ষণ",
+    "saveChanges": "পরিবর্তন সংরক্ষণ", "savePublish": "সংরক্ষণ ও প্রকাশ",
+    "savedPublished": "কুইজ সংরক্ষিত হয়েছে ও শিক্ষার্থীরা দেখতে পারবে।",
+    "savedDraft": "কুইজ খসড়া হিসেবে সংরক্ষিত হয়েছে।", "deleted": "কুইজ মুছে ফেলা হয়েছে",
+    "resultsTitle": "শিক্ষার্থীদের ফলাফল", "noAttempts": "এখনো কোনো শিক্ষার্থী এই কুইজ দেননি।",
+    "summary_one": "{{count}} জন শিক্ষার্থী · {{pass}}% পাস · গড় সেরা স্কোর {{avg}}%",
+    "summary_other": "{{count}} জন শিক্ষার্থী · {{pass}}% পাস · গড় সেরা স্কোর {{avg}}%",
+    "colStudent": "শিক্ষার্থী", "colBest": "সেরা", "colAttempts": "চেষ্টা", "colStatus": "অবস্থা",
+    "colLast": "শেষ চেষ্টা", "passed": "পাস", "notPassed": "পাস হয়নি",
+    "deleteTitle": "এই কুইজটি মুছবেন?", "deleteText": "কুইজ ও সব শিক্ষার্থীর চেষ্টার রেকর্ড মুছে যাবে। এটি ফেরানো যাবে না।",
+    "deleteConfirm": "কুইজ মুছুন"
+  },
+  "lessonQa": { "back": "কোর্সে ফিরুন", "title": "প্রশ্নোত্তর", "lesson": "পাঠ: {{title}}" }
+}

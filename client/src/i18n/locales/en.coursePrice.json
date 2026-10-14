@@ -1,0 +1,15 @@
+{
+  "coursePrice": {
+    "title": "Price",
+    "hint": "Set a price for each currency you sell in. 0 means not sold in that currency.",
+    "jpyLabel": "Price in JPY (card and cash)",
+    "jpyHint": "Whole yen, e.g. 5000",
+    "usdLabel": "Price in USD (card)",
+    "usdHint": "Whole dollars, e.g. 50",
+    "invalid": "Enter a whole number, 0 or more",
+    "tooHighJPY": "Price in JPY can be at most 1,000,000",
+    "tooHighUSD": "Price in USD can be at most 10,000",
+    "note": "Payments are approved by an admin before the student is enrolled.",
+    "free": "Free"
+  }
+}

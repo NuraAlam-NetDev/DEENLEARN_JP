@@ -1,0 +1,89 @@
+{
+  "layout": {
+    "portal": {
+      "student": "छात्र पोर्टल",
+      "teacher": "शिक्षक पोर्टल",
+      "admin": "एडमिन पैनल"
+    },
+    "loggedOut": "आप लॉग आउट हो गए हैं।",
+    "greeting": "अस्सलामु अलैकुम, {{name}}",
+    "website": "वेबसाइट",
+    "openMenu": "मेनू खोलें"
+  },
+  "student": {
+    "nav": {
+      "dashboard": "डैशबोर्ड",
+      "courses": "मेरे कोर्स",
+      "bookmarks": "बुकमार्क",
+      "notes": "मेरे नोट्स",
+      "certificates": "प्रमाणपत्र",
+      "profile": "प्रोफ़ाइल"
+    },
+    "bookmarks": {
+      "title": "बुकमार्क",
+      "subtitle": "वे पाठ जिन्हें आपने बाद में देखने के लिए सहेजा है।",
+      "removed": "बुकमार्क हटा दिया गया।",
+      "emptyTitle": "अभी कोई बुकमार्क नहीं है",
+      "emptyText": "पाठ पढ़ते समय बुकमार्क बटन दबाकर उसे यहाँ सहेजें।",
+      "goCourses": "मेरे कोर्स पर जाएँ",
+      "count_one": "{{count}} बुकमार्क",
+      "count_other": "{{count}} बुकमार्क",
+      "savedOn": "{{date}} को सहेजा गया",
+      "removeLabel": "बुकमार्क हटाएँ: {{title}}",
+      "removeTitle": "बुकमार्क हटाएँ"
+    },
+    "notes": {
+      "title": "मेरे नोट्स",
+      "subtitle": "पढ़ाई के दौरान आपने जो लिखा। इन्हें केवल आप देख सकते हैं।",
+      "searchPlaceholder": "मेरे नोट्स खोजें",
+      "noMatchTitle": "कोई नोट मेल नहीं खाता",
+      "noMatchText": "कोई दूसरा शब्द आज़माएँ।",
+      "noneTitle": "अभी कोई नोट नहीं है",
+      "noneText": "कोई पाठ खोलें और “मेरे नोट्स” टैब से अपना पहला नोट लिखें।",
+      "goCourses": "मेरे कोर्स पर जाएँ",
+      "count_one": "{{count}} नोट",
+      "count_other": "{{count}} नोट्स",
+      "editedOn": "{{date}} को संपादित"
+    },
+    "certificates": {
+      "title": "प्रमाणपत्र",
+      "subtitle": "PDF प्रमाणपत्र पाने के लिए कोर्स के सभी पाठ पूरे करें।",
+      "readyHeading": "दावा करने के लिए तैयार",
+      "issuedHeading": "आपके प्रमाणपत्र",
+      "courseCompleted": "कोर्स पूरा",
+      "nameLabel": "प्रमाणपत्र पर छपने वाला नाम",
+      "nameHint": "अंग्रेज़ी अक्षरों में लिखें। प्रमाणपत्र जारी होने के बाद नाम नहीं बदला जा सकता।",
+      "getCertificate": "मेरा प्रमाणपत्र लें",
+      "readyToast": "आपका प्रमाणपत्र तैयार है।",
+      "pendingQuiz_one": "यह प्रमाणपत्र खोलने के लिए यह क्विज़ पास करें:",
+      "pendingQuiz_other": "यह प्रमाणपत्र खोलने के लिए ये क्विज़ पास करें:",
+      "issued": "जारी: {{date}}",
+      "downloadPdf": "PDF डाउनलोड करें",
+      "emptyTitle": "अभी कोई प्रमाणपत्र नहीं है",
+      "emptyText": "किसी कोर्स के सभी पाठ (और ज़रूरी क्विज़) पूरे करने पर प्रमाणपत्र यहाँ दिखेगा।",
+      "continueLearning": "पढ़ाई जारी रखें"
+    },
+    "profile": {
+      "title": "प्रोफ़ाइल",
+      "detailsTitle": "आपकी जानकारी",
+      "emailHint": "आपका ईमेल ही लॉगिन है। इसे यहाँ नहीं बदला जा सकता।",
+      "saveChanges": "बदलाव सहेजें",
+      "saving": "सहेजा जा रहा है…",
+      "nameUpdated": "आपका नाम अपडेट हो गया है।",
+      "passwordTitle": "पासवर्ड बदलें",
+      "passwordSubtitle": "आप यहाँ लॉग इन रहेंगे। आपके दूसरे डिवाइस लॉग आउट हो जाएँगे।",
+      "currentPassword": "मौजूदा पासवर्ड",
+      "newPassword": "नया पासवर्ड",
+      "repeatPassword": "नया पासवर्ड फिर से लिखें",
+      "changePassword": "पासवर्ड बदलें",
+      "changing": "बदला जा रहा है…",
+      "passwordChanged": "पासवर्ड बदल दिया गया है। दूसरे डिवाइस लॉग आउट हो गए हैं।",
+      "statsEnrolled": "नामांकित कोर्स",
+      "statsCompleted": "पूरे किए कोर्स",
+      "statsLessons": "पूरे किए पाठ",
+      "statsBookmarks": "बुकमार्क",
+      "badge": "छात्र",
+      "memberSince": "{{date}} से सदस्य"
+    }
+  }
+}

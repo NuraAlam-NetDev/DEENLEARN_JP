@@ -1,0 +1,82 @@
+{
+  "uploader": {
+    "chooseFiles": "اختر الملفات", "files": "الملفات", "aFile": "ملفًا",
+    "dropHint": "أو اسحب {{what}} وأفلتها هنا", "maxEach": "الحد الأقصى {{max}} MB لكل ملف",
+    "overLimit": "حجم {{size}} يتجاوز الحد المسموح {{max}} MB.", "notAllowed": "نوع هذا الملف غير مسموح هنا.",
+    "dismiss": "إغلاق", "cancel": "إلغاء", "saving": "جارٍ الحفظ…", "uploadingAria": "جارٍ رفع {{name}}"
+  },
+  "lessonEditor": {
+    "backToCourse": "العودة إلى الدورة", "newTitle": "درس جديد", "editTitle": "تعديل الدرس", "cancel": "إلغاء",
+    "filesTitle": "الملفات",
+    "filesHint": "PDF وصور وصوت وفيديو (MP3 وWAV وOGG وM4A وMP4 وWEBM وMOV). تُحفظ الملفات فور رفعها.",
+    "maxReached": "وصل هذا الدرس إلى الحد الأقصى من الملفات. احذف ملفًا لإضافة آخر.",
+    "uploaded": "تم رفع {{name}}", "removed": "تم حذف الملف", "removeAria": "إزالة {{name}}",
+    "lessonTitle": "عنوان الدرس", "videoLink": "رابط الفيديو (اختياري)",
+    "videoLinkHint": "رابط YouTube أو Vimeo، أو اتركه فارغًا.",
+    "videoInvalid": "أدخل رابطًا يبدأ بـ http:// أو https://", "content": "المحتوى",
+    "unsaved": "تغييرات غير محفوظة", "saveLesson": "حفظ الدرس", "createLesson": "إنشاء الدرس",
+    "saved": "تم حفظ الدرس", "created": "تم إنشاء الدرس. يمكنك الآن إرفاق الملفات.",
+    "saveFirst": "احفظ الدرس أولًا، ثم يمكنك إرفاق PDF وصور وصوت وفيديو به.",
+    "titleRequired": "العنوان مطلوب", "titleLong": "يجب ألا يتجاوز العنوان 150 حرفًا"
+  },
+  "courseManage": {
+    "backToList": "دوراتي", "toastUnpublished": "تم إلغاء نشر الدورة", "toastPublished": "تم نشر الدورة",
+    "toastDeleted": "تم حذف الدورة", "published": "منشورة", "draft": "مسودة", "editDetails": "تعديل التفاصيل",
+    "unpublish": "إلغاء النشر", "publish": "نشر", "deleteAria": "حذف الدورة", "overview": "نظرة عامة",
+    "lessons": "الدروس", "lessonsHint": "اسحب المقبض لتغيير الترتيب.", "addLesson": "إضافة درس",
+    "deleteTitle": "حذف هذه الدورة؟",
+    "deleteText": "سيتم حذف الدورة وجميع دروسها وملفاتها وتسجيلاتها وتقدم طلابها. لا يمكن التراجع عن ذلك.",
+    "deleteConfirm": "حذف الدورة",
+    "stats": {
+      "students": "الطلاب", "newThisWeek": "{{n}} جديد هذا الأسبوع", "lessons": "الدروس",
+      "completedCourse": "أكملوا الدورة", "ofStudents": "من {{n}} طالبًا", "avgProgress": "متوسط التقدم",
+      "completionsTitle": "الإكمال حسب الدرس"
+    }
+  },
+  "lessonManager": {
+    "reorderAria": "إعادة ترتيب الدرس {{n}}: {{title}}. اضغط المسافة، ثم استخدم مفاتيح الأسهم.",
+    "filesCount_one": "ملف واحد", "filesCount_other": "{{count}} ملفات",
+    "quiz": "اختبار", "quizAria": "اختبار {{title}}", "qa": "أسئلة", "qaAria": "أسئلة حول {{title}}",
+    "edit": "تعديل", "editAria": "تعديل {{title}}", "deleteAria": "حذف {{title}}",
+    "orderSaved": "تم حفظ ترتيب الدروس", "lessonDeleted": "تم حذف الدرس",
+    "noLessonsTitle": "لا توجد دروس بعد",
+    "noLessonsText": "أضف درسك الأول. تحتاج الدورة إلى درس واحد على الأقل قبل نشرها.",
+    "addLesson": "إضافة درس", "listLabel": "الدروس",
+    "deleteTitle": "حذف هذا الدرس؟",
+    "deleteText": "سيتم حذف “{{title}}” والملفات التي رفعتها. كما سيتم حذف اختباره وتقدم الطلاب وملاحظاتهم وأسئلتهم.",
+    "deleteConfirm": "حذف الدرس"
+  },
+  "quizEditor": {
+    "back": "العودة إلى الدورة", "title": "اختبار الدرس",
+    "problems": {
+      "titleMissing": "أعطِ الاختبار عنوانًا.",
+      "passInvalid": "يجب أن تكون درجة النجاح عددًا صحيحًا من 0 إلى 100.",
+      "needQuestion": "أضف سؤالًا واحدًا على الأقل قبل النشر.",
+      "questionWrite": "السؤال {{n}}: اكتب نص السؤال.",
+      "questionOptions": "السؤال {{n}}: أضف خيارين على الأقل.",
+      "questionEmpty": "السؤال {{n}}: املأ الخيارات الفارغة أو احذفها.",
+      "questionCorrect": "السؤال {{n}}: حدد خيارًا واحدًا صحيحًا على الأقل."
+    },
+    "lessonLabel": "الدرس: {{title}}", "quizTitle": "عنوان الاختبار", "passMark": "درجة النجاح (%)",
+    "required": "يجب على الطلاب اجتياز هذا الاختبار",
+    "requiredHint": "لن يتمكنوا من وضع الدرس كمكتمل أو الحصول على شهادة الدورة قبل النجاح.",
+    "questionN": "السؤال {{n}}", "moveUp": "نقل السؤال {{n}} لأعلى", "moveDown": "نقل السؤال {{n}} لأسفل",
+    "deleteQuestionAria": "حذف السؤال {{n}}", "questionLabel": "السؤال", "optionsLegend": "الخيارات",
+    "tickCorrect": "(ضع علامة على كل الإجابات الصحيحة)",
+    "tickMultiple": "(ضع علامة على كل الإجابات الصحيحة · سيرى الطلاب “اختر كل ما ينطبق”)",
+    "optionCorrectAria": "الخيار {{n}} صحيح", "optionTextAria": "نص الخيار {{n}}",
+    "optionPlaceholder": "الخيار {{n}}", "removeOptionAria": "حذف الخيار {{n}}", "addOption": "إضافة خيار",
+    "explanation": "الشرح (اختياري)", "explanationHint": "يظهر للطالب بعد إرسال إجابته.",
+    "addQuestion": "إضافة سؤال", "visible": "مرئي للطلاب", "draft": "مسودة", "delete": "حذف",
+    "unpublish": "إلغاء النشر", "saveDraft": "حفظ كمسودة", "saveChanges": "حفظ التغييرات", "savePublish": "حفظ ونشر",
+    "savedPublished": "تم حفظ الاختبار وأصبح مرئيًا للطلاب.", "savedDraft": "تم حفظ الاختبار كمسودة.",
+    "deleted": "تم حذف الاختبار", "resultsTitle": "نتائج الطلاب", "noAttempts": "لم يُجرِ أي طالب هذا الاختبار بعد.",
+    "summary_one": "طالب واحد · {{pass}}% نجحوا · متوسط أفضل درجة {{avg}}%",
+    "summary_other": "{{count}} طلاب · {{pass}}% نجحوا · متوسط أفضل درجة {{avg}}%",
+    "colStudent": "الطالب", "colBest": "الأفضل", "colAttempts": "المحاولات", "colStatus": "الحالة",
+    "colLast": "آخر محاولة", "passed": "ناجح", "notPassed": "لم ينجح",
+    "deleteTitle": "حذف هذا الاختبار؟", "deleteText": "سيتم حذف الاختبار ومحاولات جميع الطلاب. لا يمكن التراجع عن ذلك.",
+    "deleteConfirm": "حذف الاختبار"
+  },
+  "lessonQa": { "back": "العودة إلى الدورة", "title": "الأسئلة والأجوبة", "lesson": "الدرس: {{title}}" }
+}

@@ -1,0 +1,21 @@
+{
+  "auditLog": {
+    "nav": "Audit log",
+    "title": "Audit log",
+    "subtitle": "Every change made by admins and the super admin: who, what, when.",
+    "searchPlaceholder": "Search by action, e.g. ban or approve",
+    "from": "From",
+    "to": "To",
+    "fields": "fields: {{list}}",
+    "emptyTitle": "No activity found",
+    "emptyText": "Try another search or date range.",
+    "cols": {
+      "when": "When",
+      "who": "Who",
+      "action": "Action",
+      "target": "Target ID",
+      "result": "Result",
+      "ip": "IP"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "courses": {
+    "title": "コース一覧",
+    "subtitle": "学習を始めるコースを探しましょう。",
+    "searchLabel": "コースを検索",
+    "searchPlaceholder": "タイトルや説明でコースを検索",
+    "clearSearch": "検索をクリア",
+    "filterLabel": "カテゴリで絞り込み",
+    "all": "すべて",
+    "found": "見つかったコース: {{n}}件",
+    "clearFilters": "絞り込みを解除",
+    "noMatchTitle": "検索に一致するコースがありません",
+    "noMatchText": "別のキーワードを試すか、絞り込みを解除してください。",
+    "noneTitle": "まだコースがありません",
+    "noneText": "講師がコースを公開すると、ここに表示されます。"
+  },
+  "courseDetail": {
+    "allCourses": "コース一覧に戻る",
+    "notFoundTitle": "コースが見つかりません",
+    "notFoundText": "このコースは存在しないか、公開されていません。",
+    "browse": "コースを探す",
+    "loadError": "このコースを読み込めませんでした。",
+    "loginPrompt": "このコースに参加するには、ログインまたはアカウントを作成してください。",
+    "loginToEnroll": "ログインして登録",
+    "createAccount": "アカウントを作成",
+    "enrolled": "登録済みです",
+    "progressDone": "完了: {{done}} / {{total}} レッスン",
+    "goDashboard": "マイダッシュボードへ",
+    "ownCourse": "これはあなたのコースです。受講者には以下のように表示されます。",
+    "manageCourses": "マイコースを管理",
+    "joinPrompt": "{{n}}件のレッスンをすべて開き、進捗を記録するには参加してください。",
+    "enrollNow": "今すぐ登録",
+    "studentsOnly": "コースに登録できるのは受講者アカウントのみです。",
+    "draft": "下書き: あなただけに表示されます",
+    "lessonsLabel": "レッスン: {{n}}件",
+    "aboutTitle": "このコースについて",
+    "noDescription": "講師はまだ説明を追加していません。",
+    "contentTitle": "コースの内容",
+    "noLessons": "まだレッスンが追加されていません。",
+    "enrolledToast": "このコースに登録しました。",
+    "alreadyEnrolled": "すでに登録済みです。"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "card": {
+    "enrolled": "مسجّل",
+    "lessonsCount_one": "درس واحد",
+    "lessonsCount_other": "{{count}} دروس",
+    "lessonsDone_one": "{{done}} من {{count}} درس مكتمل",
+    "lessonsDone_other": "{{done}} من {{count}} دروس مكتملة",
+    "learners_one": "متعلم واحد",
+    "learners_other": "{{count}} متعلمين"
+  },
+  "student": {
+    "home": {
+      "title": "تعلّمي",
+      "noCoursesTitle": "لا توجد دورات بعد",
+      "noCoursesText": "لم تسجّل في أي دورة بعد."
+    },
+    "courses": {
+      "title": "دوراتي",
+      "subtitle": "كل الدورات التي انضممت إليها ومدى تقدمك في كل منها.",
+      "searchLabel": "ابحث في دوراتي",
+      "searchPlaceholder": "ابحث في دوراتي",
+      "clearSearch": "مسح البحث",
+      "filterLabel": "تصفية حسب التقدم",
+      "tabAll": "الكل",
+      "tabInProgress": "قيد التقدم",
+      "tabCompleted": "مكتملة",
+      "found_one": "دورة واحدة",
+      "found_other": "{{count}} دورات",
+      "clearFilters": "مسح عوامل التصفية",
+      "noMatchTitle": "لا توجد دورات مطابقة",
+      "noMatchText": "جرّب كلمة أخرى، أو أزل أحد عوامل التصفية.",
+      "noneTitle": "لا توجد دورات بعد",
+      "noneText": "لم تسجّل في أي دورة بعد. ابحث عن دورة وابدأ اليوم.",
+      "browse": "تصفح الدورات"
+    },
+    "continue": {
+      "label": "متابعة التعلم",
+      "nextLesson": "الدرس التالي: {{lesson}}",
+      "progressLabel": "تقدم الدورة",
+      "pctComplete": "مكتمل بنسبة {{pct}}%",
+      "button": "متابعة التعلم"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "orders": {
+    "nav": "注文履歴",
+    "title": "注文履歴",
+    "subtitle": "これまでのお支払いと現在の状況です。",
+    "retry": "再試行",
+    "deletedCourse": "削除されたコース",
+    "openCourse": "マイコースを開く",
+    "provider": {
+      "sslcommerz": "bKash / Nagad / カード",
+      "stripe": "カード (USD)",
+      "cash": "講師に現金"
+    },
+    "status": {
+      "pending": "支払い待ち",
+      "cash_pending": "講師の確認待ち",
+      "awaiting_approval": "管理者の承認待ち",
+      "approved": "承認済み",
+      "rejected": "未承認",
+      "failed": "失敗",
+      "cancelled": "キャンセル"
+    },
+    "hint": {
+      "pending": "支払いの完了を待っています。",
+      "cash_pending": "講師に現金をお渡しください。講師が次に確認します。",
+      "awaiting_approval": "支払いが確認されました。管理者が登録を承認します。",
+      "approved": "承認されました。このコースに登録されています。",
+      "rejected": "未承認。理由: {{reason}}",
+      "failed": "支払いが完了しませんでした。",
+      "cancelled": "キャンセル。理由: {{reason}}"
+    },
+    "empty": {
+      "title": "まだ注文がありません",
+      "text": "コースを購入すると、お支払いがここに表示されます。"
+    }
+  }
+}

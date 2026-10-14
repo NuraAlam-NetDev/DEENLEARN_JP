@@ -1,0 +1,78 @@
+{
+  "validation": {
+    "name": {
+      "required": "Name is required",
+      "min": "Name must be at least {{n}} characters",
+      "max": "Name must be at most {{n}} characters"
+    },
+    "email": {
+      "required": "Email is required",
+      "invalid": "Enter a valid email address"
+    },
+    "password": {
+      "required": "Password is required",
+      "min": "Password must be at least {{n}} characters",
+      "max": "Password must be at most {{n}} characters",
+      "letter": "Password must contain a letter (A-Z)",
+      "number": "Password must contain a number"
+    },
+    "newPassword": {
+      "required": "New password is required",
+      "min": "New password must be at least {{n}} characters",
+      "max": "New password must be at most {{n}} characters",
+      "letter": "New password must contain a letter (A-Z)",
+      "number": "New password must contain a number",
+      "sameAsCurrent": "New password must be different from the current one"
+    },
+    "currentPassword": {
+      "required": "Enter your current password"
+    },
+    "confirmPassword": {
+      "required": "Repeat the new password",
+      "mismatch": "Passwords do not match"
+    }
+  },
+  "home": {
+    "heroTitle": "Learn your deen, step by step",
+    "heroText": "Structured Islamic courses taught by approved teachers, at your own pace.",
+    "browse": "Browse courses",
+    "myDashboard": "My dashboard",
+    "createAccount": "Create an account",
+    "whyTitle": "Why Deenlearn",
+    "f1Title": "Learn at your pace",
+    "f1Text": "Follow a course lesson by lesson and watch your progress grow.",
+    "f2Title": "Trusted teachers",
+    "f2Text": "Every teacher is approved by an administrator before publishing.",
+    "f3Title": "Text, PDF and audio",
+    "f3Text": "Lessons can include readings, documents, images and recitations.",
+    "f4Title": "Works on every screen",
+    "f4Text": "Study on your phone, tablet or computer, in left-to-right or right-to-left text.",
+    "popularTitle": "Popular courses",
+    "popularText": "The courses most learners have joined.",
+    "viewAll": "View all",
+    "howTitle": "How it works",
+    "s1Title": "Create your account",
+    "s1Text": "Register as a student in less than a minute.",
+    "s2Title": "Choose a course",
+    "s2Text": "Search or filter the catalog and open a course to see its lessons.",
+    "s3Title": "Enroll and learn",
+    "s3Text": "Join the course and work through the lessons in order.",
+    "s4Title": "Track your progress",
+    "s4Text": "Mark lessons complete and see your percentage in your dashboard.",
+    "readyTitle": "Ready to begin?",
+    "readyText": "Create an account and start your first course today.",
+    "getStarted": "Get started",
+    "haveAccount": "I already have an account"
+  },
+  "status": {
+    "title": "System status",
+    "online": "Online",
+    "degraded": "Degraded",
+    "apiUnreachable": "API unreachable: {{error}}"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you are looking for does not exist or has moved.",
+    "back": "Back home"
+  }
+}

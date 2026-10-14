@@ -1,0 +1,13 @@
+{ "shared": {
+  "modal": { "close": "閉じる" },
+  "confirm": { "title": "よろしいですか？", "confirm": "確定", "cancel": "キャンセル" },
+  "pagination": { "label": "ページ送り", "previous": "前へ", "next": "次へ", "pageOf": "{{pages}} ページ中 {{page}} ページ" },
+  "progress": { "label": "進捗", "complete": "{{pct}}% 完了" },
+  "spinner": { "loading": "読み込み中" },
+  "editor": {
+    "label": "レッスンの内容", "toolbar": "書式", "bold": "太字", "italic": "斜体", "underline": "下線",
+    "heading": "見出し", "subheading": "小見出し", "bulletList": "箇条書き", "numberedList": "番号付きリスト",
+    "quote": "引用", "link": "リンク", "undo": "元に戻す", "redo": "やり直す", "bulletText": "• リスト",
+    "numberedText": "1. リスト", "linkPrompt": "リンク先 (https://…)。空欄にするとリンクを削除します。"
+  }
+} }

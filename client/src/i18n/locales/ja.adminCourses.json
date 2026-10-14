@@ -1,0 +1,21 @@
+{
+  "adminCourses": {
+    "title": "コース",
+    "subtitle": "コースは講師が作成・公開します。管理者はここで非公開・公開・削除を行えます。",
+    "empty": "まだコースがありません",
+    "emptyText": "講師がコースを作成すると、ここに表示されます。",
+    "teacherLabel": "講師: {{name}}",
+    "unknownTeacher": "不明",
+    "published": "公開中",
+    "hidden": "非公開 / 下書き",
+    "show": "公開する",
+    "hide": "非公開にする",
+    "delete": "削除",
+    "confirmHide": "「{{title}}」をコース一覧から非公開にしますか？ 再度公開するまで受講者には表示されません。",
+    "confirmShow": "「{{title}}」をコース一覧に公開しますか？",
+    "confirmDelete": "「{{title}}」を完全に削除しますか？ レッスン、登録情報、ファイルが削除されます。",
+    "shown": "コースを公開しました",
+    "hiddenToast": "コースを非公開にしました",
+    "deleted": "コースを削除しました"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "main": "メイン",
+    "home": "ホーム",
+    "courses": "コース一覧",
+    "status": "ステータス",
+    "design": "デザイン",
+    "dashboard": "ダッシュボード",
+    "logout": "ログアウト",
+    "login": "ログイン",
+    "register": "新規登録",
+    "openMenu": "メニューを開く",
+    "closeMenu": "メニューを閉じる"
+  },
+  "language": {
+    "label": "言語"
+  },
+  "common": {
+    "loading": "読み込み中…"
+  },
+  "footer": {
+    "tagline": "承認された講師が指導する、体系的なイスラム教育のコース。自分のペースで学べます。",
+    "explore": "探す",
+    "home": "ホーム",
+    "courses": "コース一覧",
+    "systemStatus": "システム状況",
+    "account": "アカウント",
+    "myDashboard": "マイダッシュボード",
+    "login": "ログイン",
+    "createAccount": "アカウントを作成",
+    "rights": "© {{year}} Deenlearn. All rights reserved."
+  },
+  "auth": {
+    "loginTitle": "おかえりなさい",
+    "loginSubtitle": "ログインして学習を続けましょう。",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "loginButton": "ログイン",
+    "loggingIn": "ログイン中…",
+    "newHere": "初めての方ですか？",
+    "createAccount": "アカウントを作成",
+    "registerTitle": "アカウント作成",
+    "registerSubtitle": "学ぶ方も、教える方も、ぜひご登録ください。",
+    "name": "名前",
+    "passwordHint": "8〜72文字で、英字と数字を含めてください。",
+    "iWantTo": "目的",
+    "learn": "学ぶ",
+    "teach": "教える",
+    "teacherNote": "講師アカウントはコースを公開する前に管理者の承認が必要です。",
+    "registerButton": "登録",
+    "creating": "作成中…",
+    "alreadyRegistered": "すでに登録済みですか？",
+    "welcomeToast": "Deenlearnへようこそ！",
+    "accountCreated": "アカウントを作成しました",
+    "teacherWaitingToast": "講師アカウントは管理者の承認待ちです。"
+  }
+}

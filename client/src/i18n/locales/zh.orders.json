@@ -1,0 +1,37 @@
+{
+  "orders": {
+    "nav": "我的订单",
+    "title": "我的订单",
+    "subtitle": "您的全部付款记录及当前状态。",
+    "retry": "重试",
+    "deletedCourse": "已删除的课程",
+    "openCourse": "打开我的课程",
+    "provider": {
+      "sslcommerz": "bKash / Nagad / 银行卡",
+      "stripe": "银行卡 (USD)",
+      "cash": "现金给讲师"
+    },
+    "status": {
+      "pending": "待付款",
+      "cash_pending": "等待讲师确认",
+      "awaiting_approval": "等待管理员审批",
+      "approved": "已批准",
+      "rejected": "未批准",
+      "failed": "失败",
+      "cancelled": "已取消"
+    },
+    "hint": {
+      "pending": "等待付款完成。",
+      "cash_pending": "请将现金交给讲师，讲师随后确认。",
+      "awaiting_approval": "付款已确认，管理员将批准您的报名。",
+      "approved": "已批准，您已报名该课程。",
+      "rejected": "未批准。原因：{{reason}}",
+      "failed": "付款未成功。",
+      "cancelled": "已取消。原因：{{reason}}"
+    },
+    "empty": {
+      "title": "暂无订单",
+      "text": "购买课程后，付款记录会显示在这里。"
+    }
+  }
+}

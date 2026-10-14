@@ -1,0 +1,81 @@
+{
+  "uploader": {
+    "chooseFiles": "ファイルを選択", "files": "ファイル", "aFile": "ファイル",
+    "dropHint": "ここに{{what}}をドロップ", "maxEach": "1ファイル最大 {{max}} MB",
+    "overLimit": "{{size}} は上限 {{max}} MB を超えています。", "notAllowed": "このファイル形式はここでは使えません。",
+    "dismiss": "閉じる", "cancel": "キャンセル", "saving": "保存中…", "uploadingAria": "{{name}} をアップロード中"
+  },
+  "lessonEditor": {
+    "backToCourse": "コースに戻る", "newTitle": "新しいレッスン", "editTitle": "レッスンを編集", "cancel": "キャンセル",
+    "filesTitle": "ファイル",
+    "filesHint": "PDF、画像、音声、動画（MP3、WAV、OGG、M4A、MP4、WEBM、MOV）。アップロードするとすぐに保存されます。",
+    "maxReached": "このレッスンのファイル数が上限に達しています。追加するには既存のファイルを削除してください。",
+    "uploaded": "{{name}} をアップロードしました", "removed": "ファイルを削除しました", "removeAria": "{{name}} を削除",
+    "lessonTitle": "レッスンのタイトル", "videoLink": "動画リンク（任意）",
+    "videoLinkHint": "YouTube または Vimeo のリンク。空欄でも構いません。",
+    "videoInvalid": "http:// または https:// で始まるリンクを入力してください",
+    "content": "内容", "unsaved": "未保存の変更", "saveLesson": "レッスンを保存", "createLesson": "レッスンを作成",
+    "saved": "レッスンを保存しました", "created": "レッスンを作成しました。ファイルを追加できます。",
+    "saveFirst": "先にレッスンを保存すると、PDF、画像、音声、動画を追加できます。",
+    "titleRequired": "タイトルを入力してください", "titleLong": "タイトルは150文字以内にしてください"
+  },
+  "courseManage": {
+    "backToList": "マイコース", "toastUnpublished": "コースを非公開にしました", "toastPublished": "コースを公開しました",
+    "toastDeleted": "コースを削除しました", "published": "公開中", "draft": "下書き", "editDetails": "詳細を編集",
+    "unpublish": "非公開にする", "publish": "公開", "deleteAria": "コースを削除", "overview": "概要", "lessons": "レッスン",
+    "lessonsHint": "ハンドルをドラッグして順番を変更できます。", "addLesson": "レッスンを追加",
+    "deleteTitle": "このコースを削除しますか？",
+    "deleteText": "コース、すべてのレッスン、ファイル、登録情報、受講者の進捗が削除されます。元に戻せません。",
+    "deleteConfirm": "コースを削除",
+    "stats": {
+      "students": "受講者", "newThisWeek": "今週の新規 {{n}} 名", "lessons": "レッスン", "completedCourse": "修了者",
+      "ofStudents": "受講者 {{n}} 名中", "avgProgress": "平均進捗", "completionsTitle": "レッスン別の完了者数"
+    }
+  },
+  "lessonManager": {
+    "reorderAria": "レッスン {{n}} を並べ替え: {{title}}。スペースを押してから矢印キーを使ってください。",
+    "filesCount_one": "ファイル{{count}}件", "filesCount_other": "ファイル{{count}}件",
+    "quiz": "クイズ", "quizAria": "{{title}} のクイズ", "qa": "Q&A", "qaAria": "{{title}} への質問",
+    "edit": "編集", "editAria": "{{title}} を編集", "deleteAria": "{{title}} を削除",
+    "orderSaved": "レッスンの順番を保存しました", "lessonDeleted": "レッスンを削除しました",
+    "noLessonsTitle": "まだレッスンがありません",
+    "noLessonsText": "最初のレッスンを追加しましょう。公開するには、コースに少なくとも1つレッスンが必要です。",
+    "addLesson": "レッスンを追加", "listLabel": "レッスン",
+    "deleteTitle": "このレッスンを削除しますか？",
+    "deleteText": "「{{title}}」とアップロードしたファイルが削除されます。クイズ、受講者の進捗、メモ、質問も削除されます。",
+    "deleteConfirm": "レッスンを削除"
+  },
+  "quizEditor": {
+    "back": "コースに戻る", "title": "レッスンのクイズ",
+    "problems": {
+      "titleMissing": "クイズのタイトルを入力してください。",
+      "passInvalid": "合格点は0〜100の整数で入力してください。",
+      "needQuestion": "公開するには質問を1つ以上追加してください。",
+      "questionWrite": "問{{n}}: 問題文を入力してください。",
+      "questionOptions": "問{{n}}: 選択肢を2つ以上追加してください。",
+      "questionEmpty": "問{{n}}: 空の選択肢を埋めるか削除してください。",
+      "questionCorrect": "問{{n}}: 正解の選択肢を1つ以上選んでください。"
+    },
+    "lessonLabel": "レッスン: {{title}}", "quizTitle": "クイズのタイトル", "passMark": "合格点 (%)",
+    "required": "受講者は必ずこのクイズに合格する必要があります",
+    "requiredHint": "合格するまで、レッスンを完了にしたりコースの修了証を受け取ったりできません。",
+    "questionN": "問{{n}}", "moveUp": "問{{n}} を上へ", "moveDown": "問{{n}} を下へ", "deleteQuestionAria": "問{{n}} を削除",
+    "questionLabel": "問題文", "optionsLegend": "選択肢",
+    "tickCorrect": "（正解をすべてチェックしてください）",
+    "tickMultiple": "（正解をすべてチェックしてください · 受講者には「当てはまるものをすべて選んでください」と表示されます）",
+    "optionCorrectAria": "選択肢 {{n}} は正解", "optionTextAria": "選択肢 {{n}} の文",
+    "optionPlaceholder": "選択肢 {{n}}", "removeOptionAria": "選択肢 {{n}} を削除", "addOption": "選択肢を追加",
+    "explanation": "解説（任意）", "explanationHint": "受講者が回答を送信した後に表示されます。",
+    "addQuestion": "問題を追加", "visible": "受講者に公開中", "draft": "下書き", "delete": "削除",
+    "unpublish": "非公開にする", "saveDraft": "下書きを保存", "saveChanges": "変更を保存", "savePublish": "保存して公開",
+    "savedPublished": "クイズを保存し、受講者に公開しました。", "savedDraft": "クイズを下書きとして保存しました。",
+    "deleted": "クイズを削除しました", "resultsTitle": "受講者の結果", "noAttempts": "まだ受験した受講者はいません。",
+    "summary_one": "受講者{{count}}名 · 合格率 {{pass}}% · 平均ベストスコア {{avg}}%",
+    "summary_other": "受講者{{count}}名 · 合格率 {{pass}}% · 平均ベストスコア {{avg}}%",
+    "colStudent": "受講者", "colBest": "ベスト", "colAttempts": "受験回数", "colStatus": "状況", "colLast": "最終受験",
+    "passed": "合格", "notPassed": "不合格",
+    "deleteTitle": "このクイズを削除しますか？", "deleteText": "クイズと、すべての受講者の受験記録が削除されます。元に戻せません。",
+    "deleteConfirm": "クイズを削除"
+  },
+  "lessonQa": { "back": "コースに戻る", "title": "Q&A", "lesson": "レッスン: {{title}}" }
+}

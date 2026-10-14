@@ -1,0 +1,30 @@
+{ "admin": {
+  "layout": { "overview": "सारांश", "users": "उपयोगकर्ता", "courses": "कोर्स", "admins": "एडमिन" },
+  "home": {
+    "title": "एडमिन सारांश", "users": "उपयोगकर्ता", "newWeek": "इस हफ़्ते {{n}} नए", "students": "छात्र",
+    "teachers": "शिक्षक", "pendingTeachers": "लंबित शिक्षक", "banned": "प्रतिबंधित उपयोगकर्ता", "courses": "कोर्स",
+    "coursesHint": "{{n}} प्रकाशित", "lessons": "पाठ", "enrollments": "नामांकन", "enrollHint": "{{n}} पूरे"
+  },
+  "roles": { "student": "छात्र", "teacher": "शिक्षक", "admin": "एडमिन", "super_admin": "सुपर एडमिन" },
+  "users": {
+    "title": "उपयोगकर्ता", "searchPlaceholder": "नाम या ईमेल से खोजें", "allRoles": "सभी भूमिकाएँ",
+    "anyApproval": "कोई भी मंज़ूरी", "pendingTeachers": "लंबित शिक्षक", "approved": "स्वीकृत", "rejected": "अस्वीकृत",
+    "anyStatus": "कोई भी स्थिति", "active": "सक्रिय", "banned": "प्रतिबंधित", "empty": "कोई उपयोगकर्ता नहीं मिला",
+    "emptyText": "कोई और खोज या फ़िल्टर आज़माएँ।", "pendingBadge": "लंबित", "rejectedBadge": "अस्वीकृत",
+    "bannedBadge": "प्रतिबंधित", "approve": "मंज़ूरी दें", "reject": "अस्वीकार करें", "ban": "प्रतिबंध लगाएँ",
+    "unban": "प्रतिबंध हटाएँ", "changeRole": "{{name}} की भूमिका बदलें",
+    "confirmBan": "{{name}} पर प्रतिबंध लगाएँ? उन्हें लॉग आउट कर दिया जाएगा और वे लॉग इन नहीं कर पाएँगे।",
+    "confirmReject": "{{name}} का शिक्षक आवेदन अस्वीकार करें?", "confirmRole": "{{name}} को {{role}} बनाएँ?",
+    "bannedToast": "उपयोगकर्ता पर प्रतिबंध लगा दिया गया", "unbannedToast": "उपयोगकर्ता पर से प्रतिबंध हटा दिया गया",
+    "approvedToast": "शिक्षक को मंज़ूरी मिल गई", "rejectedToast": "आवेदन अस्वीकार कर दिया गया",
+    "roleUpdated": "भूमिका अपडेट हो गई"
+  },
+  "admins": {
+    "title": "एडमिन", "createTitle": "एडमिन बनाएँ", "createSubtitle": "नए एडमिन इसी ईमेल और पासवर्ड से लॉग इन करेंगे।",
+    "name": "नाम", "email": "ईमेल", "tempPassword": "अस्थायी पासवर्ड", "createButton": "एडमिन बनाएँ",
+    "creating": "बनाया जा रहा है…", "currentTitle": "मौजूदा एडमिन", "emptyTitle": "अभी कोई एडमिन नहीं है",
+    "emptyText": "फ़ॉर्म से पहला एडमिन बनाएँ।", "remove": "हटाएँ",
+    "confirmRemove": "{{name}} से एडमिन अधिकार हटाएँ? वे छात्र बन जाएँगे।",
+    "removed": "एडमिन अधिकार हटा दिए गए", "created": "एडमिन बन गया"
+  }
+} }

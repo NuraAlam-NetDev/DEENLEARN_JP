@@ -1,0 +1,89 @@
+{
+  "layout": {
+    "portal": {
+      "student": "学员门户",
+      "teacher": "教师门户",
+      "admin": "管理面板"
+    },
+    "loggedOut": "您已退出登录。",
+    "greeting": "您好，{{name}}",
+    "website": "网站",
+    "openMenu": "打开菜单"
+  },
+  "student": {
+    "nav": {
+      "dashboard": "控制台",
+      "courses": "我的课程",
+      "bookmarks": "书签",
+      "notes": "我的笔记",
+      "certificates": "证书",
+      "profile": "个人资料"
+    },
+    "bookmarks": {
+      "title": "书签",
+      "subtitle": "您保存下来以便稍后回看的课时。",
+      "removed": "书签已移除。",
+      "emptyTitle": "暂无书签",
+      "emptyText": "阅读课时时，点击书签按钮即可保存到这里。",
+      "goCourses": "前往我的课程",
+      "count_one": "{{count}} 个书签",
+      "count_other": "{{count}} 个书签",
+      "savedOn": "保存于 {{date}}",
+      "removeLabel": "移除书签：{{title}}",
+      "removeTitle": "移除书签"
+    },
+    "notes": {
+      "title": "我的笔记",
+      "subtitle": "学习时您写下的所有笔记。只有您自己可以看到。",
+      "searchPlaceholder": "搜索我的笔记",
+      "noMatchTitle": "没有匹配的笔记",
+      "noMatchText": "请尝试其他关键词。",
+      "noneTitle": "暂无笔记",
+      "noneText": "打开一个课时，使用“我的笔记”标签页写下第一条笔记。",
+      "goCourses": "前往我的课程",
+      "count_one": "{{count}} 条笔记",
+      "count_other": "{{count}} 条笔记",
+      "editedOn": "编辑于 {{date}}"
+    },
+    "certificates": {
+      "title": "证书",
+      "subtitle": "完成课程的全部课时即可获得 PDF 证书。",
+      "readyHeading": "可以领取",
+      "issuedHeading": "我的证书",
+      "courseCompleted": "课程已完成",
+      "nameLabel": "证书上要打印的姓名",
+      "nameHint": "请使用英文字母。证书发出后将无法更改。",
+      "getCertificate": "领取我的证书",
+      "readyToast": "您的证书已准备好。",
+      "pendingQuiz_one": "请通过以下测验以解锁此证书：",
+      "pendingQuiz_other": "请通过以下测验以解锁此证书：",
+      "issued": "颁发于 {{date}}",
+      "downloadPdf": "下载 PDF",
+      "emptyTitle": "暂无证书",
+      "emptyText": "完成某门课程的全部课时（并通过必需的测验）后，证书将显示在这里。",
+      "continueLearning": "继续学习"
+    },
+    "profile": {
+      "title": "个人资料",
+      "detailsTitle": "我的信息",
+      "emailHint": "邮箱即您的登录账号，此处无法修改。",
+      "saveChanges": "保存更改",
+      "saving": "保存中…",
+      "nameUpdated": "姓名已更新。",
+      "passwordTitle": "修改密码",
+      "passwordSubtitle": "您将在此设备保持登录。其他设备将被退出登录。",
+      "currentPassword": "当前密码",
+      "newPassword": "新密码",
+      "repeatPassword": "再次输入新密码",
+      "changePassword": "修改密码",
+      "changing": "修改中…",
+      "passwordChanged": "密码已修改。其他设备已退出登录。",
+      "statsEnrolled": "已报名课程",
+      "statsCompleted": "已完成课程",
+      "statsLessons": "已完成课时",
+      "statsBookmarks": "书签",
+      "badge": "学员",
+      "memberSince": "加入于 {{date}}"
+    }
+  }
+}

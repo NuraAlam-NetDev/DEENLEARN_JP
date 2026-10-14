@@ -1,0 +1,44 @@
+{
+  "card": {
+    "enrolled": "داخلہ لیا",
+    "lessonsCount_one": "{{count}} سبق",
+    "lessonsCount_other": "{{count}} اسباق",
+    "lessonsDone_one": "{{count}} میں سے {{done}} سبق مکمل",
+    "lessonsDone_other": "{{count}} میں سے {{done}} اسباق مکمل",
+    "learners_one": "{{count}} طالب علم",
+    "learners_other": "{{count}} طلبہ"
+  },
+  "student": {
+    "home": {
+      "title": "میری پڑھائی",
+      "noCoursesTitle": "ابھی کوئی کورس نہیں",
+      "noCoursesText": "آپ نے ابھی تک کسی کورس میں داخلہ نہیں لیا۔"
+    },
+    "courses": {
+      "title": "میرے کورسز",
+      "subtitle": "وہ تمام کورسز جن میں آپ شامل ہوئے اور ہر ایک میں آپ کی پیش رفت۔",
+      "searchLabel": "میرے کورسز تلاش کریں",
+      "searchPlaceholder": "میرے کورسز تلاش کریں",
+      "clearSearch": "تلاش صاف کریں",
+      "filterLabel": "پیش رفت کے مطابق فلٹر",
+      "tabAll": "سب",
+      "tabInProgress": "جاری ہیں",
+      "tabCompleted": "مکمل",
+      "found_one": "{{count}} کورس",
+      "found_other": "{{count}} کورسز",
+      "clearFilters": "فلٹر ہٹائیں",
+      "noMatchTitle": "کوئی کورس مماثل نہیں",
+      "noMatchText": "کوئی اور لفظ آزمائیں، یا کوئی فلٹر ہٹا دیں۔",
+      "noneTitle": "ابھی کوئی کورس نہیں",
+      "noneText": "آپ نے ابھی تک کسی کورس میں داخلہ نہیں لیا۔ آج ہی ایک کورس تلاش کریں اور شروع کریں۔",
+      "browse": "کورسز دیکھیں"
+    },
+    "continue": {
+      "label": "سیکھنا جاری رکھیں",
+      "nextLesson": "اگلا سبق: {{lesson}}",
+      "progressLabel": "کورس کی پیش رفت",
+      "pctComplete": "{{pct}}% مکمل",
+      "button": "سیکھنا جاری رکھیں"
+    }
+  }
+}

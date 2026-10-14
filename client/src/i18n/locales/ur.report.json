@@ -1,0 +1,75 @@
+{
+  "report": {
+    "nav": "میری رپورٹ",
+    "title": "میری رپورٹ",
+    "subtitle": "آپ کے کورسز، کوئزز، نمبرات اور سرٹیفکیٹس ایک ہی جگہ۔",
+    "retry": "دوبارہ کوشش کریں",
+    "tabs": {
+      "overview": "جائزہ",
+      "courses": "کورسز",
+      "quizzes": "کوئزز",
+      "marks": "نمبرات",
+      "certificates": "سرٹیفکیٹس"
+    },
+    "overview": {
+      "courses": "داخلہ شدہ کورسز",
+      "completed": "مکمل کورسز",
+      "lessons": "مکمل اسباق",
+      "avgProgress": "اوسط پیش رفت",
+      "quizzesPassed": "پاس کیے کوئزز",
+      "avgScore": "اوسط بہترین اسکور",
+      "certificates": "سرٹیفکیٹس"
+    },
+    "empty": {
+      "title": "ابھی کوئی کورس نہیں",
+      "text": "کسی کورس میں داخلہ لیں تو آپ کی پیش رفت یہاں نظر آئے گی۔"
+    },
+    "emptyQuiz": {
+      "title": "ابھی کوئی کوئز نہیں",
+      "text": "کوئز دینے کے بعد نتائج یہاں نظر آئیں گے۔"
+    },
+    "emptyMarks": {
+      "title": "ابھی کوئی نمبر نہیں",
+      "text": "ہر کوئز کوشش اور اس کے نمبرات یہاں درج ہوں گے۔"
+    },
+    "table": {
+      "course": "کورس",
+      "progress": "پیش رفت",
+      "lessonsDone": "{{total}} میں سے {{done}} سبق",
+      "quizzes": "کوئزز",
+      "quizzesPassed": "{{taken}} میں سے {{passed}} پاس",
+      "avgScore": "اوسط اسکور",
+      "status": "حالت",
+      "quiz": "کوئز",
+      "attempts": "کوششیں",
+      "best": "بہترین اسکور",
+      "pass": "پاس نمبر",
+      "passMark": "{{n}}%",
+      "required": "لازمی",
+      "when": "تاریخ",
+      "marks": "نمبرات",
+      "result": "نتیجہ",
+      "correctOf": "{{total}} میں سے {{correct}} درست"
+    },
+    "status": {
+      "certified": "سرٹیفائیڈ",
+      "ready": "سرٹیفکیٹ کے لیے تیار",
+      "quiz_pending": "کوئز پاس کرنا باقی",
+      "in_progress": "جاری ہے",
+      "not_started": "شروع نہیں ہوا",
+      "passed": "پاس",
+      "not_passed": "پاس نہیں",
+      "not_attempted": "نہیں دیا"
+    },
+    "certs": {
+      "issued": "حاصل شدہ سرٹیفکیٹس",
+      "noneIssued": "ابھی کوئی سرٹیفکیٹ نہیں۔",
+      "issuedOn": "جاری: {{date}}",
+      "pending": "سرٹیفکیٹ کے لیے باقی",
+      "nonePending": "کچھ باقی نہیں۔",
+      "lessonsLeft": "{{n}} سبق باقی",
+      "quizLeft": "کوئز پاس کریں: {{title}}",
+      "claimNow": "تیار ہے۔ سرٹیفکیٹس صفحے سے حاصل کریں۔"
+    }
+  }
+}

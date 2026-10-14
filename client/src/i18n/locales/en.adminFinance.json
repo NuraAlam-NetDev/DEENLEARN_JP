@@ -1,0 +1,46 @@
+{
+  "adminFinance": {
+    "nav": "Payments & reports",
+    "title": "Payments & reports",
+    "subtitle": "Every payment, its status, and revenue.",
+    "tabs": {
+      "transactions": "Transactions",
+      "reports": "Reports"
+    },
+    "searchPlaceholder": "Search by transaction ID or course",
+    "allStatuses": "All statuses",
+    "allMethods": "All methods",
+    "filterStatus": "Filter by status",
+    "filterMethod": "Filter by method",
+    "cols": {
+      "date": "Date",
+      "student": "Student",
+      "course": "Course",
+      "method": "Method",
+      "amount": "Amount",
+      "status": "Status",
+      "txn": "Transaction ID",
+      "month": "Month",
+      "currency": "Currency",
+      "total": "Total",
+      "sold": "Sold",
+      "reviewer": "Reviewed by",
+      "reason": "Reason"
+    },
+    "counts": {
+      "approved": "Approved",
+      "waiting": "Waiting",
+      "rejected": "Rejected",
+      "lost": "Cancelled / failed"
+    },
+    "revenue": "Revenue ({{currency}})",
+    "sold": "{{n}} sold",
+    "noRevenue": "No approved payments yet.",
+    "monthly": "Monthly revenue",
+    "noMonthly": "No revenue months yet.",
+    "topCourses": "Top courses by revenue",
+    "noTop": "No course sales yet.",
+    "emptyTitle": "No payments found",
+    "emptyText": "Try another filter."
+  }
+}

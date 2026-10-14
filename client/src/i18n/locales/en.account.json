@@ -1,0 +1,89 @@
+{
+  "layout": {
+    "portal": {
+      "student": "Student portal",
+      "teacher": "Teacher portal",
+      "admin": "Admin panel"
+    },
+    "loggedOut": "You have been logged out.",
+    "greeting": "Assalamu alaikum, {{name}}",
+    "website": "Website",
+    "openMenu": "Open menu"
+  },
+  "student": {
+    "nav": {
+      "dashboard": "Dashboard",
+      "courses": "My courses",
+      "bookmarks": "Bookmarks",
+      "notes": "My notes",
+      "certificates": "Certificates",
+      "profile": "Profile"
+    },
+    "bookmarks": {
+      "title": "Bookmarks",
+      "subtitle": "Lessons you saved to come back to.",
+      "removed": "Bookmark removed.",
+      "emptyTitle": "No bookmarks yet",
+      "emptyText": "While reading a lesson, tap the bookmark button to save it here.",
+      "goCourses": "Go to my courses",
+      "count_one": "{{count}} bookmark",
+      "count_other": "{{count}} bookmarks",
+      "savedOn": "saved {{date}}",
+      "removeLabel": "Remove bookmark: {{title}}",
+      "removeTitle": "Remove bookmark"
+    },
+    "notes": {
+      "title": "My notes",
+      "subtitle": "Everything you wrote while studying. Only you can see these.",
+      "searchPlaceholder": "Search my notes",
+      "noMatchTitle": "No notes match",
+      "noMatchText": "Try a different word.",
+      "noneTitle": "No notes yet",
+      "noneText": "Open a lesson and use the “My notes” tab to write your first note.",
+      "goCourses": "Go to my courses",
+      "count_one": "{{count}} note",
+      "count_other": "{{count}} notes",
+      "editedOn": "edited {{date}}"
+    },
+    "certificates": {
+      "title": "Certificates",
+      "subtitle": "Finish every lesson of a course to earn a PDF certificate.",
+      "readyHeading": "Ready to claim",
+      "issuedHeading": "Your certificates",
+      "courseCompleted": "Course completed",
+      "nameLabel": "Name to print on the certificate",
+      "nameHint": "Use English letters. You cannot change it after the certificate is issued.",
+      "getCertificate": "Get my certificate",
+      "readyToast": "Your certificate is ready.",
+      "pendingQuiz_one": "Pass the required quiz to unlock this certificate:",
+      "pendingQuiz_other": "Pass the required quizzes to unlock this certificate:",
+      "issued": "Issued {{date}}",
+      "downloadPdf": "Download PDF",
+      "emptyTitle": "No certificates yet",
+      "emptyText": "Complete all the lessons of a course (and pass its required quizzes) and your certificate will appear here.",
+      "continueLearning": "Continue learning"
+    },
+    "profile": {
+      "title": "Profile",
+      "detailsTitle": "Your details",
+      "emailHint": "Your email is your login. It cannot be changed here.",
+      "saveChanges": "Save changes",
+      "saving": "Saving…",
+      "nameUpdated": "Your name has been updated.",
+      "passwordTitle": "Change password",
+      "passwordSubtitle": "You will stay logged in here. Your other devices will be logged out.",
+      "currentPassword": "Current password",
+      "newPassword": "New password",
+      "repeatPassword": "Repeat new password",
+      "changePassword": "Change password",
+      "changing": "Changing…",
+      "passwordChanged": "Your password has been changed. Other devices were logged out.",
+      "statsEnrolled": "Courses enrolled",
+      "statsCompleted": "Courses completed",
+      "statsLessons": "Lessons completed",
+      "statsBookmarks": "Bookmarks",
+      "badge": "Student",
+      "memberSince": "Member since {{date}}"
+    }
+  }
+}

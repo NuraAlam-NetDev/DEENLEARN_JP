@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "main": "主导航",
+    "home": "首页",
+    "courses": "课程",
+    "status": "状态",
+    "design": "设计",
+    "dashboard": "控制台",
+    "logout": "退出登录",
+    "login": "登录",
+    "register": "注册",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单"
+  },
+  "language": {
+    "label": "语言"
+  },
+  "common": {
+    "loading": "加载中…"
+  },
+  "footer": {
+    "tagline": "由认证讲师授课的系统伊斯兰课程，按自己的节奏学习。",
+    "explore": "探索",
+    "home": "首页",
+    "courses": "课程",
+    "systemStatus": "系统状态",
+    "account": "账户",
+    "myDashboard": "我的控制台",
+    "login": "登录",
+    "createAccount": "创建账户",
+    "rights": "© {{year}} Deenlearn. 版权所有。"
+  },
+  "auth": {
+    "loginTitle": "欢迎回来",
+    "loginSubtitle": "登录以继续学习。",
+    "email": "邮箱",
+    "password": "密码",
+    "loginButton": "登录",
+    "loggingIn": "正在登录…",
+    "newHere": "还没有账户？",
+    "createAccount": "创建账户",
+    "registerTitle": "创建您的账户",
+    "registerSubtitle": "注册以学习或教学。",
+    "name": "姓名",
+    "passwordHint": "8至72个字符，需包含字母和数字。",
+    "iWantTo": "我想",
+    "learn": "学习",
+    "teach": "教学",
+    "teacherNote": "教师账户需经管理员审核通过后才能发布课程。",
+    "registerButton": "注册",
+    "creating": "创建中…",
+    "alreadyRegistered": "已经注册？",
+    "welcomeToast": "欢迎来到 Deenlearn！",
+    "accountCreated": "账户已创建",
+    "teacherWaitingToast": "您的教师账户正在等待管理员审核。"
+  }
+}

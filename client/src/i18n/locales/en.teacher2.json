@@ -1,0 +1,84 @@
+{
+  "uploader": {
+    "chooseFiles": "Choose files", "files": "files", "aFile": "a file",
+    "dropHint": "or drop {{what}} here", "maxEach": "max {{max}} MB each",
+    "overLimit": "{{size}} is over the {{max}} MB limit.", "notAllowed": "This file type is not allowed here.",
+    "dismiss": "Dismiss", "cancel": "Cancel", "saving": "Saving…", "uploadingAria": "Uploading {{name}}"
+  },
+  "lessonEditor": {
+    "backToCourse": "Back to course", "newTitle": "New lesson", "editTitle": "Edit lesson", "cancel": "Cancel",
+    "filesTitle": "Files",
+    "filesHint": "PDFs, images, audio and videos (MP3, WAV, OGG, M4A, MP4, WEBM, MOV). Files are saved as soon as they upload.",
+    "maxReached": "This lesson has the maximum number of files. Remove one to add another.",
+    "uploaded": "Uploaded {{name}}", "removed": "File removed", "removeAria": "Remove {{name}}",
+    "lessonTitle": "Lesson title", "videoLink": "Video link (optional)",
+    "videoLinkHint": "YouTube or Vimeo link, or leave empty.",
+    "videoInvalid": "Enter a link starting with http:// or https://",
+    "content": "Content", "unsaved": "Unsaved changes", "saveLesson": "Save lesson", "createLesson": "Create lesson",
+    "saved": "Lesson saved", "created": "Lesson created. You can now attach files.",
+    "saveFirst": "Save the lesson first, then you can attach PDFs, images, audio and videos to it.",
+    "titleRequired": "Title is required", "titleLong": "Title must be at most 150 characters"
+  },
+  "courseManage": {
+    "backToList": "My courses", "toastUnpublished": "Course unpublished", "toastPublished": "Course published",
+    "toastDeleted": "Course deleted", "published": "Published", "draft": "Draft", "editDetails": "Edit details",
+    "unpublish": "Unpublish", "publish": "Publish", "deleteAria": "Delete course", "overview": "Overview",
+    "lessons": "Lessons", "lessonsHint": "Drag the handle to change the order.", "addLesson": "Add lesson",
+    "deleteTitle": "Delete this course?",
+    "deleteText": "The course, all its lessons, files, enrollments and student progress will be deleted. This cannot be undone.",
+    "deleteConfirm": "Delete course",
+    "stats": {
+      "students": "Students", "newThisWeek": "{{n}} new this week", "lessons": "Lessons",
+      "completedCourse": "Completed course", "ofStudents": "of {{n}} students", "avgProgress": "Average progress",
+      "completionsTitle": "Completions per lesson"
+    }
+  },
+  "lessonManager": {
+    "reorderAria": "Reorder lesson {{n}}: {{title}}. Press space, then use the arrow keys.",
+    "filesCount_one": "{{count}} file", "filesCount_other": "{{count}} files",
+    "quiz": "Quiz", "quizAria": "Quiz for {{title}}", "qa": "Q&A", "qaAria": "Questions about {{title}}",
+    "edit": "Edit", "editAria": "Edit {{title}}", "deleteAria": "Delete {{title}}",
+    "orderSaved": "Lesson order saved", "lessonDeleted": "Lesson deleted",
+    "noLessonsTitle": "No lessons yet",
+    "noLessonsText": "Add your first lesson. A course needs at least one lesson before it can be published.",
+    "addLesson": "Add lesson", "listLabel": "Lessons",
+    "deleteTitle": "Delete this lesson?",
+    "deleteText": "“{{title}}” and its uploaded files will be removed. Its quiz, students' progress, notes and questions are deleted too.",
+    "deleteConfirm": "Delete lesson"
+  },
+  "quizEditor": {
+    "back": "Back to course", "title": "Lesson quiz",
+    "problems": {
+      "titleMissing": "Give the quiz a title.",
+      "passInvalid": "Pass mark must be a whole number from 0 to 100.",
+      "needQuestion": "Add at least one question before publishing.",
+      "questionWrite": "Question {{n}}: write the question.",
+      "questionOptions": "Question {{n}}: add at least 2 options.",
+      "questionEmpty": "Question {{n}}: fill in or remove empty options.",
+      "questionCorrect": "Question {{n}}: mark at least one option as correct."
+    },
+    "lessonLabel": "Lesson: {{title}}", "quizTitle": "Quiz title", "passMark": "Pass mark (%)",
+    "required": "Students must pass this quiz",
+    "requiredHint": "They cannot mark the lesson complete, or get the course certificate, until they pass.",
+    "questionN": "Question {{n}}", "moveUp": "Move question {{n}} up", "moveDown": "Move question {{n}} down",
+    "deleteQuestionAria": "Delete question {{n}}", "questionLabel": "Question", "optionsLegend": "Options",
+    "tickCorrect": "(tick every correct one)",
+    "tickMultiple": "(tick every correct one · students will see “select all that apply”)",
+    "optionCorrectAria": "Option {{n}} is correct", "optionTextAria": "Option {{n}} text",
+    "optionPlaceholder": "Option {{n}}", "removeOptionAria": "Remove option {{n}}", "addOption": "Add option",
+    "explanation": "Explanation (optional)", "explanationHint": "Shown to the student after they submit.",
+    "addQuestion": "Add question", "visible": "Visible to students", "draft": "Draft", "delete": "Delete",
+    "unpublish": "Unpublish", "saveDraft": "Save draft", "saveChanges": "Save changes", "savePublish": "Save & publish",
+    "savedPublished": "Quiz saved and visible to students.", "savedDraft": "Quiz saved as a draft.",
+    "deleted": "Quiz deleted", "resultsTitle": "Student results", "noAttempts": "No student has taken this quiz yet.",
+    "summary_one": "{{count}} student · {{pass}}% passed · average best score {{avg}}%",
+    "summary_other": "{{count}} students · {{pass}}% passed · average best score {{avg}}%",
+    "colStudent": "Student", "colBest": "Best", "colAttempts": "Attempts", "colStatus": "Status",
+    "colLast": "Last attempt", "passed": "Passed", "notPassed": "Not passed",
+    "deleteTitle": "Delete this quiz?", "deleteText": "The quiz and every student's attempts will be deleted. This cannot be undone.",
+    "deleteConfirm": "Delete quiz"
+  },
+  "lessonQa": {
+    "back": "Back to course", "title": "Questions & answers", "lesson": "Lesson: {{title}}"
+  }
+}

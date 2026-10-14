@@ -1,0 +1,21 @@
+{
+  "auditLog": {
+    "nav": "审计日志",
+    "title": "审计日志",
+    "subtitle": "管理员和超级管理员做出的每一项更改：谁、做了什么、何时。",
+    "searchPlaceholder": "按操作搜索，例如 ban 或 approve",
+    "from": "从",
+    "to": "到",
+    "fields": "字段：{{list}}",
+    "emptyTitle": "未找到记录",
+    "emptyText": "请尝试其他搜索或日期范围。",
+    "cols": {
+      "when": "时间",
+      "who": "操作人",
+      "action": "操作",
+      "target": "目标 ID",
+      "result": "结果",
+      "ip": "IP"
+    }
+  }
+}

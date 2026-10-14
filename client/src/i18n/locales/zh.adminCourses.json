@@ -1,0 +1,21 @@
+{
+  "adminCourses": {
+    "title": "课程",
+    "subtitle": "课程由讲师创建并发布。管理员可在此隐藏、显示或删除课程。",
+    "empty": "暂无课程",
+    "emptyText": "讲师创建课程后将显示在这里。",
+    "teacherLabel": "讲师：{{name}}",
+    "unknownTeacher": "未知",
+    "published": "已发布",
+    "hidden": "已隐藏 / 草稿",
+    "show": "显示",
+    "hide": "隐藏",
+    "delete": "删除",
+    "confirmHide": "从课程目录中隐藏“{{title}}”？在重新显示之前，学员将看不到该课程。",
+    "confirmShow": "在课程目录中显示“{{title}}”？",
+    "confirmDelete": "永久删除“{{title}}”？课时、报名记录和文件都将被删除。",
+    "shown": "课程已显示",
+    "hiddenToast": "课程已隐藏",
+    "deleted": "课程已删除"
+  }
+}

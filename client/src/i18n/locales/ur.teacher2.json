@@ -1,0 +1,82 @@
+{
+  "uploader": {
+    "chooseFiles": "فائلیں منتخب کریں", "files": "فائلیں", "aFile": "ایک فائل",
+    "dropHint": "یا یہاں {{what}} گھسیٹ کر چھوڑیں", "maxEach": "ہر فائل زیادہ سے زیادہ {{max}} MB",
+    "overLimit": "{{size}} کی فائل {{max}} MB کی حد سے زیادہ ہے۔", "notAllowed": "اس قسم کی فائل یہاں اجازت یافتہ نہیں۔",
+    "dismiss": "ہٹائیں", "cancel": "منسوخ کریں", "saving": "محفوظ ہو رہا ہے…", "uploadingAria": "{{name}} اپ لوڈ ہو رہی ہے"
+  },
+  "lessonEditor": {
+    "backToCourse": "کورس پر واپس", "newTitle": "نیا سبق", "editTitle": "سبق میں ترمیم", "cancel": "منسوخ کریں",
+    "filesTitle": "فائلیں",
+    "filesHint": "PDF، تصاویر، آڈیو اور ویڈیو (MP3، WAV، OGG، M4A، MP4، WEBM، MOV)۔ اپ لوڈ ہوتے ہی فائلیں محفوظ ہو جاتی ہیں۔",
+    "maxReached": "اس سبق میں فائلوں کی زیادہ سے زیادہ تعداد پوری ہو چکی ہے۔ نئی شامل کرنے کے لیے ایک ہٹائیں۔",
+    "uploaded": "{{name}} اپ لوڈ ہو گئی", "removed": "فائل ہٹا دی گئی", "removeAria": "{{name}} ہٹائیں",
+    "lessonTitle": "سبق کا عنوان", "videoLink": "ویڈیو لنک (اختیاری)",
+    "videoLinkHint": "YouTube یا Vimeo کا لنک، یا خالی چھوڑ دیں۔",
+    "videoInvalid": "http:// یا https:// سے شروع ہونے والا لنک درج کریں", "content": "مواد",
+    "unsaved": "غیر محفوظ تبدیلیاں", "saveLesson": "سبق محفوظ کریں", "createLesson": "سبق بنائیں",
+    "saved": "سبق محفوظ ہو گیا", "created": "سبق بن گیا۔ اب آپ فائلیں شامل کر سکتے ہیں۔",
+    "saveFirst": "پہلے سبق محفوظ کریں، پھر اس میں PDF، تصاویر، آڈیو اور ویڈیو شامل کر سکیں گے۔",
+    "titleRequired": "عنوان درکار ہے", "titleLong": "عنوان زیادہ سے زیادہ 150 حروف کا ہو سکتا ہے"
+  },
+  "courseManage": {
+    "backToList": "میرے کورسز", "toastUnpublished": "کورس کی اشاعت منسوخ ہو گئی", "toastPublished": "کورس شائع ہو گیا",
+    "toastDeleted": "کورس حذف ہو گیا", "published": "شائع شدہ", "draft": "مسودہ", "editDetails": "تفصیلات میں ترمیم",
+    "unpublish": "اشاعت منسوخ کریں", "publish": "شائع کریں", "deleteAria": "کورس حذف کریں", "overview": "خلاصہ",
+    "lessons": "اسباق", "lessonsHint": "ترتیب بدلنے کے لیے ہینڈل گھسیٹیں۔", "addLesson": "سبق شامل کریں",
+    "deleteTitle": "یہ کورس حذف کریں؟",
+    "deleteText": "کورس، اس کے تمام اسباق، فائلیں، داخلے اور طلبہ کی پیش رفت حذف ہو جائیں گے۔ یہ واپس نہیں ہو سکتا۔",
+    "deleteConfirm": "کورس حذف کریں",
+    "stats": {
+      "students": "طلبہ", "newThisWeek": "اس ہفتے {{n}} نئے", "lessons": "اسباق", "completedCourse": "کورس مکمل کیا",
+      "ofStudents": "{{n}} طلبہ میں سے", "avgProgress": "اوسط پیش رفت", "completionsTitle": "سبق کے لحاظ سے تکمیل"
+    }
+  },
+  "lessonManager": {
+    "reorderAria": "سبق {{n}} کی ترتیب بدلیں: {{title}}۔ اسپیس دبائیں، پھر تیر کی کلیدیں استعمال کریں۔",
+    "filesCount_one": "{{count}} فائل", "filesCount_other": "{{count}} فائلیں",
+    "quiz": "کوئز", "quizAria": "{{title}} کا کوئز", "qa": "سوال و جواب", "qaAria": "{{title}} کے بارے میں سوالات",
+    "edit": "ترمیم", "editAria": "{{title}} میں ترمیم", "deleteAria": "{{title}} حذف کریں",
+    "orderSaved": "اسباق کی ترتیب محفوظ ہو گئی", "lessonDeleted": "سبق حذف ہو گیا",
+    "noLessonsTitle": "ابھی کوئی سبق نہیں",
+    "noLessonsText": "پہلا سبق شامل کریں۔ شائع کرنے سے پہلے کورس میں کم از کم ایک سبق ہونا ضروری ہے۔",
+    "addLesson": "سبق شامل کریں", "listLabel": "اسباق",
+    "deleteTitle": "یہ سبق حذف کریں؟",
+    "deleteText": "“{{title}}” اور اس کی اپ لوڈ کی ہوئی فائلیں حذف ہو جائیں گی۔ اس کا کوئز، طلبہ کی پیش رفت، نوٹس اور سوالات بھی حذف ہو جائیں گے۔",
+    "deleteConfirm": "سبق حذف کریں"
+  },
+  "quizEditor": {
+    "back": "کورس پر واپس", "title": "سبق کا کوئز",
+    "problems": {
+      "titleMissing": "کوئز کو ایک عنوان دیں۔",
+      "passInvalid": "پاس نمبر 0 سے 100 کے درمیان مکمل عدد ہونا چاہیے۔",
+      "needQuestion": "شائع کرنے سے پہلے کم از کم ایک سوال شامل کریں۔",
+      "questionWrite": "سوال {{n}}: سوال لکھیں۔",
+      "questionOptions": "سوال {{n}}: کم از کم 2 آپشنز شامل کریں۔",
+      "questionEmpty": "سوال {{n}}: خالی آپشنز پُر کریں یا ہٹائیں۔",
+      "questionCorrect": "سوال {{n}}: کم از کم ایک آپشن کو درست نشان زد کریں۔"
+    },
+    "lessonLabel": "سبق: {{title}}", "quizTitle": "کوئز کا عنوان", "passMark": "پاس نمبر (%)",
+    "required": "طلبہ کے لیے یہ کوئز پاس کرنا لازمی ہے",
+    "requiredHint": "پاس ہونے تک وہ سبق مکمل نہیں کر سکیں گے اور نہ ہی کورس کا سرٹیفکیٹ حاصل کر سکیں گے۔",
+    "questionN": "سوال {{n}}", "moveUp": "سوال {{n}} اوپر لے جائیں", "moveDown": "سوال {{n}} نیچے لے جائیں",
+    "deleteQuestionAria": "سوال {{n}} حذف کریں", "questionLabel": "سوال", "optionsLegend": "آپشنز",
+    "tickCorrect": "(تمام درست آپشنز پر نشان لگائیں)",
+    "tickMultiple": "(تمام درست آپشنز پر نشان لگائیں · طلبہ کو “جتنے لاگو ہوں سب منتخب کریں” دکھائی دے گا)",
+    "optionCorrectAria": "آپشن {{n}} درست ہے", "optionTextAria": "آپشن {{n}} کا متن",
+    "optionPlaceholder": "آپشن {{n}}", "removeOptionAria": "آپشن {{n}} ہٹائیں", "addOption": "آپشن شامل کریں",
+    "explanation": "وضاحت (اختیاری)", "explanationHint": "طالب علم جواب جمع کرنے کے بعد یہ دیکھے گا۔",
+    "addQuestion": "سوال شامل کریں", "visible": "طلبہ کو نظر آتا ہے", "draft": "مسودہ", "delete": "حذف کریں",
+    "unpublish": "اشاعت منسوخ کریں", "saveDraft": "مسودہ محفوظ کریں", "saveChanges": "تبدیلیاں محفوظ کریں",
+    "savePublish": "محفوظ کریں اور شائع کریں", "savedPublished": "کوئز محفوظ ہو گیا اور طلبہ کو نظر آ رہا ہے۔",
+    "savedDraft": "کوئز مسودے کے طور پر محفوظ ہو گیا۔", "deleted": "کوئز حذف ہو گیا",
+    "resultsTitle": "طلبہ کے نتائج", "noAttempts": "ابھی تک کسی طالب علم نے یہ کوئز نہیں دیا۔",
+    "summary_one": "{{count}} طالب علم · {{pass}}% پاس · اوسط بہترین اسکور {{avg}}%",
+    "summary_other": "{{count}} طلبہ · {{pass}}% پاس · اوسط بہترین اسکور {{avg}}%",
+    "colStudent": "طالب علم", "colBest": "بہترین", "colAttempts": "کوششیں", "colStatus": "حالت",
+    "colLast": "آخری کوشش", "passed": "پاس", "notPassed": "پاس نہیں",
+    "deleteTitle": "یہ کوئز حذف کریں؟", "deleteText": "کوئز اور تمام طلبہ کی کوششیں حذف ہو جائیں گی۔ یہ واپس نہیں ہو سکتا۔",
+    "deleteConfirm": "کوئز حذف کریں"
+  },
+  "lessonQa": { "back": "کورس پر واپس", "title": "سوال و جواب", "lesson": "سبق: {{title}}" }
+}

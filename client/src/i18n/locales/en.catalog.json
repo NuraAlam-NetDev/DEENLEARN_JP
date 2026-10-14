@@ -1,0 +1,43 @@
+{
+  "courses": {
+    "title": "Courses",
+    "subtitle": "Find a course to start learning.",
+    "searchLabel": "Search courses",
+    "searchPlaceholder": "Search courses by title or description",
+    "clearSearch": "Clear search",
+    "filterLabel": "Filter by category",
+    "all": "All",
+    "found": "Courses found: {{n}}",
+    "clearFilters": "Clear filters",
+    "noMatchTitle": "No courses match your search",
+    "noMatchText": "Try a different word, or remove a filter.",
+    "noneTitle": "No courses yet",
+    "noneText": "Courses will appear here as soon as teachers publish them."
+  },
+  "courseDetail": {
+    "allCourses": "All courses",
+    "notFoundTitle": "Course not found",
+    "notFoundText": "This course does not exist, or it is not published.",
+    "browse": "Browse courses",
+    "loadError": "Could not load this course.",
+    "loginPrompt": "Login or create an account to join this course.",
+    "loginToEnroll": "Login to enroll",
+    "createAccount": "Create an account",
+    "enrolled": "You are enrolled",
+    "progressDone": "Completed: {{done}} / {{total}} lessons",
+    "goDashboard": "Go to my dashboard",
+    "ownCourse": "This is your course. Students see it like this.",
+    "manageCourses": "Manage my courses",
+    "joinPrompt": "Join to unlock all {{n}} lessons and track your progress.",
+    "enrollNow": "Enroll now",
+    "studentsOnly": "Only student accounts can enroll in courses.",
+    "draft": "Draft: only you can see this",
+    "lessonsLabel": "Lessons: {{n}}",
+    "aboutTitle": "About this course",
+    "noDescription": "The teacher has not added a description yet.",
+    "contentTitle": "Course content",
+    "noLessons": "No lessons have been added yet.",
+    "enrolledToast": "You are enrolled in this course.",
+    "alreadyEnrolled": "You are already enrolled."
+  }
+}

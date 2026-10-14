@@ -1,0 +1,89 @@
+{
+  "layout": {
+    "portal": {
+      "student": "طالب علم پورٹل",
+      "teacher": "ٹیچر پورٹل",
+      "admin": "ایڈمن پینل"
+    },
+    "loggedOut": "آپ لاگ آؤٹ ہو گئے ہیں۔",
+    "greeting": "السلام علیکم، {{name}}",
+    "website": "ویب سائٹ",
+    "openMenu": "مینو کھولیں"
+  },
+  "student": {
+    "nav": {
+      "dashboard": "ڈیش بورڈ",
+      "courses": "میرے کورسز",
+      "bookmarks": "بک مارکس",
+      "notes": "میرے نوٹس",
+      "certificates": "سرٹیفکیٹس",
+      "profile": "پروفائل"
+    },
+    "bookmarks": {
+      "title": "بک مارکس",
+      "subtitle": "وہ اسباق جنہیں آپ بعد میں دیکھنے کے لیے محفوظ کیا۔",
+      "removed": "بک مارک ہٹا دیا گیا۔",
+      "emptyTitle": "ابھی کوئی بک مارک نہیں",
+      "emptyText": "سبق پڑھتے ہوئے بک مارک بٹن دبائیں تو وہ یہاں محفوظ ہو جائے گا۔",
+      "goCourses": "میرے کورسز پر جائیں",
+      "count_one": "{{count}} بک مارک",
+      "count_other": "{{count}} بک مارکس",
+      "savedOn": "{{date}} کو محفوظ کیا",
+      "removeLabel": "بک مارک ہٹائیں: {{title}}",
+      "removeTitle": "بک مارک ہٹائیں"
+    },
+    "notes": {
+      "title": "میرے نوٹس",
+      "subtitle": "پڑھائی کے دوران آپ کے لکھے ہوئے نوٹس۔ صرف آپ انہیں دیکھ سکتے ہیں۔",
+      "searchPlaceholder": "میرے نوٹس تلاش کریں",
+      "noMatchTitle": "کوئی نوٹ مماثل نہیں",
+      "noMatchText": "کوئی اور لفظ آزمائیں۔",
+      "noneTitle": "ابھی کوئی نوٹ نہیں",
+      "noneText": "کوئی سبق کھولیں اور “میرے نوٹس” ٹیب سے اپنا پہلا نوٹ لکھیں۔",
+      "goCourses": "میرے کورسز پر جائیں",
+      "count_one": "{{count}} نوٹ",
+      "count_other": "{{count}} نوٹس",
+      "editedOn": "{{date}} کو ترمیم کیا"
+    },
+    "certificates": {
+      "title": "سرٹیفکیٹس",
+      "subtitle": "PDF سرٹیفکیٹ حاصل کرنے کے لیے کورس کے تمام اسباق مکمل کریں۔",
+      "readyHeading": "دعوٰی کے لیے تیار",
+      "issuedHeading": "آپ کے سرٹیفکیٹس",
+      "courseCompleted": "کورس مکمل",
+      "nameLabel": "سرٹیفکیٹ پر چھپنے والا نام",
+      "nameHint": "انگریزی حروف استعمال کریں۔ سرٹیفکیٹ جاری ہونے کے بعد نام تبدیل نہیں ہو سکتا۔",
+      "getCertificate": "میرا سرٹیفکیٹ حاصل کریں",
+      "readyToast": "آپ کا سرٹیفکیٹ تیار ہے۔",
+      "pendingQuiz_one": "یہ سرٹیفکیٹ کھولنے کے لیے یہ کوئز پاس کریں:",
+      "pendingQuiz_other": "یہ سرٹیفکیٹ کھولنے کے لیے یہ کوئزز پاس کریں:",
+      "issued": "جاری: {{date}}",
+      "downloadPdf": "PDF ڈاؤن لوڈ کریں",
+      "emptyTitle": "ابھی کوئی سرٹیفکیٹ نہیں",
+      "emptyText": "کسی کورس کے تمام اسباق (اور ضروری کوئزز) مکمل کریں تو سرٹیفکیٹ یہاں نظر آئے گا۔",
+      "continueLearning": "سیکھنا جاری رکھیں"
+    },
+    "profile": {
+      "title": "پروفائل",
+      "detailsTitle": "آپ کی تفصیلات",
+      "emailHint": "آپ کی ای میل ہی لاگ ان ہے۔ اسے یہاں تبدیل نہیں کیا جا سکتا۔",
+      "saveChanges": "تبدیلیاں محفوظ کریں",
+      "saving": "محفوظ ہو رہا ہے…",
+      "nameUpdated": "آپ کا نام اپ ڈیٹ ہو گیا ہے۔",
+      "passwordTitle": "پاس ورڈ تبدیل کریں",
+      "passwordSubtitle": "آپ یہاں لاگ ان رہیں گے۔ دوسرے آلات لاگ آؤٹ ہو جائیں گے۔",
+      "currentPassword": "موجودہ پاس ورڈ",
+      "newPassword": "نیا پاس ورڈ",
+      "repeatPassword": "نیا پاس ورڈ دوبارہ لکھیں",
+      "changePassword": "پاس ورڈ تبدیل کریں",
+      "changing": "تبدیل ہو رہا ہے…",
+      "passwordChanged": "پاس ورڈ تبدیل ہو گیا ہے۔ دوسرے آلات لاگ آؤٹ ہو گئے ہیں۔",
+      "statsEnrolled": "داخلہ شدہ کورسز",
+      "statsCompleted": "مکمل کورسز",
+      "statsLessons": "مکمل اسباق",
+      "statsBookmarks": "بک مارکس",
+      "badge": "طالب علم",
+      "memberSince": "{{date}} سے رکن"
+    }
+  }
+}

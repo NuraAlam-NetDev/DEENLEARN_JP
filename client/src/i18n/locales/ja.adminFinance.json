@@ -1,0 +1,46 @@
+{
+  "adminFinance": {
+    "nav": "支払いとレポート",
+    "title": "支払いとレポート",
+    "subtitle": "すべての支払い、その状況、売上。",
+    "tabs": {
+      "transactions": "取引",
+      "reports": "レポート"
+    },
+    "searchPlaceholder": "取引IDまたはコースで検索",
+    "allStatuses": "すべての状況",
+    "allMethods": "すべての方法",
+    "filterStatus": "状況で絞り込み",
+    "filterMethod": "方法で絞り込み",
+    "cols": {
+      "date": "日付",
+      "student": "受講者",
+      "course": "コース",
+      "method": "方法",
+      "amount": "金額",
+      "status": "状況",
+      "txn": "取引ID",
+      "month": "月",
+      "currency": "通貨",
+      "total": "合計",
+      "sold": "販売数",
+      "reviewer": "確認者",
+      "reason": "理由"
+    },
+    "counts": {
+      "approved": "承認済み",
+      "waiting": "待機中",
+      "rejected": "却下",
+      "lost": "キャンセル / 失敗"
+    },
+    "revenue": "売上 ({{currency}})",
+    "sold": "{{n}} 件販売",
+    "noRevenue": "承認済みの支払いはまだありません。",
+    "monthly": "月別売上",
+    "noMonthly": "売上のある月はまだありません。",
+    "topCourses": "売上上位のコース",
+    "noTop": "コースの販売はまだありません。",
+    "emptyTitle": "支払いが見つかりません",
+    "emptyText": "別の絞り込みをお試しください。"
+  }
+}

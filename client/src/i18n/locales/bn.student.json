@@ -1,0 +1,44 @@
+{
+  "card": {
+    "enrolled": "ভর্তি হয়েছেন",
+    "lessonsCount_one": "{{count}} টি পাঠ",
+    "lessonsCount_other": "{{count}} টি পাঠ",
+    "lessonsDone_one": "{{count}} টির মধ্যে {{done}} টি সম্পন্ন",
+    "lessonsDone_other": "{{count}} টির মধ্যে {{done}} টি সম্পন্ন",
+    "learners_one": "{{count}} জন শিক্ষার্থী",
+    "learners_other": "{{count}} জন শিক্ষার্থী"
+  },
+  "student": {
+    "home": {
+      "title": "আমার শেখা",
+      "noCoursesTitle": "এখনো কোনো কোর্স নেই",
+      "noCoursesText": "আপনি এখনো কোনো কোর্সে ভর্তি হননি।"
+    },
+    "courses": {
+      "title": "আমার কোর্স",
+      "subtitle": "আপনি যে কোর্সগুলোতে যোগ দিয়েছেন এবং প্রতিটিতে কতদূর এগিয়েছেন।",
+      "searchLabel": "আমার কোর্স খুঁজুন",
+      "searchPlaceholder": "আমার কোর্স খুঁজুন",
+      "clearSearch": "অনুসন্ধান মুছুন",
+      "filterLabel": "অগ্রগতি অনুযায়ী ফিল্টার",
+      "tabAll": "সব",
+      "tabInProgress": "চলমান",
+      "tabCompleted": "সম্পন্ন",
+      "found_one": "{{count}} টি কোর্স",
+      "found_other": "{{count}} টি কোর্স",
+      "clearFilters": "ফিল্টার মুছুন",
+      "noMatchTitle": "কোনো কোর্স মেলেনি",
+      "noMatchText": "অন্য শব্দ দিয়ে চেষ্টা করুন, অথবা একটি ফিল্টার সরান।",
+      "noneTitle": "এখনো কোনো কোর্স নেই",
+      "noneText": "আপনি এখনো কোনো কোর্সে ভর্তি হননি। একটি খুঁজে আজই শুরু করুন।",
+      "browse": "কোর্স দেখুন"
+    },
+    "continue": {
+      "label": "শেখা চালিয়ে যান",
+      "nextLesson": "পরবর্তী পাঠ: {{lesson}}",
+      "progressLabel": "কোর্সের অগ্রগতি",
+      "pctComplete": "{{pct}}% সম্পন্ন",
+      "button": "শেখা চালিয়ে যান"
+    }
+  }
+}
