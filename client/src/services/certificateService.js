@@ -8,7 +8,7 @@ export const claimCertificate = (courseId, recipientName) =>
 
 // Download certificate PDF directly from the backend
 export function downloadCertificate(certificate) {
-  const baseUrl = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+    const baseUrl = import.meta.env.VITE_API_URL || 'https://deenlearn-jp-api.onrender.com';;
 
   const url = `${baseUrl}/api/certificates/${certificate._id}/pdf`;
 

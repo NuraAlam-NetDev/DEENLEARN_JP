@@ -3,7 +3,7 @@ import axios from 'axios';
 // In dev, leave VITE_API_URL empty: Vite proxies /api to the Express server,
 // so cookies are same-origin. In production set it to the API's URL.
 const api = axios.create({
-  baseURL: 'http://localhost:5000/api',
+    baseURL: `${import.meta.env.VITE_API_URL || 'https://deenlearn-jp-api.onrender.com'}/api`,',
   withCredentials: true,
 });
 // AuthContext registers a callback here so a dead session logs the user out of the UI
